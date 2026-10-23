@@ -1,25 +1,5 @@
 # BAB III — METODE PENELITIAN
-> Draf proposal Tugas Akhir (Bab 1–3), Model B kuantitatif primer. Status: DRAF — menunggu kunci pembimbing. Yang belum diputuskan ditandai OPEN/PROPOSED, tidak dikarang.
 
-## 0. Verified-vs-Proposed (Gate Bab 3)
-
-| Kode | Item | Status | Jejak |
-|---|---|---|---|
-| V-PED-03 | Struktur Bab 3: 3.1 Jenis/Sumber dan tahun; 3.2 Populasi/Sampel a-b-c; 3.3 Model dan persamaan; 3.4 Operasionalisasi variabel, dimensi, indikator, dan sumber; 3.5 Analisis validitas/reliabilitas, 4 asumsi klasik, dan software | VERIFIED | PEDOMAN_BAB123_TEMPLATE.md §3 (V-PED-03) merujuk Buku Pedoman [L176–206] dan Model B [L1176–1186] |
-| V-SoT-01 | Y = Continuance Intention to Play; X1 = Influencer Marketing; X2 = eWOM; X3 = Perceived Enjoyment; Objek = Mobile Legends; Populasi = Gen Z; model langsung tanpa moderator/mediator | VERIFIED (dari judul) | SOURCE_OF_TRUTH.md V01–V07 (D01) |
-| K-SoT-01 | Lokasi Indonesia nasional | TERKONFIRMASI user 01-Okt-2026 | SOURCE_OF_TRUTH.md P02 |
-| K-SoT-02 | Metode kuantitatif, kuesioner primer via Google Forms, Model B Data Primer | TERKONFIRMASI user 01-Okt-2026 | SOURCE_OF_TRUTH.md P03 (D04) |
-| P-SoT-04 | Software: Opsi A SPSS regresi vs Opsi B SmartPLS-SEM | PROPOSED/OPEN | SOURCE_OF_TRUTH.md P04; Pedoman contoh software SPSS/Lisrel/Eviews [L206] |
-| P-SoT-06 | Definisi Gen Z, kriteria inklusi, teknik sampling, dan N final | OPEN — DILARANG dikarang | SOURCE_OF_TRUTH.md P06; Template §3.2 butir a-b-c |
-| P-SoT-05 | Tahun data 20xx; fenomena/konteks empiris | OPEN | PEDOMAN [L176–178] mewajibkan tahun ditulis eksplisit; SoT P05 unknown |
-| S-SKA-01 | X1 struktur 3 dimensi (Expertise/Trustworthiness/Attractiveness), 15-butir semantic differential 7-titik | VERIFIED-struktur | KONSTRUK_SKALA.md §1 (Ohanian, 1990) dan §2 |
-| S-SKA-02 | X1 redaksi Indonesia di naskah ini | PROPOSED-UNVERIFIED (adaptasi) | KONSTRUK_SKALA.md §1 baris X1-redaksi dan §2.2 |
-| S-SKA-03 | X2 Opsi A 5-butir perilaku membaca ulasan unidimensional | VERIFIED-konstruk; redaksi PROPOSED-UNVERIFIED | KONSTRUK_SKALA.md §1 (Bambauer-Sachse & Mangold, 2011) dan §3.2 |
-| S-SKA-04 | X2 Opsi B komposit 4-dimensi sebagai satu skala baku | PROPOSED-UNVERIFIED sebagai kesatuan | KONSTRUK_SKALA.md §1 baris X2-paket dan §3.3 |
-| S-SKA-05 | X3 definisi dan 3-butir unidimensional; Y pola intend/predict/plan dan continuance/keep playing | VERIFIED-konstruk; redaksi PROPOSED-UNVERIFIED / ADAPTED (wajib pilot ulang) | KONSTRUK_SKALA.md §1 (Venkatesh, 2000; Venkatesh dan Bala, 2008; Bhattacherjee, 2001; Hsu dan Lu, 2004) dan §4–§5 |
-| S-SKA-06 | Angka α/loading/AVE manapun | TIDAK DIKLAIM — dikosongkan sampai uji pilot/utama | KONSTRUK_SKALA.md §1 baris α dan §6 catatan |
-
----
 
 ## 3.1 Jenis dan Sumber Data
 
@@ -134,12 +114,3 @@ Jalur B — bila Opsi B (SmartPLS-SEM) dipilih:
 
 Alur Bab 4 yang disiapkan untuk konsistensi (tidak dikerjakan pada proposal): gambaran demografi responden, uji validitas, uji reliabilitas, uji asumsi klasik (Jalur A) atau evaluasi outer–inner model (Jalur B), pengujian hipotesis, dan pembahasan.
 
-## Daftar OPEN (wajib dikunci sebelum seminar/lapangan)
-
-1. Tahun data 20xx — diisi tahun riil pengumpulan (Subbab 3.1).
-2. Rentang tahun lahir Generasi Z, kriteria inklusi rinci, dan horizon waktu Y (mis. 3 bulan) — kunci P06 (Subbab 3.2a, 3.4).
-3. Teknik sampling final, prosedur sebar, periode survei, dan pertanyaan saring — persetujuan pembimbing atas usulan purposive (Subbab 3.2b).
-4. N final, kaidah yang dipakai (satu dari tiga opsi), dan taraf signifikansi — kunci P04/P06 (Subbab 3.2c, 3.5).
-5. Software final (SPSS atau SmartPLS) beserta jalur analisis yang dikerjakan — kunci P04 (Subbab 3.5).
-6. Pilihan X2 Opsi A atau Opsi B; pilihan skala X2–X3–Y 5- atau 7-titik; pilihan perlakuan X1 (tetap 7-titik atau diseragamkan) — kunci pembimbing (Subbab 3.4).
-7. Hasil penerjemahan-maju–balik, uji keterbacaan, uji pilot (n, butir gugur, α), bukti permohonan izin adaptasi skala — Lampiran (Subbab 3.4–3.5).

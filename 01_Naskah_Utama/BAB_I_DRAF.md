@@ -1,22 +1,6 @@
 # BAB I PENDAHULUAN — DRAF Proposal
 
-> Goal-link: Proposal Tugas Akhir Bab 1–3 FEB UKRIDA 2023 — SoT v1.0 Pemasaran MLBB Gen Z. Judul kerja: Pengaruh Pemasaran Influencer (*influencer marketing*), Komunikasi Elektronik dari Mulut ke Mulut (*electronic word-of-mouth*), dan Persepsi Kenikmatan (*perceived enjoyment*) terhadap Niat Bermain Berkelanjutan (*continuance intention to play*) Mobile Legends pada Generasi Z. Konsentrasi Manajemen Pemasaran, lokasi Indonesia nasional, metode kuantitatif primer (kuesioner Google Forms, Model B Data Primer).
-> Status draf: PROPOSED — menunggu kunci pembimbing untuk P04/P06 dan fetch penuh E01–E04. Tidak ada angka karangan. Setiap angka di bawah berasal dari EVIDENCE_LEDGER.md §3 yang FETCH OK 200 pada 2026-10-01, atau diberi label [MENUNGGU VERIFIKASI]. Setiap sitasi literatur berasal dari LITERATURE_MATRIX.md yang VERIFIED (S01–S18 dan S-FEB). Tidak ada klaim koefisien (β, t, p, R²) karena full-text belum dibaca.
 
-## 0. Verified-vs-Proposed (Gate Bab 1)
-
-| Kode | Item | Status | Isi beku dan jejak |
-|---|---|---|---|
-| V01–V07 | Y = niat bermain berkelanjutan (*continuance intention to play*); X1 = pemasaran influencer (*influencer marketing*); X2 = komunikasi elektronik dari mulut ke mulut (*electronic word-of-mouth*); X3 = persepsi kenikmatan (*perceived enjoyment*); objek Mobile Legends; populasi Generasi Z; model langsung tiga jalur tanpa moderator/mediator | VERIFIED dari judul (SoT D01) | Spesifikasi statistik PROPOSED menunggu P04 |
-| P01–P03 | Pemasaran; Indonesia nasional; kuantitatif kuesioner primer Google Forms | TERKONFIRMASI user 01-Okt-2026 (SoT D02–D04) | Model B Data Primer |
-| P04 | Perangkat lunak (*software*) analisis: SPSS regresi berganda vs SmartPLS-SEM | PROPOSED/OPEN | Menunggu arahan pembimbing dan lisensi; estimand mengikuti opsi terpilih |
-| P06 | Definisi Generasi Z, kriteria inklusi, dan target N | OPEN | Dilarang dikarang; kandidat 1997–2012 masih [MENUNGGU VERIFIKASI PDF primer] |
-| E01 | Fenomena inti MLBB pada Gen Z Indonesia | inference (proposed) | Triangulasi tidak langsung; BUKAN klaim "X% Gen Z main MLBB" |
-| E02–E03 | Skala baku X1/X2/X3/Y | OPEN | Menunggu sumber skala T2 tervalidasi; Bab 1 tidak mengarang skala |
-| E04 | Rentang lahir Gen Z | fact (proposed, belum final) | Kandidat APJII/BPS 1997–2012, masih sekunder/cuplikan |
-| S01–S18, S-FEB | 18 studi primer dan 1 karya FEB | VERIFIED (S10 parsial: DOI UNVERIFIED) | Arah hanya positif-signifikan/tidak-signifikan/parsial dari abstrak; tanpa angka koefisien |
-
----
 
 ## 1.1 Latar Belakang Penelitian
 
@@ -70,13 +54,4 @@ Penelitian ini memperluas pengujian model konfirmasi ekspektasi (*expectation-co
 
 Bagi pemasar dan penerbit game (termasuk MOONTON), hasil riset memberi panduan alokasi strategi: mengoptimalkan kreator kredibel, mengelola ulasan komunitas, serta meningkatkan kenikmatan bermain. Bagi pembuat konten, hasil riset menegaskan kredibilitas lebih menentukan daripada sekadar jumlah pengikut. Bagi FEB UKRIDA, proposal ini menyajikan bahan kajian empiris pemasaran digital generasi muda yang terstruktur serta patuh pedoman skripsi.
 
----
 
-## Daftar OPEN (wajib dikunci sebelum seminar)
-
-- P04 Perangkat lunak (*software*): SPSS regresi berganda (Y = b0 + b1X1 + b2X2 + b3X3 + e) vs SmartPLS-SEM (laten reflektif) — PROPOSED, menunggu arahan pembimbing dan lisensi. Estimand (koefisien regresi parsial dan R²) mengikuti opsi terpilih.
-- P06 Definisi Generasi Z, kriteria inklusi, dan target N: kandidat lahir 1997–2012 dari APJII via detikInet (sekunder) dan cuplikan BPS daerah — [MENUNGGU VERIFIKASI PDF primer APJII dan publikasi/tabel BPS SUPAS 2025]. Status bermain (pernah/aktif), teknik sampling, dan dasar power: OPEN, dilarang mengarang N.
-- E01 Fenomena inti: tetap inference (proposed) berbasis triangulasi; belum ada fakta "X% Gen Z main MLBB". Butuh fetch penuh: PDF APJII 2025/2026 via survei.apjii.or.id/survei, PDF dan direktori SUPAS 2025, siaran pers BPS Mei 2026, laporan penuh Sensor Tower, halaman primer Esports Charts S15/S16/S17.
-- E02 Skala X1/X2: dimensi/indikator menunggu sumber skala baku T2 tervalidasi; konteks jangkauan iklan hanya pendukung, bukan MAU.
-- E03 Skala X3/Y: dimensi/indikator menunggu sumber skala baku T2 tervalidasi; konteks pasar global/SEA hanya pendukung, bukan populasi nasional.
-- E04 Kohort: samakan definisi APJII vs BPS sebelum sampling kuesioner; kontradiksi diawetkan, diputuskan via D-baru.
