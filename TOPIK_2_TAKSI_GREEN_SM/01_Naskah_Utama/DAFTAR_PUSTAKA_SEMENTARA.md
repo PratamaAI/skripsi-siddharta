@@ -15,15 +15,21 @@ Aaker, D. A. (1996). *Building strong brands*. The Free Press.
 
 Ajzen, I. (1991). The theory of planned behavior. *Organizational Behavior and Human Decision Processes*, 50(2), 179–211. https://doi.org/10.1016/0749-5978(91)90020-T
 
+Badan Pusat Statistik Provinsi DKI Jakarta. (2023). *Provinsi DKI Jakarta dalam angka 2023*. BPS Provinsi DKI Jakarta.
+
 Bauer, R. A. (1960). Consumer behavior as risk taking. In R. S. Hancock (Ed.), *Dynamic Marketing for a Changing World* (pp. 389–398). American Marketing Association.
 
 Cunningham, S. M. (1967). The major dimensions of perceived risk. In D. F. Cox (Ed.), *Risk Taking and Information Handling in Consumer Behavior* (pp. 82–108). Harvard University Press.
+
+Dinas Lingkungan Hidup Provinsi DKI Jakarta, & Vital Strategies. (2020). *Inventarisasi emisi pencemaran udara Provinsi DKI Jakarta*. Dinas Lingkungan Hidup Provinsi DKI Jakarta.
 
 Fakultas Ekonomi dan Bisnis Universitas Kristen Krida Wacana. (2023). *Buku pedoman penyusunan tugas akhir program sarjana* (SK Dekan No. 350a/SK/UKKW/FEB/D/VI/2023). FEB UKRIDA.
 
 Ghozali, I. (2021). *Aplikasi analisis multivariate dengan program IBM SPSS 26* (Edisi ke-10). Badan Penerbit Universitas Diponegoro.
 
 Hair, J. F., Black, W. C., Babin, B. J., & Anderson, R. E. (2019). *Multivariate data analysis* (8th ed.). Cengage Learning.
+
+International Energy Agency. (2023). *Global EV outlook 2023: Catching up with climate targets*. IEA Publications. https://doi.org/10.1787/d4349524-en
 
 Keller, K. L. (1993). Conceptualizing, measuring, and managing customer-based brand equity. *Journal of Marketing*, 57(1), 1–22. https://doi.org/10.1177/002224299305700101
 
@@ -32,6 +38,8 @@ Keller, K. L. (2013). *Strategic brand management: Building, measuring, and mana
 Kotler, P., & Keller, K. L. (2016). *Marketing management* (15th ed.). Pearson Education.
 
 Lemeshow, S., Hosmer, D. W., Klar, J., & Lwanga, S. K. (1997). *Adequacy of sample size in health studies*. John Wiley & Sons.
+
+Pemerintah Provinsi Daerah Khusus Ibukota Jakarta. (2021). *Peraturan Gubernur Daerah Khusus Ibukota Jakarta Nomor 90 Tahun 2021 tentang Rencana Pembangunan Rendah Karbon Daerah yang Berketahanan Iklim*. Berita Daerah Provinsi Daerah Khusus Ibukota Jakarta Tahun 2021 Nomor 62024.
 
 Republik Indonesia. (2019). *Peraturan Presiden Nomor 55 Tahun 2019 tentang Percepatan Program Kendaraan Bermotor Listrik Berbasis Baterai (Battery Electric Vehicle) untuk Transportasi Jalan*. Lembaran Negara Republik Indonesia Tahun 2019 Nomor 146. Sekretariat Negara.
 
