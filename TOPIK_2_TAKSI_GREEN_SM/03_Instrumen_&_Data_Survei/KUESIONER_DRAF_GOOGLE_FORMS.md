@@ -6,7 +6,7 @@
 **Penyusun:** Siddharta Pratama Budiono (NIM: 312023017)  
 **Program Studi:** S1 Manajemen – Konsentrasi Manajemen Pemasaran  
 **Fakultas:** Ekonomi dan Bisnis, Universitas Kristen Krida Wacana (UKRIDA) Jakarta  
-**Dosen Pembimbing:** Dr. Fredella Colline, S.E., M.M.  
+**Dosen Pembimbing:** Dr. Bernardus Wishman Simbora Siregar, S.E, M.E.  
 
 ---
 

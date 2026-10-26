@@ -5,7 +5,7 @@
 **Auditor / Sistem:** Antigravity AI Engineering & Research Audit System  
 **Subjek Penelitian:** Siddharta Pratama Budiono (NIM: 312023017)  
 **Program Studi:** S1 Manajemen – Konsentrasi Manajemen Pemasaran, FEB UKRIDA Jakarta  
-**Dosen Pembimbing:** Dr. Fredella Colline, S.E., M.M.  
+**Dosen Pembimbing:** Dr. Bernardus Wishman Simbora Siregar, S.E, M.E.  
 **Judul Penelitian:**  
 *Pengaruh Brand Image, Brand Trust dan Perceived Safety terhadap Purchase Decision dalam Penggunaan Jasa Taksi Green SM di Wilayah Jakarta Barat*  
 
@@ -108,4 +108,4 @@ Dokumen final proposal skripsi telah berhasil dikompilasi secara otomatis menggu
 ## 5. REKOMENDASI TINDAK LANJUT MAHASISWA
 1. Mahasiswa dapat meninjau naskah Word (`Proposal_Skripsi_Taksi_Green_SM.docx`) dan PDF (`Proposal_Skripsi_Taksi_Green_SM.pdf`) di folder `TOPIK_2_TAKSI_GREEN_SM/01_Naskah_Utama/`.
 2. Menyalin 16 butir pernyataan kuesioner dari berkas `KUESIONER_DRAF_GOOGLE_FORMS.md` ke dalam formulir Google Forms untuk persiapan uji coba survei.
-3. Membaca dan memahami `PANDUAN_TANYA_JAWAB_SEMPRO_TOPIK2.md` untuk menguasai argumentasi akademik saat sesi bimbingan bersama Dr. Fredella Colline, S.E., M.M. maupun saat ujian Seminar Proposal.
+3. Membaca dan memahami `PANDUAN_TANYA_JAWAB_SEMPRO_TOPIK2.md` untuk menguasai argumentasi akademik saat sesi bimbingan bersama Dr. Bernardus Wishman Simbora Siregar, S.E, M.E. maupun saat ujian Seminar Proposal.

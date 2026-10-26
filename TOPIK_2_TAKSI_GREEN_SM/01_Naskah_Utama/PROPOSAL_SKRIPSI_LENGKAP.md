@@ -64,8 +64,8 @@ Menyetujui,
 
 <br><br><br><br>
 
-**(Dr. Fredella Colline, S.E., M.M.)**  
-NIDN: 0315049001  
+**(Dr. Bernardus Wishman Simbora Siregar, S.E, M.E.)**  
+NIDN: ....................................  
 
 <br><br>
 

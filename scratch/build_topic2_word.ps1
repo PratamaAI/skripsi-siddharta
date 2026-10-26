@@ -205,8 +205,8 @@ try {
     Add-PlainPara "Jakarta, 25 Oktober 2026" -alignment 2 -bold $false -size 12 -spaceAfter 12
     Add-PlainPara "Menyetujui," -alignment 2 -bold $false -size 12 -spaceAfter 6
     Add-PlainPara "Dosen Pembimbing," -alignment 2 -bold $false -size 12 -spaceAfter 60
-    Add-PlainPara "(Dr. Fredella Colline, S.E., M.M.)" -alignment 2 -bold $true -size 12 -spaceAfter 4
-    Add-PlainPara "NIDN: 0315049001" -alignment 2 -bold $false -size 11 -spaceAfter 36
+    Add-PlainPara "(Dr. Bernardus Wishman Simbora Siregar, S.E, M.E.)" -alignment 2 -bold $true -size 12 -spaceAfter 4
+    Add-PlainPara "NIDN: ...................................." -alignment 2 -bold $false -size 11 -spaceAfter 36
 
     Add-PlainPara "Mengetahui," -alignment 0 -bold $false -size 12 -spaceAfter 6
     Add-PlainPara "Ketua Program Studi S1 Manajemen FEB UKRIDA," -alignment 0 -bold $false -size 12 -spaceAfter 60

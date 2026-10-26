@@ -6,7 +6,7 @@
 
 - **Judul kerja:** Pengaruh Influencer Marketing, Electronic Word-Of-Mouth, dan Perceived Enjoyment terhadap Intention To Play Mobile Legends pada Generasi Z
 - **Konsentrasi:** Manajemen Pemasaran (TERKONFIRMASI 01-Okt-2026)
-- **Kampus/Pedoman/Pembimbing:** FEB UKRIDA / Pedoman Tugas Akhir 2023 SK Dekan 350a / Dr. Fredella Colline — semuanya ADOPTED-NEEDS-VERIFY
+- **Kampus/Pedoman/Pembimbing:** FEB UKRIDA / Pedoman Tugas Akhir 2023 SK Dekan 350a / Dr. Bernardus Wishman Simbora Siregar, S.E, M.E. (VERIFIED)
 - **Metode:** Kuantitatif, kuesioner primer Google Forms, Indonesia nasional (TERKONFIRMASI). Software: Unknown (opsi SPSS vs SmartPLS-SEM, OPEN).
 
 ## 2. Status Fase (Gate)
