@@ -1,9 +1,8 @@
 try {
-    $word = [System.Runtime.InteropServices.Marshal]::GetActiveObject("Word.Application")
-    Write-Output ("Word Active: " + $word.Documents.Count + " documents open")
-    for ($i=1; $i -le $word.Documents.Count; $i++) {
-        Write-Output ("Doc: " + $word.Documents.Item($i).FullName)
-    }
+    $word = New-Object -ComObject Word.Application
+    Write-Host "Word COM Available: Version $($word.Version)"
+    $word.Quit()
+    [System.Runtime.Interopservices.Marshal]::ReleaseComObject($word) | Out-Null
 } catch {
-    Write-Output ("GetActiveObject error: " + $_.Exception.Message)
+    Write-Host "Word COM not available: $($_.Exception.Message)"
 }

@@ -1,0 +1,173 @@
+﻿
+
+Title   : Analisis Persepsi Kemudahan Penggunaan dan Persepsi Resiko Penggunaan terhadap Keputusan Penggunaan 
+          Financial Technology (Studi Kasus Fintech di Kota Makassar)
+DOI     : 10.31004/riggs.v5i2.6318
+Journal : RIGGS: Journal of Artificial Intelligence and Digital Business
+URL     : https://doi.org/10.31004/riggs.v5i2.6318
+PdfUrl  : https://journal.ilmudata.co.id/index.php/RIGGS/article/download/6318/9785
+
+Title   : ANALYZING ELECTRIC VEHICLE CONSUMER PURCHASE INTENTION USING PERCEIVED VALUE THEORY
+DOI     : 10.24071/icebmr.v3i1.139
+Journal : International Conference on Economics, Business, and Management Research (ICEBMR)
+URL     : https://doi.org/10.24071/icebmr.v3i1.139
+PdfUrl  : https://econference.usd.ac.id/index.php/ICEBMR/article/download/139/131
+
+Title   : Consumers’ Purchase Intention toward Electric Vehicles from the Perspective of Perceived Green Value: An 
+          Empirical Survey from China
+DOI     : 10.3390/wevj15060267
+Journal : World Electric Vehicle Journal
+URL     : https://doi.org/10.3390/wevj15060267
+PdfUrl  : 
+
+Title   : Data-driven Analysis of Taxi and Ride-hailing Services: Case Study in Chengdu, China
+DOI     : 10.59543/comdem.v2i.11363
+Journal : Computer and Decision Making: An International Journal
+URL     : https://doi.org/10.59543/comdem.v2i.11363
+PdfUrl  : 
+
+Title   : Environmental Concern, Green Trust and Perceived Risk as Predictors of Electric Vehicle Purchase Intention 
+          among Prospective Buyers in Delhi-NCR
+DOI     : 10.61336/cjmr.1604.16
+Journal : Canadian Journal of Marketing Research
+URL     : https://doi.org/10.61336/cjmr.1604.16
+PdfUrl  : 
+
+Title   : KEPUTUSAN PENGGUNAAN E-WALLET GOPAY BERDASARKAN PENGARUH KEAMANAN, PERSEPSI KEMUDAHAN DAN PERSEPSI MANFAAT
+DOI     : 10.56127/jukim.v1i05.481
+Journal : Jurnal Ilmiah Multidisiplin
+URL     : https://doi.org/10.56127/jukim.v1i05.481
+PdfUrl  : https://journal.admi.or.id/index.php/JUKIM/article/download/481/572
+
+Title   : Keputusan Penggunaan QRIS Berdasarkan Pengaruh Persepsi Kemudahan dan Keamanan Melalui Persepsi Kepercayaan 
+          Pada GEN_Z di Tawangmangu
+DOI     : 10.33395/jmp.v15i1.16085
+Journal : Jurnal Minfo Polgan
+URL     : https://doi.org/10.33395/jmp.v15i1.16085
+PdfUrl  : https://jurnal.polgan.ac.id/index.php/jmp/article/download/16085/4008
+
+Title   : PENGARUH KEPERCAYAAN, PERSEPSI KEAMANAN, DAN PERSEPSI RESIKO TERHADAP KEPUTUSAN PEMBELIAN ONLINE PADA 
+          MARKETPLACE SHOPEE MENURUT PERSPEKTIF ISLAM (Studi Pada Generasi Z di Bandar Lampung) Pengaruh Kepercayaan, 
+          Persepsi Keamanan, dan Persepsi Resiko Terhadap Keputusan Pembelian Online pada Marketplace Shopee Menurut 
+          Perspektif Islam
+DOI     : 10.56799/jim.v5i9.19474
+Journal : ULIL ALBAB : Jurnal Ilmiah Multidisiplin
+URL     : https://doi.org/10.56799/jim.v5i9.19474
+PdfUrl  : https://al-haramjournal.co.id/JIM/article/download/19474/12808
+
+Title   : Pengaruh Kualitas Pelayanan dan Pengetahuan Konsumen terhadap Keputusan Penggunaan Layanan Ride-Hailing 
+          GrabCar Hemat di Kabupaten Bekasi Pengaruh Kualitas Pelayanan dan Pengetahuan Konsumen terhadap Keputusan 
+          Penggunaan Layanan Ride-Hailing GrabCar Hemat
+DOI     : 10.51903/e-bisnis.v18i2.2583
+Journal : E-BISNIS: JURNAL ILMIAH EKONOMI DAN BISNIS
+URL     : https://doi.org/10.51903/e-bisnis.v18i2.2583
+PdfUrl  : https://journal.stekom.ac.id/index.php/Bisnis/article/download/2583/2045
+
+Title   : PENGARUH PERSEPSI KEGUNAAN, PERSEPSI KEMUDAHAN PENGGUNAAN, PERSEPSI KENYAMANAN, TERHADAP PENGGUNAAN 
+          TRANSPORTASI BERBASIS ONLINE PADA GENERASI MILLENNIAL
+DOI     : 10.32795/widyaakuntansi.v1i2.383
+Journal : Widya Akuntansi dan Keuangan
+URL     : https://doi.org/10.32795/widyaakuntansi.v1i2.383
+PdfUrl  : https://ejournal.unhi.ac.id/index.php/widyaakuntansi/article/download/383/311
+
+Title   : PENGARUH PERSEPSI KEMUDAHAN PENGGUNAAN DAN PERSEPSI KEAMANAN TERHADAP KEPUTUSAN PENGGUNAAN OVO PT VISIONET 
+          DATA INTERNASIONAL (STUDI PADA PENGGUNA OVO DI KOTA SURAKARTA)
+DOI     : 10.14710/jiab.2020.26225
+Journal : Jurnal Ilmu Administrasi Bisnis
+URL     : https://doi.org/10.14710/jiab.2020.26225
+PdfUrl  : https://ejournal3.undip.ac.id/index.php/jiab/article/viewFile/26225/23234
+
+Title   : Pengaruh Persepsi Kemudahan Penggunaan, Persepsi Manfaat, dan Persepsi Risiko Terhadap Keputusan Penggunaan 
+          QRIS untuk Transaksi Pembayaran Pada Mahasiswa Di Solo Raya
+DOI     : 10.31004/riggs.v4i4.4376
+Journal : RIGGS: Journal of Artificial Intelligence and Digital Business
+URL     : https://doi.org/10.31004/riggs.v4i4.4376
+PdfUrl  : https://journal.ilmudata.co.id/index.php/RIGGS/article/download/4376/3363
+
+Title   : PENGARUH PERSEPSI KEMUDAHAN, KEPERCAYAAN, DAN KEAMANAN TERHADAP KEPUTUSAN PENGGUNAAN SHOPEEPAY
+DOI     : 10.29407/yqvwkq34
+Journal : Prosiding Simposium Nasional Manajemen dan Bisnis
+URL     : https://doi.org/10.29407/yqvwkq34
+PdfUrl  : https://proceeding.unpkediri.ac.id/index.php/simanis/article/download/10269/6944
+
+Title   : PENGARUH PERSEPSI MANFAAT, KEMUDAHAN DAN KEAMANAN TERHADAP KEPUTUSAN PENGGUNAAN E-WALLET
+DOI     : 10.35829/econbank.v2i2.100
+Journal : ECONBANK:  Journal of Economics and Banking
+URL     : https://doi.org/10.35829/econbank.v2i2.100
+PdfUrl  : http://jurnal.stiebankbpdjateng.ac.id/jurnal/index.php/econbank/article/download/100/122
+
+Title   : Pengaruh Persepsi Manfaat, Kemudahan, Kepercayaan, dan Keamanan terhadap Keputusan Penggunaan Byond by BSI 
+          pada Dosen UIN STS Jambi
+DOI     : 10.58578/arzusin.v6i4.10306
+Journal : ARZUSIN
+URL     : https://doi.org/10.58578/arzusin.v6i4.10306
+PdfUrl  : https://ejournal.yasin-alsys.org/arzusin/article/download/10306/7518
+
+Title   : PENGARUH PERSEPSI MANFAAT, PERSEPSI KEMUDAHAN, DAN PERSEPSI KEAMANAN TERHADAP KEPUTUSAN PENGGUNAAN APLIKASI 
+          PEMBAYARAN DIGITAL (E-WALLET)
+DOI     : 10.33059/jmas.v4i2.7450
+Journal : Jurnal Mahasiswa Akuntansi Samudra
+URL     : https://doi.org/10.33059/jmas.v4i2.7450
+PdfUrl  : https://ejurnalunsam.id/index.php/jmas/article/download/7450/4032
+
+Title   : PENGARUH PERSEPSI RISIKO, KEPERCAYAAN, DAN KEAMANAN TERHADAP KEPUTUSAN PEMBELIAN ONLINE DI BUKA LAPAK (Studi 
+          Kasus Pada Komunitas Buka Lapak Ponorogo)
+DOI     : 10.24269/iso.v3i1.243.s41
+Journal : 
+URL     : https://doi.org/10.24269/iso.v3i1.243.s41
+PdfUrl  : 
+
+Title   : PENGARUH PERSONAL INNOVATIVENESS, PERCEIVED BENEFITS, DAN SOCIAL INFLUENCE TERHADAP PURCHASE INTENTION 
+          ELECTRIC VEHICLE
+DOI     : 10.37715/jp.v9i2.3993
+Journal : PERFORMA
+URL     : https://doi.org/10.37715/jp.v9i2.3993
+PdfUrl  : https://journal.uc.ac.id/index.php/performa/article/download/3993/3040
+
+Title   : PERSEPSI KEGUNAAN, PERSEPSI KEMUDAHAN DAN PERSEPSI RESIKO PADA PENGGUNAAN  JASA TRANSPORTASI ONLINE
+DOI     : 10.33005/mebis.v3i2.43
+Journal : Jurnal Mebis (Manajemen dan Bisnis)
+URL     : https://doi.org/10.33005/mebis.v3i2.43
+PdfUrl  : http://mebis.upnjatim.ac.id/index.php/mebis/article/download/43/26
+
+Title   : PERSEPSI STAKEHOLDER TERHADAP PENGGUNAAN ROLLER BARRIER DALAM SISTEM KESELAMATAN JALAN DI INDONESIA
+DOI     : 10.36341/racic.v11i1.8123
+Journal : Racic : Rab Construction Research
+URL     : https://doi.org/10.36341/racic.v11i1.8123
+PdfUrl  : https://jurnal.univrab.ac.id/index.php/racic/article/download/8123/3176
+
+Title   : Posturing Consumer Motivation and Electric Vehicle Purchase Intention: Role of Perceived Environmental 
+          Knowledge
+DOI     : 10.2139/ssrn.4002258
+Journal : 
+URL     : https://doi.org/10.2139/ssrn.4002258
+PdfUrl  : 
+
+Title   : Public Transit's Effect on Ride-Hail and Taxi Usage
+DOI     : 10.2139/ssrn.3258592
+Journal : 
+URL     : https://doi.org/10.2139/ssrn.3258592
+PdfUrl  : 
+
+Title   : Ride-Hailing Adoption, Usage Intensity, and Perceived Barriers Among Older Adults: The Role of 
+          Accessibility, Mobility Constraints, and Built Environment Conditions
+DOI     : 10.2139/ssrn.6799579
+Journal : 
+URL     : https://doi.org/10.2139/ssrn.6799579
+PdfUrl  : 
+
+Title   : Ride-hailing versus traditional taxi services
+DOI     : 10.54394/uuay6255
+Journal : 
+URL     : https://doi.org/10.54394/uuay6255
+PdfUrl  : 
+
+Title   : The Influence of Perceived Safety, Service Quality, and Perceived Value on Usage Behavior through Intention 
+          to Use as a Mediator: The Moderating Role of Switching Cost Among Ride-Hailing Users in Indonesia
+DOI     : 10.1109/iciss71466.2026.11715240
+Journal : 2026 13th International Conference on ICT for Smart Society (ICISS)
+URL     : https://doi.org/10.1109/iciss71466.2026.11715240
+PdfUrl  : 
+
+
+
