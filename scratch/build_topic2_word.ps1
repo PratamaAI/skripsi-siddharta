@@ -130,12 +130,14 @@ try {
     Write-Host "Writing Approval Page..."
     Add-PlainPara "LEMBAR PERSETUJUAN PROPOSAL SKRIPSI" -alignment 1 -bold $true -size 14 -spaceAfter 18
     
-    # Borderless 3-column table for perfectly aligned colons
+    # Borderless 3-column table for perfectly aligned colons (regular weight / no bold)
     $rngApproval = $doc.Range($doc.Content.End - 1, $doc.Content.End - 1)
     $tblApproval = $doc.Tables.Add($rngApproval, 6, 3)
     $tblApproval.Borders.Enable = 0
     $tblApproval.Range.Font.Name = "Times New Roman"
     $tblApproval.Range.Font.Size = 12
+    $tblApproval.Range.Font.Bold = 0
+    $tblApproval.Range.Font.Italic = 0
     $tblApproval.Range.ParagraphFormat.SpaceBefore = 0
     $tblApproval.Range.ParagraphFormat.SpaceAfter = 3
     $tblApproval.Range.ParagraphFormat.LineSpacingRule = 0 # single line spacing
@@ -160,16 +162,28 @@ try {
 
     for ($i = 0; $i -lt $appData.Count; $i++) {
         $row = $i + 1
-        $tblApproval.Cell($row, 1).Range.Text = $appData[$i][0]
-        $tblApproval.Cell($row, 2).Range.Text = $appData[$i][1]
-        $tblApproval.Cell($row, 3).Range.Text = $appData[$i][2]
+        $cell1 = $tblApproval.Cell($row, 1)
+        $cell2 = $tblApproval.Cell($row, 2)
+        $cell3 = $tblApproval.Cell($row, 3)
 
-        $tblApproval.Cell($row, 1).Range.ParagraphFormat.Alignment = 0
-        $tblApproval.Cell($row, 2).Range.ParagraphFormat.Alignment = 1
-        $tblApproval.Cell($row, 3).Range.ParagraphFormat.Alignment = 0
+        $cell1.Range.Text = $appData[$i][0]
+        $cell2.Range.Text = $appData[$i][1]
+        $cell3.Range.Text = $appData[$i][2]
+
+        $cell1.Range.Font.Bold = 0
+        $cell2.Range.Font.Bold = 0
+        $cell3.Range.Font.Bold = 0
+
+        $cell1.Range.Font.Italic = 0
+        $cell2.Range.Font.Italic = 0
+        $cell3.Range.Font.Italic = 0
+
+        $cell1.Range.ParagraphFormat.Alignment = 0
+        $cell2.Range.ParagraphFormat.Alignment = 1
+        $cell3.Range.ParagraphFormat.Alignment = 0
     }
 
-    # Format italics for foreign terms in Judul Proposal cell
+    # Format italics for foreign terms in Judul Proposal cell (ensuring bold = 0)
     $cellTitle = $tblApproval.Cell(1, 3).Range
     $terms = @("Brand Image", "Brand Trust", "Perceived Safety", "Purchase Decision", "Green SM")
     foreach ($term in $terms) {
@@ -178,6 +192,7 @@ try {
         $find.Replacement.ClearFormatting()
         $find.Text = $term
         $find.Replacement.Text = "^&"
+        $find.Replacement.Font.Bold = 0
         $find.Replacement.Font.Italic = 1
         $find.Forward = $true
         $find.Wrap = 0

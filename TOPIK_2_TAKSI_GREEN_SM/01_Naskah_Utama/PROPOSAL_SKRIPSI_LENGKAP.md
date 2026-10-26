@@ -44,12 +44,12 @@ Untuk Menyusun Tugas Akhir Sarjana Manajemen
 <br>
 
 | | :---: | :--- |
-| **Judul Proposal** | : | PENGARUH *BRAND IMAGE*, *BRAND TRUST* DAN *PERCEIVED SAFETY* TERHADAP *PURCHASE DECISION* DALAM PENGGUNAAN JASA TAKSI *GREEN SM* DI WILAYAH JAKARTA BARAT |
-| **Nama Mahasiswa** | : | Siddharta Pratama Budiono |
-| **NIM** | : | 312023017 |
-| **Program Studi** | : | S1 Manajemen |
-| **Konsentrasi** | : | Manajemen Pemasaran |
-| **Fakultas** | : | Ekonomi dan Bisnis |
+| Judul Proposal | : | Pengaruh *Brand Image*, *Brand Trust* dan *Perceived Safety* terhadap *Purchase Decision* dalam Penggunaan Jasa Taksi *Green SM* di Wilayah Jakarta Barat |
+| Nama Mahasiswa | : | Siddharta Pratama Budiono |
+| NIM | : | 312023017 |
+| Program Studi | : | S1 Manajemen |
+| Konsentrasi | : | Manajemen Pemasaran |
+| Fakultas | : | Ekonomi dan Bisnis |
 
 <br>
 
