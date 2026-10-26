@@ -32,6 +32,7 @@ try {
             [bool]$bold = $false,
             [bool]$italic = $false,
             [float]$size = 12,
+            [float]$spaceBefore = 0,
             [float]$spaceAfter = 6,
             [float]$firstLineIndent = 0,
             [float]$lineSpacing = 18, # 18pt = 1.5 lines
@@ -44,7 +45,7 @@ try {
         $p.Range.Font.Bold = [int]$bold
         $p.Range.Font.Italic = [int]$italic
         $p.Alignment = $alignment
-        $p.Format.SpaceBefore = 0
+        $p.Format.SpaceBefore = $spaceBefore
         $p.Format.SpaceAfter = $spaceAfter
         $p.Format.FirstLineIndent = $firstLineIndent
         $p.Format.LineSpacing = $lineSpacing
@@ -127,15 +128,64 @@ try {
     Add-PageBreak
 
     Write-Host "Writing Approval Page..."
-    Add-PlainPara "LEMBAR PERSETUJUAN PROPOSAL SKRIPSI" -alignment 1 -bold $true -size 14 -spaceAfter 24
+    Add-PlainPara "LEMBAR PERSETUJUAN PROPOSAL SKRIPSI" -alignment 1 -bold $true -size 14 -spaceAfter 18
     
-    Add-PlainPara "Judul Proposal : Pengaruh Brand Image, Brand Trust dan Perceived Safety terhadap Purchase Decision dalam Penggunaan Jasa Taksi Green SM di Wilayah Jakarta Barat" -alignment 0 -spaceAfter 6
-    Add-PlainPara "Nama Mahasiswa : Siddharta Pratama Budiono" -alignment 0 -bold $false -size 12 -spaceAfter 6
-    Add-PlainPara "NIM            : 312023017" -alignment 0 -bold $false -size 12 -spaceAfter 6
-    Add-PlainPara "Program Studi  : S1 Manajemen" -alignment 0 -bold $false -size 12 -spaceAfter 6
-    Add-PlainPara "Konsentrasi    : Manajemen Pemasaran" -alignment 0 -bold $false -size 12 -spaceAfter 6
-    Add-PlainPara "Fakultas       : Ekonomi dan Bisnis" -alignment 0 -bold $false -size 12 -spaceAfter 24
-    Add-PlainPara "Proposal Skripsi ini telah diperiksa, disetujui, dan dinyatakan layak untuk diajukan dalam Seminar Proposal Skripsi Fakultas Ekonomi dan Bisnis Universitas Kristen Krida Wacana (UKRIDA)." -alignment 3 -bold $false -size 12 -spaceAfter 36 -firstLineIndent (1.25 * 28.3465)
+    # Borderless 3-column table for perfectly aligned colons
+    $rngApproval = $doc.Range($doc.Content.End - 1, $doc.Content.End - 1)
+    $tblApproval = $doc.Tables.Add($rngApproval, 6, 3)
+    $tblApproval.Borders.Enable = 0
+    $tblApproval.Range.Font.Name = "Times New Roman"
+    $tblApproval.Range.Font.Size = 12
+    $tblApproval.Range.ParagraphFormat.SpaceBefore = 0
+    $tblApproval.Range.ParagraphFormat.SpaceAfter = 3
+    $tblApproval.Range.ParagraphFormat.LineSpacingRule = 0 # single line spacing
+
+    $col1W = 3.6 * 28.3465 # ~102 pt
+    $col2W = 0.4 * 28.3465 # ~11.3 pt
+    $col3W = 10.0 * 28.3465 # ~283.5 pt
+
+    $tblApproval.Columns.Item(1).Width = $col1W
+    $tblApproval.Columns.Item(2).Width = $col2W
+    $tblApproval.Columns.Item(3).Width = $col3W
+    $tblApproval.Rows.LeftIndent = 0
+
+    $appData = @(
+        @("Judul Proposal", ":", "Pengaruh Brand Image, Brand Trust dan Perceived Safety terhadap Purchase Decision dalam Penggunaan Jasa Taksi Green SM di Wilayah Jakarta Barat"),
+        @("Nama Mahasiswa", ":", "Siddharta Pratama Budiono"),
+        @("NIM", ":", "312023017"),
+        @("Program Studi", ":", "S1 Manajemen"),
+        @("Konsentrasi", ":", "Manajemen Pemasaran"),
+        @("Fakultas", ":", "Ekonomi dan Bisnis")
+    )
+
+    for ($i = 0; $i -lt $appData.Count; $i++) {
+        $row = $i + 1
+        $tblApproval.Cell($row, 1).Range.Text = $appData[$i][0]
+        $tblApproval.Cell($row, 2).Range.Text = $appData[$i][1]
+        $tblApproval.Cell($row, 3).Range.Text = $appData[$i][2]
+
+        $tblApproval.Cell($row, 1).Range.ParagraphFormat.Alignment = 0
+        $tblApproval.Cell($row, 2).Range.ParagraphFormat.Alignment = 1
+        $tblApproval.Cell($row, 3).Range.ParagraphFormat.Alignment = 0
+    }
+
+    # Format italics for foreign terms in Judul Proposal cell
+    $cellTitle = $tblApproval.Cell(1, 3).Range
+    $terms = @("Brand Image", "Brand Trust", "Perceived Safety", "Purchase Decision", "Green SM")
+    foreach ($term in $terms) {
+        $find = $cellTitle.Find
+        $find.ClearFormatting()
+        $find.Replacement.ClearFormatting()
+        $find.Text = $term
+        $find.Replacement.Text = "^&"
+        $find.Replacement.Font.Italic = 1
+        $find.Forward = $true
+        $find.Wrap = 0
+        $find.MatchCase = $false
+        $find.Execute($term, $false, $false, $false, $false, $false, $true, 0, $true, "^&", 2) | Out-Null
+    }
+
+    Add-PlainPara "Proposal Skripsi ini telah diperiksa, disetujui, dan dinyatakan layak untuk diajukan dalam Seminar Proposal Skripsi Fakultas Ekonomi dan Bisnis Universitas Kristen Krida Wacana (UKRIDA)." -alignment 3 -bold $false -size 12 -spaceBefore 14 -spaceAfter 24 -firstLineIndent (1.25 * 28.3465)
 
     Add-PlainPara "Jakarta, 25 Oktober 2026" -alignment 2 -bold $false -size 12 -spaceAfter 12
     Add-PlainPara "Menyetujui," -alignment 2 -bold $false -size 12 -spaceAfter 6
