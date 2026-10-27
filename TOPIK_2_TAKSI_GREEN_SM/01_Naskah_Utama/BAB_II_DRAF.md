@@ -69,6 +69,8 @@ Berdasarkan kerangka Zeithaml et al. (2023), Tjiptono (2022), Lovelock dan Wirtz
 ## 2.2 Penelitian Terdahulu
 Berikut disajikan tabel sintesis 10 artikel jurnal ilmiah empiris terdahulu yang seluruhnya memiliki struktur model regresi multi-variabel (3X & 1Y), menguji variabel terikat yang sama yaitu *Purchase Decision* (Keputusan Pembelian), serta mengandung setidaknya 2 variabel bebas yang sama dengan penelitian ini:
 
+**Tabel 2.1 Sintesis Penelitian Terdahulu**
+
 | No | Peneliti & Tahun | Judul Penelitian | Variabel Diteliti (Struktur 3X & 1Y) | Sampel & Metode | Temuan Pokok Penelitian |
 |---|---|---|---|---|---|
 | 1 | Wijaya & Pahar (2022) | *Pengaruh Citra Merek, Kepercayaan Merek, dan Keamanan Privasi Terhadap Keputusan Pengguna Gojek* | $X_1$: Citra Merek ($X_1$); $X_2$: Kepercayaan Merek ($X_2$); $X_3$: Keamanan Privasi ($X_3$); $Y$: Keputusan Pengguna Jasa Transportasi ($Y$) | 100 responden transportasi online; Regresi Linear Berganda | Citra Merek, Kepercayaan Merek, dan Keamanan secara simultan dan parsial berpengaruh positif dan signifikan terhadap keputusan penggunaan layanan transportasi publik. |
@@ -115,31 +117,10 @@ Penelitian Wijaya dan Pahar (2022) pada moda transportasi penumpang, Afendi dan 
 
 ## 2.4 Kerangka Pemikiran Konseptual
 
-Berdasarkan tinjauan landasan teori dan perumusan hipotesis penelitian, penelitian ini berfokus pada pengujian pengaruh parsial dari ketiga variabel eksogen (*Brand Image*, *Brand Trust*, dan *Perceived Safety*) terhadap variabel endogen (*Purchase Decision*). Sesuai dengan masukan dosen penguji seminar proposal dan kaidah pemodelan ekonometrika modern, pengujian hipotesis difokuskan pada hubungan kausalitas masing-masing variabel independen terhadap variabel dependen ($H_1, H_2, \text{dan } H_3$ melalui Uji t), sementara pengujian secara simultan (Uji F / ANOVA) diposisikan sebagai uji kelayakan model (*goodness of fit*) untuk memastikan validitas model empiris secara keseluruhan pada Bab III.
+Berdasarkan tinjauan landasan teori dan perumusan hipotesis penelitian, penelitian ini berfokus pada pengujian pengaruh parsial dari ketiga variabel eksogen (*Brand Image*, *Brand Trust*, dan *Perceived Safety*) terhadap variabel endogen (*Purchase Decision*). Sesuai dengan arahan dosen pembimbing, pengujian hipotesis difokuskan secara mendalam pada pembuktian kausalitas masing-masing variabel independen terhadap variabel dependen ($H_1, H_2, \text{dan } H_3$ melalui Uji statistik t) serta evaluasi kemampuan variasi model melalui koefisien determinasi ($R^2$).
 
 Hubungan struktural antara variabel independen (*Brand Image*, *Brand Trust*, *Perceived Safety*) dan variabel dependen (*Purchase Decision*) digambarkan dalam kerangka pemikiran konseptual berikut:
 
-```
-+------------------------------------+
-|         BRAND IMAGE (X1)           |
-| - Corporate Image                  |
-| - User Image                       +---------------------------------------+
-| - Product/Fleet Image              |                                       |
-+------------------------------------+                                       |
-                                                                             | (H1: Positif & Signifikan)
-+------------------------------------+                                       v
-|         BRAND TRUST (X2)           |                             +------------------------------------+
-| - Brand Reliability                +---------------------------->|      PURCHASE DECISION (Y)         |
-| - Brand Benevolence & Integrity    |  (H2: Positif & Signifikan) | - Kemantapan pada Produk/Jasa      |
-| - Driver Competence                |                             | - Pertimbangan Nilai Layanan       |
-+------------------------------------+                             | - Rekomendasi kepada Pihak Lain    |
-                                                                   | - Penggunaan Ulang (Repeat Usage)  |
-+------------------------------------+                             +------------------------------------+
-|       PERCEIVED SAFETY (X3)        |                                       ^
-| - Driving Safety                   |                                       |
-| - Personal Security                +---------------------------------------+
-| - Vehicle Technical Safety (EV)    |       (H3: Positif & Signifikan)
-+------------------------------------+
+![Gambar 2.1 Kerangka Pemikiran Konseptual](images/kerangka_pemikiran.png)
 
-[Catatan: Uji Kelayakan Model (Goodness of Fit / Uji F ANOVA) dianalisis pada Bab III untuk menguji kecocokan model empiris secara keseluruhan].
-```
+**Gambar 2.1 Kerangka Pemikiran Konseptual Penelitian**

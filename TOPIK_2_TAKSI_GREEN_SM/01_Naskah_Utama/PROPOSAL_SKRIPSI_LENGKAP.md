@@ -125,7 +125,7 @@ Mengetahui,
   * 3.5.2 Uji Kualitas Data (Validitas dan Reliabilitas) .......................................................... 35
   * 3.5.3 Uji Asumsi Klasik .............................................................................................. 36
   * 3.5.4 Analisis Regresi Linear Berganda ......................................................................... 38
-  * 3.5.5 Uji Kelayakan Model dan Hipotesis (Koefisien $R^2$, Uji F, Uji t) .............................. 38
+  * 3.5.5 Pengujian Hipotesis dan Koefisien Determinasi ($R^2$ dan Uji t) .............................. 38
 
 ### DAFTAR PUSTAKA ........................................................................................................ 40
 

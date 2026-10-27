@@ -294,14 +294,34 @@ try {
                 }
             }
             
-            if ($trimmed -eq "" -or $trimmed -eq "---") { continue }
+            if ($trimmed -eq "" -or $trimmed -eq "---" -or $trimmed -match '^```') { continue }
             
             # Clean all markdown markers (asterisks, backticks, math signs)
             # This guarantees that the base text is 100% REGULAR / TEGAK!
             $clean = $trimmed -replace '\*\*\*', '' -replace '\*\*', '' -replace '\*', '' -replace '`', '' -replace '\$\$(.*?)\$\$', '$1' -replace '\$(.*?)\$', '$1'
             
+            # Markdown Image: ![alt](path)
+            if ($trimmed -match '^!\[(.*?)\]\((.*?)\)') {
+                $alt = $matches[1]
+                $imgRel = $matches[2]
+                $imgPath = Join-Path $topicDir "01_Naskah_Utama\$imgRel"
+                if (-not (Test-Path $imgPath)) {
+                    $imgPath = Join-Path $topicDir $imgRel
+                }
+                if (Test-Path $imgPath) {
+                    $pImg = $doc.Paragraphs.Add()
+                    $pImg.Alignment = 1 # Center
+                    $pImg.Format.SpaceBefore = 6
+                    $pImg.Format.SpaceAfter = 2
+                    $resolvedPath = [string](Resolve-Path $imgPath).Path
+                    $shp = $pImg.Range.InlineShapes.AddPicture($resolvedPath, $false, $true)
+                    $shp.Width = 15.0 * 28.3465
+                    $shp.Height = ($shp.Width * 1120.0) / 2300.0
+                    $pImg.Range.InsertParagraphAfter()
+                }
+            }
             # Heading 1
-            if ($trimmed -match '^# (.*)') {
+            elseif ($trimmed -match '^# (.*)') {
                 $h = $matches[1] -replace '\*', ''
                 Add-PlainPara $h -alignment 1 -bold $true -italic $false -size 14 -spaceAfter 12 -keepWithNext $true
             }
@@ -325,10 +345,18 @@ try {
                 $bq = $matches[1] -replace '\*', ''
                 Add-PlainPara $bq -alignment 3 -bold $false -italic $true -size 11 -spaceAfter 8 -firstLineIndent (1.25 * 28.3465)
             }
-            # Normal paragraph or list items
+            # Normal paragraph, captions, or list items
             else {
+                # Table Caption: Tabel 2.1 ...
+                if ($clean -match '^(Tabel\s+[0-9\.]+\s+.*)') {
+                    Add-PlainPara $clean -alignment 0 -bold $true -italic $false -size 11 -spaceBefore 10 -spaceAfter 4 -keepWithNext $true
+                }
+                # Figure Caption: Gambar 2.1 ...
+                elseif ($clean -match '^(Gambar\s+[0-9\.]+\s+.*)') {
+                    Add-PlainPara $clean -alignment 1 -bold $true -italic $false -size 11 -spaceBefore 2 -spaceAfter 12
+                }
                 # List items
-                if ($clean -match '^[0-9]+\.\s+(.*)') {
+                elseif ($clean -match '^[0-9]+\.\s+(.*)') {
                     Add-PlainPara $clean -alignment 3 -bold $false -italic $false -size 12 -spaceAfter 4 -firstLineIndent (0.75 * 28.3465)
                 } elseif ($clean -match '^-\s+(.*)') {
                     Add-PlainPara $clean -alignment 3 -bold $false -italic $false -size 12 -spaceAfter 4 -firstLineIndent (0.75 * 28.3465)
@@ -380,6 +408,18 @@ try {
         $tbl.Range.ParagraphFormat.SpaceBefore = 2
         $tbl.Range.ParagraphFormat.SpaceAfter = 2
         $tbl.Range.ParagraphFormat.LineSpacing = 13
+        $tbl.Range.ParagraphFormat.KeepWithNext = 0
+        
+        # Enable natural table pagination across pages (Table 2.1 starts directly on page 18)
+        $tbl.TopPadding = 2.5
+        $tbl.BottomPadding = 2.5
+        $tbl.LeftPadding = 4
+        $tbl.RightPadding = 4
+        
+        foreach ($r in $tbl.Rows) {
+            $r.AllowBreakAcrossPages = -1 # True
+        }
+        $tbl.Rows.Item(1).HeadingFormat = -1 # True (Repeat header on subsequent pages)
         
         for ($rIdx = 0; $rIdx -lt $rowCount; $rIdx++) {
             $isHeader = ($rIdx -eq 0)

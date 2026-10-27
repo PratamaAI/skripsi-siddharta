@@ -148,7 +148,7 @@ Bertujuan untuk menguji apakah dalam model regresi terjadi ketidaksamaan varians
 ---
 
 ### 3.5.4 Analisis Regresi Linear Berganda
-Analisis regresi linear berganda (*multiple linear regression*) digunakan untuk menguji besarnya pengaruh beberapa variabel independen ($X_1, X_2, X_3$) secara simultan maupun parsial terhadap variabel dependen ($Y$). Persamaan regresi linear berganda dirumuskan sebagai berikut:
+Analisis regresi linear berganda (*multiple linear regression*) digunakan untuk menguji besarnya pengaruh parsial dari masing-masing variabel independen ($X_1, X_2, X_3$) terhadap variabel dependen ($Y$). Persamaan regresi linear berganda dirumuskan sebagai berikut:
 
 $$Y = \alpha + \beta_1 X_1 + \beta_2 X_2 + \beta_3 X_3 + e$$
 
@@ -165,18 +165,14 @@ Keterangan:
 
 ---
 
-### 3.5.5 Uji Kelayakan Model dan Pengujian Hipotesis
+### 3.5.5 Pengujian Hipotesis dan Koefisien Determinasi
 
-#### A. Uji Kelayakan Model / Goodness of Fit (Uji Statistik F)
-Uji statistik F (*ANOVA*) dalam penelitian ini difungsikan sebagai **Uji Kelayakan Model (*Goodness of Fit Test*)**, yaitu untuk memastikan apakah model regresi linear berganda yang dibangun layak (*fit*) digunakan untuk memprediksi pengaruh *Brand Image*, *Brand Trust*, dan *Perceived Safety* terhadap *Purchase Decision*.
-- **Kriteria Keputusan:**
-  - Jika $F_{hitung} > F_{tabel}$ atau nilai $\text{Sig.} < 0,05$, maka model regresi dinyatakan **layak (*good fit*)** untuk digunakan dalam pengujian hipotesis penelitian.
-  - Jika $F_{hitung} \le F_{tabel}$ atau nilai $\text{Sig.} \ge 0,05$, maka model regresi dinyatakan **tidak layak (*not fit*)**.
+Pengujian hipotesis dalam penelitian ini difokuskan pada pengujian signifikansi pengaruh individual (parsial) dari variabel independen terhadap variabel dependen melalui uji statistik t, serta evaluasi proporsi daya penjelas model melalui analisis koefisien determinasi ($R^2$). Sesuai dengan arahan dosen pembimbing, pengujian ANOVA / Uji F simultan ditiadakan karena fokus penelitian tertuju secara spesifik pada pengujian kausalitas parsial masing-masing variabel bebas ($X_1, X_2, X_3$) terhadap keputusan pembelian ($Y$).
 
-#### B. Koefisien Determinasi ($R^2$)
+#### A. Koefisien Determinasi ($R^2$)
 Koefisien determinasi ($R^2$ atau *Adjusted* $R^2$) mengukur seberapa jauh proporsi kemampuan model dalam menerangkan variasi variabel dependen. Nilai koefisien determinasi berkisar antara 0 sampai 1 ($0 \le R^2 \le 1$). Nilai *Adjusted* $R^2$ yang semakin mendekati 1 mengindikasikan bahwa variabel-variabel independen (*Brand Image*, *Brand Trust*, dan *Perceived Safety*) memberikan hampir seluruh informasi yang dibutuhkan untuk menjelaskan variasi keputusan pembelian (*Purchase Decision*).
 
-#### C. Pengujian Hipotesis Parsial (Uji Statistik t)
+#### B. Pengujian Hipotesis Parsial (Uji Statistik t)
 Pengujian hipotesis penelitian difokuskan pada pengaruh masing-masing variabel independen secara individual (parsial) terhadap variabel dependen melalui uji statistik t (*t-test*), guna membuktikan hipotesis $H_1, H_2,$ dan $H_3$:
 1. **Pengujian $H_1$:** Pengaruh *Brand Image* ($X_1$) terhadap *Purchase Decision* ($Y$).
 2. **Pengujian $H_2$:** Pengaruh *Brand Trust* ($X_2$) terhadap *Purchase Decision* ($Y$).
