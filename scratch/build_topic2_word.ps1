@@ -266,7 +266,10 @@ try {
         }
     }
 
-    Add-PageBreak
+    # Insert Section Break (Next Page) between preliminary pages (Section 1) and main text (Section 2)
+    # 2 = wdSectionBreakNextPage
+    $pSecBreak = $doc.Paragraphs.Add()
+    $pSecBreak.Range.InsertBreak(2)
 
     # Helper function to append markdown text as clean, regular paragraphs and tables
     function Append-MarkdownFile {
@@ -618,6 +621,49 @@ try {
         $find.MatchWholeWord = $false
         $find.Execute($term, $false, $false, $false, $false, $false, $true, 1, $true, "^&", 2) | Out-Null
     }
+
+    Write-Host "Configuring UKRIDA Standard Page Numbering and Footers..."
+    # Section 1 Setup (Cover, Approval, Table of Contents)
+    # Per UKRIDA Pedoman 2023: Cover page has no number, other preliminary pages have lowercase Roman (ii, iii, ...) at Center Bottom
+    $sec1 = $doc.Sections.Item(1)
+    $sec1.PageSetup.DifferentFirstPageHeaderFooter = $true
+    
+    $footer1 = $sec1.Footers.Item(1) # wdHeaderFooterPrimary
+    $footer1.PageNumbers.RestartNumberingAtSection = $true
+    $footer1.PageNumbers.StartingNumber = 1
+    $footer1.PageNumbers.NumberStyle = 2 # 2 = wdPageNumberStyleLowercaseRoman
+    
+    $fRange1 = $footer1.Range
+    $fRange1.ParagraphFormat.Alignment = 1 # Center
+    $fRange1.Font.Name = "Times New Roman"
+    $fRange1.Font.Size = 10
+    $fRange1.Font.Bold = 0
+    $null = $footer1.Range.Fields.Add($fRange1, 33) # 33 = wdFieldPage
+
+    # Section 2 Setup (Bab I through Lampiran)
+    # Per UKRIDA Pedoman 2023: Bottom Right with text "Universitas Kristen Krida Wacana | [Page Number]" (Times New Roman 10pt Bold)
+    if ($doc.Sections.Count -ge 2) {
+        $sec2 = $doc.Sections.Item(2)
+        $sec2.PageSetup.DifferentFirstPageHeaderFooter = $false
+        
+        $footer2 = $sec2.Footers.Item(1)
+        $footer2.LinkToPrevious = $false
+        $footer2.PageNumbers.RestartNumberingAtSection = $true
+        $footer2.PageNumbers.StartingNumber = 1
+        $footer2.PageNumbers.NumberStyle = 0 # 0 = wdPageNumberStyleArabic
+        
+        $fRange2 = $footer2.Range
+        $fRange2.Text = "Universitas Kristen Krida Wacana | "
+        $fRange2.Font.Name = "Times New Roman"
+        $fRange2.Font.Size = 10
+        $fRange2.Font.Bold = 1
+        $fRange2.ParagraphFormat.Alignment = 2 # 2 = wdAlignParagraphRight
+        
+        $fRange2.Collapse(0) # 0 = wdCollapseEnd
+        $null = $footer2.Range.Fields.Add($fRange2, 33) # 33 = wdFieldPage
+    }
+
+    $doc.Fields.Update() | Out-Null
 
     Write-Host "Saving DOCX to $outDocx..."
     $doc.SaveAs2($outDocx)
