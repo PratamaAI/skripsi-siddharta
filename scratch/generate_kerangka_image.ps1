@@ -10,7 +10,7 @@ public class DiagramGenerator
     public static void Generate(string outputPath)
     {
         int width = 2300;
-        int height = 1120;
+        int height = 980;
         using (Bitmap bmp = new Bitmap(width, height))
         using (Graphics g = Graphics.FromImage(bmp))
         {
@@ -21,72 +21,92 @@ public class DiagramGenerator
 
             g.Clear(Color.White);
 
-            Font fontBoxHeader = new Font("Times New Roman", 17.5f, FontStyle.Bold);
-            Font fontSub = new Font("Times New Roman", 13.5f, FontStyle.Bold);
-            Font fontBody = new Font("Times New Roman", 14f, FontStyle.Regular);
-            Font fontBadgeH = new Font("Times New Roman", 16f, FontStyle.Bold);
-            Font fontBadgeSub = new Font("Times New Roman", 13f, FontStyle.Italic);
-            Font fontNote = new Font("Times New Roman", 12.5f, FontStyle.Italic);
+            Font fontOvalHeader = new Font("Times New Roman", 17f, FontStyle.Bold);
+            Font fontSubTitle = new Font("Times New Roman", 12f, FontStyle.Italic);
+            Font fontBody = new Font("Times New Roman", 13.5f, FontStyle.Regular);
+            Font fontBadgeH = new Font("Times New Roman", 15.5f, FontStyle.Bold);
+            Font fontBadgeSub = new Font("Times New Roman", 12.5f, FontStyle.Italic);
+            Font fontNote = new Font("Times New Roman", 12f, FontStyle.Italic);
 
-            Color navyHeader = Color.FromArgb(20, 50, 95);      // Academic Navy
-            Color boxBg = Color.FromArgb(250, 252, 255);        // Soft blue tint
-            Color greenHeader = Color.FromArgb(20, 90, 50);     // UKRIDA Emerald Green Accent for Y
-            Color yBg = Color.FromArgb(246, 253, 248);          // Soft green tint
-            Color textDark = Color.FromArgb(30, 41, 59);        // Slate-800
-            Color arrowColor = Color.FromArgb(30, 58, 95);      // Arrow Navy
+            Color navyDark = Color.FromArgb(16, 44, 87);        // UKRIDA Deep Navy
+            Color navyBorder = Color.FromArgb(24, 64, 122);     // Border Navy
+            Color ovalBg = Color.FromArgb(248, 251, 255);       // Soft ice tint
+            Color greenDark = Color.FromArgb(20, 85, 45);       // Emerald Green
+            Color greenBorder = Color.FromArgb(24, 105, 55);    // Emerald Border
+            Color greenBg = Color.FromArgb(245, 252, 247);      // Soft sage tint
+            Color textDark = Color.FromArgb(30, 41, 59);        // Slate text
+            Color arrowColor = Color.FromArgb(28, 55, 92);      // Arrow Navy
+            Color dividerColor = Color.FromArgb(203, 213, 225); // Slate-300 divider
 
-            Pen penNavy = new Pen(navyHeader, 3f);
-            Pen penGreen = new Pen(greenHeader, 3f);
+            Pen penNavy = new Pen(navyBorder, 3.2f);
+            Pen penGreen = new Pen(greenBorder, 3.6f);
             Pen penArrow = new Pen(arrowColor, 3.5f);
-            Pen penBadge = new Pen(navyHeader, 1.8f);
+            Pen penBadge = new Pen(navyBorder, 1.8f);
+            Pen penDivider = new Pen(dividerColor, 1.2f);
+            penDivider.DashStyle = DashStyle.Dash;
 
             SolidBrush brushWhite = new SolidBrush(Color.White);
             SolidBrush brushText = new SolidBrush(textDark);
-            SolidBrush brushNavyText = new SolidBrush(navyHeader);
-            SolidBrush brushGreenText = new SolidBrush(greenHeader);
+            SolidBrush brushNavyText = new SolidBrush(navyDark);
+            SolidBrush brushGreenText = new SolidBrush(greenDark);
             SolidBrush brushBadgeBg = new SolidBrush(Color.White);
             SolidBrush brushArrow = new SolidBrush(arrowColor);
 
-            Action<float, float, float, float, Color, Color, Pen, string, string, string[], bool> drawBox = 
-                (x, y, w, h, hCol, bCol, borderPen, title, code, indicators, isY) =>
+            StringFormat sfCenter = new StringFormat
             {
-                float headerH = 62f;
-                using (SolidBrush bBrush = new SolidBrush(bCol))
-                using (SolidBrush hBrush = new SolidBrush(hCol))
+                Alignment = StringAlignment.Center,
+                LineAlignment = StringAlignment.Center
+            };
+
+            StringFormat sfBadgeCenter = new StringFormat
+            {
+                Alignment = StringAlignment.Center,
+                LineAlignment = StringAlignment.Center
+            };
+
+            // Action to draw an oval construct
+            Action<float, float, float, float, Color, Pen, Brush, string, string, string, string[], bool> drawOval = 
+                (x, y, w, h, bgCol, borderPen, hBrush, title, varCode, sub, indicators, isY) =>
+            {
+                // Fill Ellipse
+                using (SolidBrush bgBrush = new SolidBrush(bgCol))
                 {
-                    g.FillRectangle(bBrush, x, y + headerH, w, h - headerH);
-                    g.FillRectangle(hBrush, x, y, w, headerH);
+                    g.FillEllipse(bgBrush, x, y, w, h);
                 }
 
-                g.DrawRectangle(borderPen, x, y, w, h);
-                g.DrawLine(borderPen, x, y + headerH, x + w, y + headerH);
+                // Draw Ellipse Border
+                g.DrawEllipse(borderPen, x, y, w, h);
 
-                StringFormat sfCenter = new StringFormat
+                float centerX = x + w / 2f;
+                float startY = isY ? (y + 40f) : (y + 36f);
+
+                // Title
+                string fullTitle = string.IsNullOrEmpty(varCode) ? title : (title + " (" + varCode + ")");
+                g.DrawString(fullTitle, fontOvalHeader, hBrush, new RectangleF(x + 30f, startY, w - 60f, 28f), sfCenter);
+
+                if (!string.IsNullOrEmpty(sub))
                 {
-                    Alignment = StringAlignment.Center,
-                    LineAlignment = StringAlignment.Center
-                };
+                    startY += 24f;
+                    g.DrawString(sub, fontSubTitle, hBrush, new RectangleF(x + 40f, startY, w - 80f, 22f), sfCenter);
+                }
 
-                string fullTitle = string.IsNullOrEmpty(code) ? title : (title + " (" + code + ")");
-                g.DrawString(fullTitle, fontBoxHeader, brushWhite, new RectangleF(x, y, w, headerH), sfCenter);
+                startY += isY ? 24f : 26f;
 
-                float curY = y + headerH + 16f;
-                float padX = x + 24f;
+                // Subtle Divider Line inside ellipse
+                float divW = isY ? 360f : 300f;
+                g.DrawLine(penDivider, centerX - divW / 2f, startY, centerX + divW / 2f, startY);
+                startY += 12f;
 
-                g.DrawString("Indikator Baku Operasional:", fontSub, isY ? brushGreenText : brushNavyText, padX, curY);
-                curY += 28f;
-
+                // Indicators (centered, with clean dash prefix)
+                float lineH = isY ? 27f : 29f;
                 foreach (var ind in indicators)
                 {
-                    using (SolidBrush dotBrush = new SolidBrush(isY ? greenHeader : navyHeader))
-                    {
-                        g.FillEllipse(dotBrush, padX + 4f, curY + 6f, 6.5f, 6.5f);
-                    }
-                    g.DrawString(ind, fontBody, brushText, new RectangleF(padX + 18f, curY, w - 35f, 36f));
-                    curY += 34f;
+                    g.DrawString("- " + ind, fontBody, brushText, new RectangleF(x + 45f, startY, w - 90f, lineH + 4f), sfCenter);
+                    startY += lineH;
                 }
             };
 
+            // Action to draw connecting arrow with hypothesis pill badge
             Action<float, float, float, float, string, string> drawArrow = 
                 (x1, y1, x2, y2, bH, bSub) =>
             {
@@ -104,90 +124,82 @@ public class DiagramGenerator
                 };
                 g.FillPolygon(brushArrow, arrowPts);
 
-                float bx = x1 + (x2 - x1) * 0.44f;
-                float by = y1 + (y2 - y1) * 0.44f;
+                float bx = x1 + (x2 - x1) * 0.45f;
+                float by = y1 + (y2 - y1) * 0.45f;
                 float bw = 240f;
-                float bh = 60f;
+                float bh = 58f;
 
                 RectangleF bRect = new RectangleF(bx - bw / 2f, by - bh / 2f, bw, bh);
                 g.FillRectangle(brushBadgeBg, bRect);
                 g.DrawRectangle(penBadge, bRect.X, bRect.Y, bRect.Width, bRect.Height);
 
-                StringFormat sfBadge = new StringFormat
-                {
-                    Alignment = StringAlignment.Center,
-                    LineAlignment = StringAlignment.Center
-                };
-
-                g.DrawString(bH, fontBadgeH, brushNavyText, new RectangleF(bRect.X, bRect.Y + 4f, bw, 26f), sfBadge);
-                g.DrawString(bSub, fontBadgeSub, brushText, new RectangleF(bRect.X, bRect.Y + 28f, bw, 26f), sfBadge);
+                g.DrawString(bH, fontBadgeH, brushNavyText, new RectangleF(bRect.X, bRect.Y + 4f, bw, 25f), sfBadgeCenter);
+                g.DrawString(bSub, fontBadgeSub, brushText, new RectangleF(bRect.X, bRect.Y + 28f, bw, 24f), sfBadgeCenter);
             };
 
             // Layout coordinates
-            float boxW = 660f;
-            float boxH = 240f;
-            float xLeft = 100f;
-            float xRight = 1540f;
-            float yBoxW = 660f;
-            float yBoxH = 360f;
+            float ovalW = 670f;
+            float ovalH = 240f;
+            float xLeft = 110f;
+            float xRight = 1520f;
+            float yOvalW = 680f;
+            float yOvalH = 390f;
 
-            // X1
-            float boxY1 = 80f;
-            drawBox(xLeft, boxY1, boxW, boxH, navyHeader, boxBg, penNavy,
-                "BRAND IMAGE", "X1", new string[] {
+            // X1: Brand Image (Oval)
+            float ovalY1 = 40f;
+            drawOval(xLeft, ovalY1, ovalW, ovalH, ovalBg, penNavy, brushNavyText,
+                "BRAND IMAGE", "X1", null, new string[] {
                     "Citra Perusahaan (Corporate Image)",
                     "Citra Pengguna (User Image)",
                     "Citra Armada Listrik (Product Image)"
                 }, false);
 
-            // X2
-            float boxY2 = 360f;
-            drawBox(xLeft, boxY2, boxW, boxH, navyHeader, boxBg, penNavy,
-                "BRAND TRUST", "X2", new string[] {
+            // X2: Brand Trust (Oval)
+            float ovalY2 = 320f;
+            drawOval(xLeft, ovalY2, ovalW, ovalH, ovalBg, penNavy, brushNavyText,
+                "BRAND TRUST", "X2", null, new string[] {
                     "Keandalan Merek (Brand Reliability)",
                     "Itikad Baik & Integritas (Benevolence & Integrity)",
                     "Kompetensi Pengemudi (Driver Competence)"
                 }, false);
 
-            // X3
-            float boxY3 = 640f;
-            drawBox(xLeft, boxY3, boxW, boxH, navyHeader, boxBg, penNavy,
-                "PERCEIVED SAFETY", "X3", new string[] {
+            // X3: Perceived Safety (Oval)
+            float ovalY3 = 600f;
+            drawOval(xLeft, ovalY3, ovalW, ovalH, ovalBg, penNavy, brushNavyText,
+                "PERCEIVED SAFETY", "X3", null, new string[] {
                     "Keselamatan Berkendara (Driving Safety)",
                     "Keamanan Pribadi Penumpang (Personal Security)",
-                    "Keandalan Teknis Armada Listrik (Vehicle EV Safety)"
+                    "Keandalan Teknis Armada Listrik (Vehicle Safety)"
                 }, false);
 
-            // Y (Centered vertically: mid = (80 + 640 + 240) / 2 = 480; yY = 480 - 180 = 300)
-            float yY = 300f;
-            drawBox(xRight, yY, yBoxW, yBoxH, greenHeader, yBg, penGreen,
-                "PURCHASE DECISION", "Y", new string[] {
+            // Y: Purchase Decision (Oval)
+            // Centered vertically relative to X constructs: center Y = (40 + 600 + 240)/2 = 440f
+            float yY = 440f - yOvalH / 2f; // 440 - 195 = 245f
+            drawOval(xRight, yY, yOvalW, yOvalH, greenBg, penGreen, brushGreenText,
+                "PURCHASE DECISION", "Y", "Keputusan Pembelian / Penggunaan Jasa", new string[] {
                     "Kemantapan Menjatuhkan Pilihan pada Green SM",
                     "Kebiasaan & Frekuensi Menggunakan Jasa",
                     "Memberikan Rekomendasi kepada Pihak Lain",
                     "Komitmen Penggunaan Ulang (Repeat Usage)",
-                    "Preferensi Utama Transportasi di Jakarta Barat"
+                    "Preferensi Moda Transportasi di Jakarta Barat"
                 }, true);
 
-            // Arrows
-            float outX = xLeft + boxW;
-            float inX = xRight;
-
+            // Arrows from X Ovals directly to Y Oval perimeter
             // Arrow 1: X1 -> Y
-            drawArrow(outX, boxY1 + boxH / 2f, inX, yY + 70f, "H1 (+)", "Positif & Signifikan");
+            drawArrow(775f, 180f, 1530f, 345f, "H1 (+)", "Positif & Signifikan");
 
-            // Arrow 2: X2 -> Y (Straight horizontal)
-            drawArrow(outX, boxY2 + boxH / 2f, inX, yY + yBoxH / 2f, "H2 (+)", "Positif & Signifikan");
+            // Arrow 2: X2 -> Y (Horizontal)
+            drawArrow(780f, 440f, 1520f, 440f, "H2 (+)", "Positif & Signifikan");
 
             // Arrow 3: X3 -> Y
-            drawArrow(outX, boxY3 + boxH / 2f, inX, yY + yBoxH - 70f, "H3 (+)", "Positif & Signifikan");
+            drawArrow(775f, 700f, 1530f, 535f, "H3 (+)", "Positif & Signifikan");
 
-            // Footnote / Source caption
+            // Footnote / Source caption at bottom
             StringFormat sfBottom = new StringFormat { Alignment = StringAlignment.Center };
             using (SolidBrush brushNote = new SolidBrush(Color.FromArgb(100, 116, 139)))
             {
                 g.DrawString("Sumber: Model Konseptual Penelitian, diadaptasi dari Kotler et al. (2022), Zeithaml et al. (2023), Tjiptono (2022), serta Studi Empiris Terdahulu (2026)",
-                    fontNote, brushNote, width / 2f, 960f, sfBottom);
+                    fontNote, brushNote, width / 2f, 895f, sfBottom);
             }
 
             bmp.Save(outputPath, ImageFormat.Png);
@@ -201,4 +213,4 @@ Add-Type -TypeDefinition $code -ReferencedAssemblies "System.Drawing.dll"
 $outPng = "c:\Users\siddh\OneDrive\Documents\SKRIPSI SIDDHARTA\TOPIK_2_TAKSI_GREEN_SM\01_Naskah_Utama\images\kerangka_pemikiran.png"
 [DiagramGenerator]::Generate($outPng)
 
-Write-Host "Diagram successfully rendered to: $outPng"
+Write-Host "Diagram with oval shapes successfully rendered to: $outPng"

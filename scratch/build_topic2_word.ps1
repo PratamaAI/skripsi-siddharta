@@ -316,7 +316,7 @@ try {
                     $resolvedPath = [string](Resolve-Path $imgPath).Path
                     $shp = $pImg.Range.InlineShapes.AddPicture($resolvedPath, $false, $true)
                     $shp.Width = 15.0 * 28.3465
-                    $shp.Height = ($shp.Width * 1120.0) / 2300.0
+                    $shp.Height = ($shp.Width * 980.0) / 2300.0
                     $pImg.Range.InsertParagraphAfter()
                 }
             }
