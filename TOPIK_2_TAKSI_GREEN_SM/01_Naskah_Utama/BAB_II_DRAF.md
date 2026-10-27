@@ -21,14 +21,7 @@ Menurut Kotler et al. (2022) serta Tjiptono (2022), indikator baku untuk menguku
 
 ---
 
-### 2.1.2 Teori Persepsi Risiko (*Perceived Risk Theory*)
-Konsep persepsi risiko dalam teori perilaku konsumen modern (Kotler et al., 2022; Asnawir & Simanjuntak, 2024; Ardialis & Irfani, 2023) menyatakan bahwa keputusan konsumen melibatkan evaluasi terhadap risiko dalam arti bahwa tindakan apa pun dari konsumen akan menimbulkan konsekuensi yang tidak dapat diantisipasi dengan pasti (*uncertainty*) dan potensi kerugian (*danger/loss*). 
-
-Dalam industri transportasi kendaraan listrik (*electric vehicle*), persepsi risiko berkaitan erat dengan risiko fungsional/teknis (seperti daya tahan baterai, keandalan sistem kelistrikan, dan ketahanan di berbagai kondisi jalan) serta risiko fisik/keselamatan penumpang. Ketika konsumen mempertimbangkan untuk menggunakan moda transportasi baru seperti taksi listrik *Green SM*, evaluasi risiko menjadi pertimbangan mendasar sebelum mengambil keputusan. Mitigasi terhadap persepsi risiko ini melahirkan konsep *Perceived Safety* (Persepsi Keamanan dan Keselamatan) yang menjadi variabel penentu pertimbangan konsumen dalam memutuskan penggunaan jasa (*Purchase Decision*).
-
----
-
-### 2.1.3 Citra Merek (*Brand Image*)
+### 2.1.2 Citra Merek (*Brand Image*)
 Menurut Kotler, Keller, dan Chernev (2022) serta Aaker (2023), citra merek (*brand image*) adalah persepsi tentang suatu merek sebagaimana tercermin oleh sekumpulan asosiasi merek yang tersimpan dalam ingatan kognitif konsumen (*brand associations held in consumer memory*). Asosiasi merek merupakan simpul-simpul informasi yang terhubung dengan simpul merek dalam memori konsumen dan mengandung makna merek bagi konsumen. Citra merek yang kokoh dan positif memberikan keunggulan kompetitif bagi perusahaan karena mampu menyederhanakan pemrosesan informasi bagi konsumen, membedakan produk/jasa dari pesaing, membangkitkan alasan rasional untuk membeli, serta menciptakan asosiasi emosional yang menguntungkan.
 
 Berdasarkan sintesis Kotler, Keller, dan Chernev (2022) serta Aaker (2023), dimensi dan indikator baku *Brand Image* dalam penelitian ini terdiri atas:
@@ -38,7 +31,7 @@ Berdasarkan sintesis Kotler, Keller, dan Chernev (2022) serta Aaker (2023), dime
 
 ---
 
-### 2.1.4 Kepercayaan Merek (*Brand Trust*)
+### 2.1.3 Kepercayaan Merek (*Brand Trust*)
 Kotler, Keller, dan Chernev (2022) serta Adha dan Suhardi (2025) mendefinisikan *Brand Trust* sebagai kesediaan konsumen untuk mempercayai dan mengandalkan kemampuan suatu merek dalam menjalankan fungsi yang telah dinyatakannya secara konsisten (*willingness to rely on the ability of the brand to perform its stated function*). Kepercayaan merupakan variabel relasional yang sangat berharga dalam konteks industri jasa transportasi, di mana konsumen menyerahkan keselamatan fisik dan ketepatan waktu perjalanannya kepada operator penyedia jasa.
 
 Dalam literatur pemasaran relasional mutakhir (Kotler et al., 2022; Hera & Fourqoniah, 2023; Fadila & Wahyuni, 2025), konstruk *brand trust* dibangun melalui dua dimensi utama:
@@ -53,7 +46,7 @@ Dimensi dan indikator baku *Brand Trust* dalam penelitian ini diadaptasi dari Ko
 
 ---
 
-### 2.1.5 Persepsi Keamanan dan Keselamatan (*Perceived Safety*)
+### 2.1.4 Persepsi Keamanan dan Keselamatan (*Perceived Safety*)
 Dalam industri transportasi penumpang, keselamatan merupakan kebutuhan paling mendasar (*core benefit*) yang tidak dapat dikompromikan. Zeithaml, Bitner, dan Gremler (2023) serta Tjiptono (2022) menempatkan dimensi keamanan (*security*) sebagai komponen vital dalam evaluasi mutu jasa, yang mencakup kebebasan dari bahaya, risiko fisik, atau keraguan (*freedom from danger, risk, or doubt*).
 
 Dalam konteks transportasi darat modern, *Perceived Safety* didefinisikan sebagai penilaian subjektif penumpang mengenai sejauh mana perjalanan bersama suatu moda transportasi terlindungi dari ancaman fisik, kecelakaan lalu lintas, tindak kriminalitas, serta kegagalan teknis armada (Wijaya & Pahar, 2022; Adha & Suhardi, 2025). Khusus untuk armada taksi listrik murni (*pure electric vehicle* / *EV*), persepsi keselamatan penumpang memiliki karakteristik unik yang mencakup evaluasi terhadap keandalan teknologi baterai dan sistem keselamatan elektrik kendaraan.
@@ -65,7 +58,7 @@ Berdasarkan kerangka Zeithaml et al. (2023), Tjiptono (2022), Wijaya dan Pahar (
 
 ---
 
-### 2.1.6 Perspektif Dosen Program Studi Manajemen FEB UKRIDA mengenai Citra Merek, Kepercayaan, dan Keputusan Konsumen
+### 2.1.5 Perspektif Dosen Program Studi Manajemen FEB UKRIDA mengenai Citra Merek, Kepercayaan, dan Keputusan Konsumen
 Riset empiris yang dilakukan oleh para Dosen Program Studi Manajemen FEB UKRIDA memberikan sumbangsih analitis yang sangat mendalam dan kontekstual mengenai dinamika perilaku konsumen di DKI Jakarta. Publikasi ilmiah oleh Melitina Tecoalu (2021) dalam studinya mengenai transportasi penumpang berbasis aplikasi (*online transport customer satisfaction in Jakarta region*) membuktikan bahwa reputasi citra perusahaan (*company/brand image*) dan jaminan kualitas layanan secara signifikan memengaruhi evaluasi positif, kepuasan, dan loyalitas konsumen komuter perkotaan di DKI Jakarta.
 
 Lebih lanjut, Tecoalu, Saparso, dan Fernandes (2021) mengonfirmasi bahwa *Brand Image* bertindak sebagai variabel fundamental yang secara langsung mendorong pemantapan keputusan pembelian (*purchasing decisions*) konsumen. Temuan ini diperkuat oleh penelitian Sundah, Tecoalu, dan Wahyoedi (2022) yang membuktikan bahwa faktor *Trust* (kepercayaan konsumen) memegang peranan vital yang secara positif dan signifikan menentukan keputusan pembelian (*purchase decisions*).
