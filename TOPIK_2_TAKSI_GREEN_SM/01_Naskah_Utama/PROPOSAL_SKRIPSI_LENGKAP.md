@@ -162,7 +162,7 @@ Mengetahui,
 *(Mengacu penuh pada naskah Bab I yang memuat Latar Belakang Penelitian makro dan mikro taksi listrik *Green SM* di Jakarta Barat, Perumusan Masalah, Tujuan Penelitian, dan Manfaat Penelitian sesuai Buku Pedoman Penyusunan Tugas Akhir FEB UKRIDA 2023 Model B).*
 
 # BAB II: TINJAUAN PUSTAKA DAN PENGEMBANGAN HIPOTESIS
-*(Mengacu penuh pada naskah Bab II yang memuat *Grand Theory* Kotler & Keller, *Applied Theory* Keller/Aaker, Chaudhuri & Holbrook, Parasuraman/Bauer, sintesis 10 jurnal empiris berstruktur 3X & 1Y, publikasi Dosen Program Studi Manajemen FEB UKRIDA (Tecoalu *et al.*), perumusan hipotesis parsial H1-H3, dan Kerangka Pemikiran Konseptual).*
+*(Mengacu penuh pada naskah Bab II yang memuat *Grand Theory* Kotler et al. (2022), *Applied Theory* Keller/Aaker, Chaudhuri & Holbrook, Parasuraman/Bauer, sintesis 10 jurnal empiris berstruktur 3X & 1Y, publikasi Dosen Program Studi Manajemen FEB UKRIDA (Tecoalu *et al.*), perumusan hipotesis parsial H1-H3, dan Kerangka Pemikiran Konseptual).*
 
 # BAB III: METODOLOGI PENELITIAN
 *(Mengacu penuh pada naskah Bab III yang memuat Objek & Desain Penelitian, Tabel Operasionalisasi Variabel 16 indikator Likert 5-titik, Populasi tak terhingga di Jakarta Barat, *Purposive Sampling* dengan kriteria inklusi, Ukuran Sampel Lemeshow 120-150 responden, Metode Pengumpulan Data *Google Forms*, dan Analisis Regresi Linear Berganda).*

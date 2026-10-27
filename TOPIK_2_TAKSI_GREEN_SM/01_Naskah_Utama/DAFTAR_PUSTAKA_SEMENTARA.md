@@ -37,7 +37,7 @@ Keller, K. L. (1993). Conceptualizing, measuring, and managing customer-based br
 
 Keller, K. L. (2013). *Strategic brand management: Building, measuring, and managing brand equity* (4th ed.). Pearson Education.
 
-Kotler, P., & Keller, K. L. (2016). *Marketing management* (15th ed.). Pearson Education.
+Kotler, P., Keller, K. L., & Chernev, A. (2022). *Marketing management* (16th ed.). Pearson Education.
 
 Lemeshow, S., Hosmer, D. W., Klar, J., & Lwanga, S. K. (1997). *Adequacy of sample size in health studies*. John Wiley & Sons.
 

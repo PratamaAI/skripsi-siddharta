@@ -58,7 +58,7 @@ Matriks ini memuat 17 penelitian empiris terdahulu yang relevan dan telah diundu
 
 ## 4. LANDASAN TEORI UTAMA (*GRAND THEORY* & TEORI PENDUKUNG)
 
-1. **Kotler & Keller (2016)**, *Marketing Management* (15th ed., Pearson):
+1. **Kotler, Keller, & Chernev (2022)**, *Marketing Management* (16th ed., Pearson):
    - **Grand Theory:** *Consumer Decision Making Process* (Pengenalan Kebutuhan $\rightarrow$ Pencarian Informasi $\rightarrow$ Evaluasi Alternatif $\rightarrow$ Keputusan Pembelian $\rightarrow$ Perilaku Pasca Pembelian).
 2. **Keller (1993, 2013)** & **Aaker (1991, 1996)**:
    - **Applied Theory ($X_1$):** *Customer-Based Brand Equity* (CBBE) dan *Brand Image*. Dimensi: Citra Perusahaan (*Corporate Image*), Citra Pemakai (*User Image*), dan Citra Produk/Armada (*Product Image*).
