@@ -36,16 +36,16 @@ Berdasarkan latar belakang konseptual, fenomena persaingan riil di lapangan, ser
 
 ---
 
-## 1.2 Perumusan Masalah
-Berdasarkan latar belakang penelitian yang telah diuraikan, maka perumusan masalah dalam penelitian ini adalah sebagai berikut:
-1. Apakah *Brand Image* berpengaruh positif dan signifikan terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat?
-2. Apakah *Brand Trust* berpengaruh positif dan signifikan terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat?
-3. Apakah *Perceived Safety* berpengaruh positif dan signifikan terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat?
+## 1.2 Rumusan Masalah
+Berdasarkan latar belakang penelitian yang telah diuraikan, maka rumusan masalah dalam penelitian ini adalah sebagai berikut:
+1. Apakah *Brand Image* berpengaruh positif terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat?
+2. Apakah *Brand Trust* berpengaruh positif terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat?
+3. Apakah *Perceived Safety* berpengaruh positif terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat?
 
 ---
 
 ## 1.3 Tujuan Penelitian
-Sesuai dengan perumusan masalah yang diajukan, tujuan dari pelaksanaan penelitian ini adalah:
+Sesuai dengan rumusan masalah yang diajukan, tujuan dari pelaksanaan penelitian ini adalah:
 1. Untuk mengetahui dan menganalisis pengaruh *Brand Image* terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat.
 2. Untuk mengetahui dan menganalisis pengaruh *Brand Trust* terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat.
 3. Untuk mengetahui dan menganalisis pengaruh *Perceived Safety* terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat.

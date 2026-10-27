@@ -72,7 +72,7 @@
 Seluruh berkas naskah utama dan instrumen penelitian telah selesai disusun secara komprehensif:
 
 1. **`01_Naskah_Utama/BAB_I_DRAF.md` (12.783 bytes):**  
-   Memuat Latar Belakang Penelitian (isu polusi Jakarta, Perpres 55/2019, profil armada 100% listrik VinFast VF 5 Green SM, dinamika Jakarta Barat), Perumusan Masalah (3 butir parsial), Tujuan Penelitian (3 butir parsial), dan Manfaat Penelitian (Teoritis & Praktis). Sesuai Buku Pedoman Penyusunan Tugas Akhir FEB UKRIDA 2023 (Model B) dan arahan dosen penguji Sempro, bagian Identifikasi Masalah, Batasan Masalah, serta butir simultan ditiadakan agar fokus pada kausalitas langsung $X \rightarrow Y$.
+   Memuat Latar Belakang Penelitian (isu polusi Jakarta, Perpres 55/2019, profil armada 100% listrik VinFast VF 5 Green SM, dinamika Jakarta Barat), Rumusan Masalah (3 butir parsial), Tujuan Penelitian (3 butir parsial), dan Manfaat Penelitian (Teoritis & Praktis). Sesuai Buku Pedoman Penyusunan Tugas Akhir FEB UKRIDA 2023 (Model B) dan arahan dosen penguji Sempro, bagian Identifikasi Masalah, Batasan Masalah, serta butir simultan ditiadakan agar fokus pada kausalitas langsung $X \rightarrow Y$.
 2. **`01_Naskah_Utama/BAB_II_DRAF.md` (25.427 bytes):**  
    Memuat Landasan Teori (Grand Theory Kotler et al. 2022, Middle Theory TPB Ajzen & Perceived Risk Bauer, Applied Theory Brand Image Keller/Aaker, Brand Trust Chaudhuri & Holbrook, Perceived Safety Parasuraman/Xu, serta riset Dosen Program Studi Manajemen FEB UKRIDA oleh Melitina Tecoalu, S.E., M.M., dkk.), Tabel Matriks 10 Jurnal Empiris Terverifikasi (Model 3X & 1Y), Perumusan Hipotesis Parsial ($H_1, H_2, H_3$), dan Kerangka Pemikiran Konseptual.
 3. **`01_Naskah_Utama/BAB_III_DRAF.md` (19.077 bytes):**  

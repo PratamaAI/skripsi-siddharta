@@ -91,7 +91,7 @@ Mengetahui,
 
 ### BAB I PENDAHULUAN
 * 1.1 Latar Belakang Penelitian ....................................................................................... 1
-* 1.2 Perumusan Masalah .............................................................................................. 6
+* 1.2 Rumusan Masalah ................................................................................................... 6
 * 1.3 Tujuan Penelitian ................................................................................................ 7
 * 1.4 Manfaat Penelitian ............................................................................................... 7
   * 1.4.1 Manfaat Teoritis ............................................................................................. 7
@@ -159,7 +159,7 @@ Mengetahui,
 ---
 
 # BAB I: PENDAHULUAN
-*(Mengacu penuh pada naskah Bab I yang memuat Latar Belakang Penelitian makro dan mikro taksi listrik *Green SM* di Jakarta Barat, Perumusan Masalah, Tujuan Penelitian, dan Manfaat Penelitian sesuai Buku Pedoman Penyusunan Tugas Akhir FEB UKRIDA 2023 Model B).*
+*(Mengacu penuh pada naskah Bab I yang memuat Latar Belakang Penelitian makro dan mikro taksi listrik *Green SM* di Jakarta Barat, Rumusan Masalah, Tujuan Penelitian, dan Manfaat Penelitian sesuai Buku Pedoman Penyusunan Tugas Akhir FEB UKRIDA 2023 Model B).*
 
 # BAB II: TINJAUAN PUSTAKA DAN PENGEMBANGAN HIPOTESIS
 *(Mengacu penuh pada naskah Bab II yang memuat *Grand Theory* Kotler et al. (2022), *Applied Theory* Keller/Aaker, Chaudhuri & Holbrook, Parasuraman/Bauer, sintesis 10 jurnal empiris berstruktur 3X & 1Y, publikasi Dosen Program Studi Manajemen FEB UKRIDA (Tecoalu *et al.*), perumusan hipotesis parsial H1-H3, dan Kerangka Pemikiran Konseptual).*
