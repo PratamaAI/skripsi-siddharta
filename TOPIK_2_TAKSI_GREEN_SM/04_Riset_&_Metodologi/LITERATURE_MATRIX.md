@@ -60,7 +60,7 @@ Matriks ini memuat 17 penelitian empiris terdahulu yang relevan dan telah diundu
 
 1. **Kotler, Keller, & Chernev (2022)**, *Marketing Management* (16th ed., Pearson):
    - **Grand Theory:** *Consumer Decision Making Process* (Pengenalan Kebutuhan $\rightarrow$ Pencarian Informasi $\rightarrow$ Evaluasi Alternatif $\rightarrow$ Keputusan Pembelian $\rightarrow$ Perilaku Pasca Pembelian).
-2. **Keller (1993, 2013)** & **Aaker (1991, 1996)**:
+2. **Keller (1993)**, **Keller & Swaminathan (2020)** & **Aaker (1991, 1996)**:
    - **Applied Theory ($X_1$):** *Customer-Based Brand Equity* (CBBE) dan *Brand Image*. Dimensi: Citra Perusahaan (*Corporate Image*), Citra Pemakai (*User Image*), dan Citra Produk/Armada (*Product Image*).
 3. **Chaudhuri & Holbrook (2001)** & **Delgado-Ballester et al. (2003)**:
    - **Applied Theory ($X_2$):** *Brand Trust Model*. Dimensi: Keandalan Merek (*Brand Reliability*), Integritas Perusahaan (*Brand Integrity/Benevolence*), dan Kepercayaan terhadap Layanan Mitra Pengemudi.

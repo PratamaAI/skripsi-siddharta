@@ -35,7 +35,7 @@ International Energy Agency. (2023). *Global EV outlook 2023: Catching up with c
 
 Keller, K. L. (1993). Conceptualizing, measuring, and managing customer-based brand equity. *Journal of Marketing*, 57(1), 1–22. https://doi.org/10.1177/002224299305700101
 
-Keller, K. L. (2013). *Strategic brand management: Building, measuring, and managing brand equity* (4th ed.). Pearson Education.
+Keller, K. L., & Swaminathan, V. (2020). *Strategic brand management: Building, measuring, and managing brand equity* (5th ed.). Pearson Education.
 
 Kotler, P., Keller, K. L., & Chernev, A. (2022). *Marketing management* (16th ed.). Pearson Education.
 
