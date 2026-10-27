@@ -103,8 +103,7 @@ Mengetahui,
   * 2.1.2 Citra Merek (*Brand Image*) ................................................................................ 12
   * 2.1.3 Kepercayaan Merek (*Brand Trust*) ....................................................................... 14
   * 2.1.4 Persepsi Keamanan dan Keselamatan (*Perceived Safety*) ......................................... 16
-  * 2.1.5 Perspektif Dosen Program Studi Manajemen FEB UKRIDA ......................................... 18
-* 2.2 Penelitian Terdahulu ................................................................................................. 19
+* 2.2 Penelitian Terdahulu ................................................................................................. 18
 * 2.3 Pengembangan Hipotesis Penelitian ........................................................................... 23
   * 2.3.1 Pengaruh *Brand Image* terhadap *Purchase Decision* ($H_1$) .................................... 23
   * 2.3.2 Pengaruh *Brand Trust* terhadap *Purchase Decision* ($H_2$) ..................................... 24
@@ -159,7 +158,7 @@ Mengetahui,
 *(Mengacu penuh pada naskah Bab I yang memuat Latar Belakang Penelitian makro dan mikro taksi listrik *Green SM* di Jakarta Barat, Rumusan Masalah, Tujuan Penelitian, dan Manfaat Penelitian sesuai Buku Pedoman Penyusunan Tugas Akhir FEB UKRIDA 2023 Model B).*
 
 # BAB II: TINJAUAN PUSTAKA DAN PENGEMBANGAN HIPOTESIS
-*(Mengacu penuh pada naskah Bab II yang memuat *Grand Theory* Kotler et al. (2022), teori *Applied* Citra Merek, Kepercayaan Merek, dan Persepsi Keamanan, sintesis 10 jurnal empiris berstruktur 3X & 1Y, publikasi Dosen Program Studi Manajemen FEB UKRIDA (Tecoalu *et al.*, 2021; Sundah *et al.*, 2022), perumusan hipotesis parsial H1-H3, dan Kerangka Pemikiran Konseptual).*
+*(Mengacu penuh pada naskah Bab II yang memuat *Grand Theory* Kotler et al. (2022), teori *Applied* Citra Merek, Kepercayaan Merek, dan Persepsi Keamanan, sintesis 10 jurnal empiris berstruktur 3X & 1Y, perumusan hipotesis parsial H1-H3, dan Kerangka Pemikiran Konseptual).*
 
 # BAB III: METODOLOGI PENELITIAN
 *(Mengacu penuh pada naskah Bab III yang memuat Objek & Desain Penelitian, Tabel Operasionalisasi Variabel 16 indikator Likert 5-titik, Populasi tak terhingga di Jakarta Barat, *Purposive Sampling* dengan kriteria inklusi, Ukuran Sampel Lemeshow 120-150 responden, Metode Pengumpulan Data *Google Forms*, dan Analisis Regresi Linear Berganda).*

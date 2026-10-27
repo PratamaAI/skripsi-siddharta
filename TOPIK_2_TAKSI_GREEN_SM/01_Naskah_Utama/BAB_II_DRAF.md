@@ -66,15 +66,6 @@ Berdasarkan kerangka Zeithaml et al. (2023), Tjiptono (2022), Lovelock dan Wirtz
 
 ---
 
-### 2.1.5 Perspektif Dosen Program Studi Manajemen FEB UKRIDA mengenai Citra Merek, Kepercayaan, dan Keputusan Konsumen
-Riset empiris yang dilakukan oleh para Dosen Program Studi Manajemen FEB UKRIDA memberikan sumbangsih analitis yang sangat mendalam dan kontekstual mengenai dinamika perilaku konsumen di DKI Jakarta. Publikasi ilmiah oleh Melitina Tecoalu (2021) dalam studinya mengenai transportasi penumpang berbasis aplikasi (*online transport customer satisfaction in Jakarta region*) membuktikan bahwa reputasi citra perusahaan (*company/brand image*) dan jaminan kualitas layanan secara signifikan memengaruhi evaluasi positif, kepuasan, dan loyalitas konsumen komuter perkotaan di DKI Jakarta.
-
-Lebih lanjut, Tecoalu, Saparso, dan Fernandes (2021) mengonfirmasi bahwa *Brand Image* bertindak sebagai variabel fundamental yang secara langsung mendorong pemantapan keputusan pembelian (*purchasing decisions*) konsumen. Temuan ini diperkuat oleh penelitian Sundah, Tecoalu, dan Wahyoedi (2022) yang membuktikan bahwa faktor *Trust* (kepercayaan konsumen) memegang peranan vital yang secara positif dan signifikan menentukan keputusan pembelian (*purchase decisions*).
-
-Integrasi temuan para akademisi FEB UKRIDA ini memberikan fondasi empiris yang sangat kuat dan relevan bagi penelitian ini: keputusan masyarakat Jakarta Barat untuk beralih dan menggunakan armada taksi listrik *Green SM* sangat ditentukan oleh pembentukan *Brand Image* yang ramah lingkungan, penanaman *Brand Trust* yang kokoh terhadap keandalan operasional armada, serta jaminan perlindungan fisik dan keselamatan berkendara (*Perceived Safety*) selama di perjalanan.
-
----
-
 ## 2.2 Penelitian Terdahulu
 Berikut disajikan tabel sintesis 10 artikel jurnal ilmiah empiris terdahulu yang seluruhnya memiliki struktur model regresi multi-variabel (3X & 1Y), menguji variabel terikat yang sama yaitu *Purchase Decision* (Keputusan Pembelian), serta mengandung setidaknya 2 variabel bebas yang sama dengan penelitian ini:
 
