@@ -490,6 +490,10 @@ try {
         "regenerative braking",
         "eco-friendly",
         "tech-savvy",
+        "human error",
+        "pre-research survey",
+        "purchase decision gap",
+        "dependent variable",
         
         # Theories & sub-dimensions
         "Customer-Based Brand Equity",

@@ -33,9 +33,13 @@ Hair, J. F., Black, W. C., Babin, B. J., & Anderson, R. E. (2019). *Multivariate
 
 International Energy Agency. (2023). *Global EV outlook 2023: Catching up with climate targets*. IEA Publications. https://doi.org/10.1787/d4349524-en
 
+Katadata. (2025). *Tantangan adaptasi teknologi dan dinamika operasional taksi listrik di Jakarta*. Katadata Indonesia. https://katadata.co.id
+
 Keller, K. L. (1993). Conceptualizing, measuring, and managing customer-based brand equity. *Journal of Marketing*, 57(1), 1–22. https://doi.org/10.1177/002224299305700101
 
 Keller, K. L., & Swaminathan, V. (2020). *Strategic brand management: Building, measuring, and managing brand equity* (5th ed.). Pearson Education.
+
+Kompas. (2025). *Evaluasi keselamatan berkendara dan kesiapan pengemudi angkutan listrik komersial di ibu kota*. Kompas.com. https://otomotif.kompas.com
 
 Kotler, P., Keller, K. L., & Chernev, A. (2022). *Marketing management* (16th ed.). Pearson Education.
 

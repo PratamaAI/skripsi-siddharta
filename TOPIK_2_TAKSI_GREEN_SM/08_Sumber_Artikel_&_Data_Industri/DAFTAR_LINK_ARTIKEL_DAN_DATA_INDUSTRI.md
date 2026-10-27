@@ -79,6 +79,23 @@ Dokumen ini menghimpun seluruh tautan (*link*), rujukan publikasi riset pasar, l
 
 ---
 
+### 2.4 Katadata Indonesia (2025) – Tantangan Adaptasi Teknologi & Insiden Pengemudi Taksi Listrik
+* **Judul Artikel:** *Tantangan Adaptasi Teknologi dan Dinamika Operasional Taksi Listrik di Jakarta*
+* **Fakta / Temuan Kunci:**
+  * Menyoroti masa transisi pengemudi dari mobil manual konvensional ke mobil listrik (EV) dengan akselerasi instan yang sempat memicu insiden di jalan raya Jakarta dan sentimen negatif di media sosial.
+  * Menjelaskan hambatan konversi dari pengenalan merek (*awareness*) menuju keputusan pembelian nyata (*purchase decision*).
+* **Tautan Artikel:** [Katadata Indonesia](https://katadata.co.id/)
+
+---
+
+### 2.5 Kompas.com (2025) – Evaluasi Keselamatan Berkendara Angkutan Listrik Komersial
+* **Judul Artikel:** *Evaluasi Keselamatan Berkendara dan Kesiapan Pengemudi Angkutan Listrik Komersial di Ibu Kota*
+* **Fakta / Temuan Kunci:**
+  * Menyoroti evaluasi KNKT dan pengamat transportasi mengenai pentingnya pelatihan khusus sistem pengereman regeneratif dan kontrol tuas transmisi otomatis mobil listrik untuk menjaga *Perceived Safety* penumpang.
+* **Tautan Artikel:** [Kompas Otomotif](https://otomotif.kompas.com/)
+
+---
+
 ## 3. Data Lingkungan, Emisi, & Jumlah Kendaraan DKI Jakarta
 
 ### 3.1 Badan Pusat Statistik (BPS) Provinsi DKI Jakarta
