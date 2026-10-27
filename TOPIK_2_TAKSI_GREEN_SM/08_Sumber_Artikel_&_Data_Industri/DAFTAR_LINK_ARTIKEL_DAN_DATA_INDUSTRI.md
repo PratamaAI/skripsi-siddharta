@@ -173,7 +173,20 @@ Dokumen ini menghimpun seluruh tautan (*link*), rujukan publikasi riset pasar, l
 * **Tautan Langsung:**
   * [Garuda Kemdiktisaintek (ID 2477664)](https://garuda.kemdiktisaintek.go.id/documents/detail/2477664)
   * [Portal SIASAT Journal](https://siasatjournal.id/index.php/siasat/article/view/105)
-  * Berkas PDF lokal lengkap (15 halaman) tersimpan di: `TOPIK_2_TAKSI_GREEN_SM/06_Referensi_Jurnal_PDF/02_Karya_Dosen_FEB_UKRIDA/S-FEB_2021_Tecoalu_Saparso_Fernandes_SIASAT.pdf`
+  * Berkas PDF lokal lengkap (15 halaman) tersimpan di: [S-FEB_2021_Tecoalu_Saparso_Fernandes_SIASAT.pdf](file:///c:/Users/siddh/OneDrive/Documents/SKRIPSI%20SIDDHARTA/TOPIK_2_TAKSI_GREEN_SM/06_Referensi_Jurnal_PDF/02_Karya_Dosen_FEB_UKRIDA/S-FEB_2021_Tecoalu_Saparso_Fernandes_SIASAT.pdf)
+
+---
+
+### 5.2 Melitina Tecoalu (2021) – Transportasi Online DKI Jakarta
+* **Judul Artikel:** *The Effect of Service Quality, Promotion Strategy and Company Image on Word of Mouth in Mediation by Online Transport Customer Satisfaction Jakarta Region*
+* **Jurnal:** *Revista Gestão Inovação e Tecnologias* (Revista GEINTEC), Vol. 11, No. 3, Juni 2021, Hal. 93–102.
+* **DOI:** `10.47059/revistageintec.v11i3.1918`
+* **Penulis:** **Melitina Tecoalu, S.E., M.M.** (Penulis Tunggal / Dosen Tetap Program Studi Manajemen FEB UKRIDA)
+* **Objek Riset:** Pengguna jasa transportasi penumpang online (*online transport*) di wilayah **DKI Jakarta**.
+* **Temuan Kunci:** Menegaskan bahwa citra perusahaan/merek (*company/brand image*) dan kualitas pelayanan prima (*service quality*) memegang peranan krusial dalam membentuk kepuasan konsumen, yang secara langsung mendorong rekomendasi positif pengguna transportasi daring di Jakarta.
+* **Tautan Langsung:**
+  * [ResearchGate - Melitina Tecoalu (2021) Riset Transportasi Online Jakarta](https://www.researchgate.net/publication/371204836_The_Effect_of_Service_Quality_Promotion_Strategy_and_Company_Image_on_Word_of_Mouth_in_Mediation_by_Online_Transport_Customer_Satisfaction_Jakarta_Region)
+  * [Portal Resmi Revista GEINTEC](https://revistageintec.net/index.php/revista/article/view/1918)
 
 ---
 
