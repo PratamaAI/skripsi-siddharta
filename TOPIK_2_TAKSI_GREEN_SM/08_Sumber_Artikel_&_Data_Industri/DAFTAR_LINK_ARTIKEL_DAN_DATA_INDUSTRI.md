@@ -157,7 +157,27 @@ Dokumen ini menghimpun seluruh tautan (*link*), rujukan publikasi riset pasar, l
 
 ---
 
-## 5. Ringkasan Matriks Sumber Kutipan Latar Belakang
+---
+
+## 5. Publikasi Ilmiah Dosen FEB UKRIDA (Landasan Empiris Internal Kampus)
+
+### 5.1 Melitina Tecoalu, Saparso, & Fernandes (2021) – Brand Image & Purchasing Decisions
+* **Judul Artikel:** *The Role of Brand Image in Mediating the Influence of Country of Origin Image and Price on Purchasing Decisions (Study Case on Car Credit Products PT. Maybank Indonesia Finance)*
+* **Jurnal:** *SIASAT: Journal of Religion, Social, Cultural and Political Sciences*, Vol. 6, No. 4, Oktober 2021, Hal. 204–218.
+* **DOI:** `10.33258/siasat.v6i4.105`
+* **Penulis:** 
+  1. **Melitina Tecoalu, S.E., M.M.** (Dosen Tetap Program Studi Manajemen FEB UKRIDA)
+  2. **Dr. Saparso, S.E., M.M.** (Dosen Tetap Program Studi Manajemen FEB UKRIDA)
+  3. **Fernandes** (Peneliti / Alumni FEB UKRIDA)
+* **Temuan Kunci:** Membuktikan secara empiris bahwa *Brand Image* (Citra Merek) memiliki peran sentral dan berpengaruh signifikan baik secara langsung maupun memediasi keputusan pembelian (*purchasing decisions*) pada sektor otomotif dan pembiayaan kendaraan.
+* **Tautan Langsung:**
+  * [Garuda Kemdiktisaintek (ID 2477664)](https://garuda.kemdiktisaintek.go.id/documents/detail/2477664)
+  * [Portal SIASAT Journal](https://siasatjournal.id/index.php/siasat/article/view/105)
+  * Berkas PDF lokal lengkap (15 halaman) tersimpan di: `TOPIK_2_TAKSI_GREEN_SM/06_Referensi_Jurnal_PDF/02_Karya_Dosen_FEB_UKRIDA/S-FEB_2021_Tecoalu_Saparso_Fernandes_SIASAT.pdf`
+
+---
+
+## 6. Ringkasan Matriks Sumber Kutipan Latar Belakang
 
 | No | Entitas / Lembaga Sumber | Tahun | Judul / Objek Data | Kegunaan dalam Skripsi |
 |---|---|---|---|---|
@@ -165,8 +185,12 @@ Dokumen ini menghimpun seluruh tautan (*link*), rujukan publikasi riset pasar, l
 | 2 | **Mirae Asset Sekuritas** | 2023 | *Indonesia Mobility Sector Update* | Bukti duopoli 90%–95% ride-hailing (Grab 55%, GoCar 45%) |
 | 3 | **PT Xanh SM / Green SM** | 2024 | *Profil Resmi & Spesifikasi Armada Listrik* | Karakteristik pembeda 100% armada EV murni (VinFast VF 5) |
 | 4 | **CNN Indonesia / Kompas** | 2024 | *Peluncuran Taksi Green SM di Jakarta (18 Des 2024)* | Fakta penetrasi *challenger brand* taksi listrik di DKI Jakarta |
-| 5 | **BPS Provinsi DKI Jakarta** | 2023 | *DKI Jakarta Dalam Angka 2023* | Data kepadatan > 21,8 juta kendaraan bermotor aktif |
-| 6 | **DLH DKI & Vital Strategies** | 2020 | *Inventarisasi Emisi Polusi Udara Jakarta* | Data kontribusi 44%–67% PM2.5 dari transportasi darat |
-| 7 | **IEA** | 2023 | *Global EV Outlook 2023* | Tren global dekarbonisasi dan percepatan kendaraan listrik |
-| 8 | **Sekretariat Negara RI** | 2019 | *Perpres No. 55 Tahun 2019* | Payung hukum nasional percepatan kendaraan listrik berbasis baterai |
-| 9 | **Pemprov DKI Jakarta** | 2021 | *Pergub DKI No. 90 Tahun 2021* | Target daerah penurunan 30% emisi melalui elektrifikasi transportasi |
+| 5 | **Populix** | 2024 | *Electric Vehicle Dynamics Consumer Insights* | Riset resmi: kesenjangan adopsi EV (65% *awareness* vs hambatan keamanan 65% & keandalan 61%) |
+| 6 | **GoodStats & INDEF** | 2024 | *Survei Mobilitas Digital & Inersia Kebiasaan* | Fakta 57,7% *multi-homing* namun pemain baru terserap < 3% |
+| 7 | **BPS Provinsi DKI Jakarta** | 2023 | *DKI Jakarta Dalam Angka 2023* | Data kepadatan > 21,8 juta kendaraan bermotor aktif |
+| 8 | **DLH DKI & Vital Strategies** | 2020 | *Inventarisasi Emisi Polusi Udara Jakarta* | Data kontribusi 44%–67% PM2.5 dari transportasi darat |
+| 9 | **IEA** | 2023 | *Global EV Outlook 2023* | Tren global dekarbonisasi dan percepatan kendaraan listrik |
+| 10 | **Sekretariat Negara RI** | 2019 | *Perpres No. 55 Tahun 2019* | Payung hukum nasional percepatan kendaraan listrik berbasis baterai |
+| 11 | **Pemprov DKI Jakarta** | 2021 | *Pergub DKI No. 90 Tahun 2021* | Target daerah penurunan 30% emisi melalui elektrifikasi transportasi |
+| 12 | **Tecoalu, Saparso, Fernandes** | 2021 | *Brand Image & Purchasing Decisions (SIASAT)* | Landasan empiris karya Dosen FEB UKRIDA mengenai peran *Brand Image* terhadap *Purchase Decision* |
+

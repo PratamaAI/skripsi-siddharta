@@ -55,7 +55,7 @@
 | 1 | `S-FEB_2021_Tecoalu_Shopee_Keputusan_Pembelian.pdf` | 433.959 | `%PDF` | `10.31539/costing.v5i1.2596` | Jurnal COSTING (Melitina Tecoalu, Kelvin Yonathan, Hery Winoto Tj) |
 | 2 | `S-FEB_2021_Tecoalu_Primanomics_Keputusan_Pembelian.pdf` | 438.393 | `%PDF` | `10.31253/pe.v19i2.586` | Primanomics (Melitina Tecoalu, Soegeng Wahyoedi, Edward Kustiawan) |
 | 3 | Sitasi Terverifikasi: Transportasi Online Jakarta | - | - | `10.47059/revistageintec.v11i3.1918` | Revista Geintec (Melitina Tecoalu, 2021) |
-| 4 | Sitasi Terverifikasi: Brand Image & Purchase Decision | - | - | `10.33258/siasat.v6i4.105` | SIASAT (Melitina Tecoalu, Saparso, Fernandes, 2021) |
+| 4 | `S-FEB_2021_Tecoalu_Saparso_Fernandes_SIASAT.pdf` | 842.867 | `%PDF` | `10.33258/siasat.v6i4.105` | SIASAT (Melitina Tecoalu, Saparso, Fernandes, 2021) |
 | 5 | Sitasi Terverifikasi: Trust & Purchase Decision | - | - | `10.54443/ijset.v1i9.50` | IJSET (Felix Sundah, Melitina Tecoalu, Soegeng Wahyoedi, 2022) |
 
 ### C. Landasan Teori & Metodologi (`03_Landasan_Teori_&_Metodologi/`)
