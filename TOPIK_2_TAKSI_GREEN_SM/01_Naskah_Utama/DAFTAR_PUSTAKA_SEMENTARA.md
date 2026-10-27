@@ -25,6 +25,8 @@ Dinas Lingkungan Hidup Provinsi DKI Jakarta, & Vital Strategies. (2020). *Invent
 
 Fakultas Ekonomi dan Bisnis Universitas Kristen Krida Wacana. (2023). *Buku pedoman penyusunan tugas akhir program sarjana* (SK Dekan No. 350a/SK/UKKW/FEB/D/VI/2023). FEB UKRIDA.
 
+Frontier Group. (2024). *Top Brand Index kategori transportasi online dan taksi 2024*. Frontier Consulting Group & Majalah Marketing. https://www.topbrand-award.com
+
 Ghozali, I. (2021). *Aplikasi analisis multivariate dengan program IBM SPSS 26* (Edisi ke-10). Badan Penerbit Universitas Diponegoro.
 
 Hair, J. F., Black, W. C., Babin, B. J., & Anderson, R. E. (2019). *Multivariate data analysis* (8th ed.). Cengage Learning.
@@ -38,6 +40,8 @@ Keller, K. L. (2013). *Strategic brand management: Building, measuring, and mana
 Kotler, P., & Keller, K. L. (2016). *Marketing management* (15th ed.). Pearson Education.
 
 Lemeshow, S., Hosmer, D. W., Klar, J., & Lwanga, S. K. (1997). *Adequacy of sample size in health studies*. John Wiley & Sons.
+
+Mirae Asset Sekuritas Indonesia. (2023). *Indonesia mobility sector update: Navigating duopoly competition and profitability in ride-hailing services*. Research Report, Mirae Asset Sekuritas.
 
 Pemerintah Provinsi Daerah Khusus Ibukota Jakarta. (2021). *Peraturan Gubernur Daerah Khusus Ibukota Jakarta Nomor 90 Tahun 2021 tentang Rencana Pembangunan Rendah Karbon Daerah yang Berketahanan Iklim*. Berita Daerah Provinsi Daerah Khusus Ibukota Jakarta Tahun 2021 Nomor 62024.
 

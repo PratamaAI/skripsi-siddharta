@@ -1,0 +1,297 @@
+$risPath = "TOPIK_2_TAKSI_GREEN_SM\06_Referensi_Jurnal_PDF\Mendeley_Library_Topik2_Taksi_Green_SM.ris"
+
+$risContent = @"
+TY  - RPRT
+TI  - Global EV Outlook 2023: Catching up with climate targets
+AU  - International Energy Agency
+PY  - 2023
+PB  - IEA Publications
+CY  - Paris
+DO  - 10.1787/d4349524-en
+UR  - https://doi.org/10.1787/d4349524-en
+ER  - 
+
+TY  - RPRT
+TI  - Provinsi DKI Jakarta Dalam Angka 2023
+AU  - Badan Pusat Statistik Provinsi DKI Jakarta
+PY  - 2023
+PB  - BPS Provinsi DKI Jakarta
+CY  - Jakarta
+UR  - https://jakarta.bps.go.id
+ER  - 
+
+TY  - RPRT
+TI  - Inventarisasi Emisi Pencemaran Udara Provinsi DKI Jakarta
+AU  - Dinas Lingkungan Hidup Provinsi DKI Jakarta
+AU  - Vital Strategies
+PY  - 2020
+PB  - Dinas Lingkungan Hidup Provinsi DKI Jakarta
+CY  - Jakarta
+ER  - 
+
+TY  - STAT
+TI  - Peraturan Presiden Republik Indonesia Nomor 55 Tahun 2019 tentang Percepatan Program Kendaraan Bermotor Listrik Berbasis Baterai (Battery Electric Vehicle) untuk Transportasi Jalan
+AU  - Republik Indonesia
+PY  - 2019
+PB  - Lembaran Negara Republik Indonesia Tahun 2019 Nomor 146
+CY  - Jakarta
+ER  - 
+
+TY  - STAT
+TI  - Peraturan Gubernur Daerah Khusus Ibukota Jakarta Nomor 90 Tahun 2021 tentang Rencana Pembangunan Rendah Karbon Daerah yang Berketahanan Iklim
+AU  - Pemerintah Provinsi DKI Jakarta
+PY  - 2021
+PB  - Berita Daerah Provinsi DKI Jakarta Tahun 2021 Nomor 62024
+CY  - Jakarta
+ER  - 
+
+TY  - BOOK
+TI  - Marketing Management
+AU  - Kotler, Philip
+AU  - Keller, Kevin Lane
+ET  - 15th
+PY  - 2016
+PB  - Pearson Education
+CY  - Harlow
+ER  - 
+
+TY  - BOOK
+TI  - Strategic Brand Management: Building, Measuring, and Managing Brand Equity
+AU  - Keller, Kevin Lane
+ET  - 4th
+PY  - 2013
+PB  - Pearson Education
+CY  - Boston
+ER  - 
+
+TY  - BOOK
+TI  - Managing Brand Equity: Capitalizing on the Value of a Brand Name
+AU  - Aaker, David A.
+PY  - 1991
+PB  - The Free Press
+CY  - New York
+ER  - 
+
+TY  - JOUR
+TI  - The Chain of Effects from Brand Trust and Brand Affect to Brand Performance: The Role of Brand Loyalty
+AU  - Chaudhuri, Arjun
+AU  - Holbrook, Morris B.
+JO  - Journal of Marketing
+VL  - 65
+IS  - 2
+SP  - 81
+EP  - 93
+PY  - 2001
+DO  - 10.1509/jmkg.65.2.81.18255
+ER  - 
+
+TY  - JOUR
+TI  - SERVQUAL: A Multiple-Item Scale for Measuring Consumer Perceptions of Service Quality
+AU  - Parasuraman, A.
+AU  - Zeithaml, Valarie A.
+AU  - Berry, Leonard L.
+JO  - Journal of Retailing
+VL  - 64
+IS  - 1
+SP  - 12
+EP  - 40
+PY  - 1988
+ER  - 
+
+TY  - CHAP
+TI  - Consumer Behavior as Risk Taking
+AU  - Bauer, Raymond A.
+ED  - Hancock, R. S.
+BT  - Dynamic Marketing for a Changing World
+SP  - 389
+EP  - 398
+PY  - 1960
+PB  - American Marketing Association
+CY  - Chicago
+ER  - 
+
+TY  - JOUR
+TI  - The Theory of Planned Behavior
+AU  - Ajzen, Icek
+JO  - Organizational Behavior and Human Decision Processes
+VL  - 50
+IS  - 2
+SP  - 179
+EP  - 211
+PY  - 1991
+DO  - 10.1016/0749-5978(91)90020-T
+ER  - 
+
+TY  - JOUR
+TI  - The Effect of Service Quality, Promotion Strategy and Company Image on Word of Mouth in Mediation by Online Transport Customer Satisfaction Jakarta Region
+AU  - Tecoalu, Melitina
+JO  - Revista Gestao Inovacao e Tecnologias
+VL  - 11
+IS  - 3
+SP  - 93
+EP  - 102
+PY  - 2021
+DO  - 10.47059/revistageintec.v11i3.1918
+ER  - 
+
+TY  - JOUR
+TI  - The Role of Brand Image in Mediating the Influence of Country of Origin Image and Price on Purchasing Decisions (Study Case on Car Credit Products PT. Maybank Indonesia Finance)
+AU  - Tecoalu, Melitina
+AU  - Saparso
+AU  - Fernandes
+JO  - SIASAT
+VL  - 6
+IS  - 4
+SP  - 204
+EP  - 218
+PY  - 2021
+DO  - 10.33258/siasat.v6i4.105
+ER  - 
+
+TY  - JOUR
+TI  - The Effect of Trust, Price, and Ease of Transaction on Buying Interest and Their Implications on Purchase Decisions Study PT. Indonesia Maybank Finance Online Customer
+AU  - Sundah, Ferry
+AU  - Tecoalu, Melitina
+AU  - Wahyoedi, Soegeng
+JO  - International Journal of Social Science, Educational, Economics, Agriculture Research and Technology (IJSET)
+VL  - 1
+IS  - 9
+SP  - 431
+EP  - 442
+PY  - 2022
+DO  - 10.54443/ijset.v1i9.50
+ER  - 
+
+TY  - JOUR
+TI  - Pengaruh Citra Merek, Kepercayaan Merek, Dan Keamanan Privasi Terhadap Keputusan Pengguna Gojek
+AU  - Wijaya, Ronny
+AU  - Pahar, Firman
+JO  - Jurnal Ilmu Manajemen
+VL  - 10
+IS  - 2
+SP  - 527
+EP  - 536
+PY  - 2022
+DO  - 10.26740/jim.v10n2.p527-536
+ER  - 
+
+TY  - JOUR
+TI  - The Role of Perceived Risk in Moderating the Effects of Brand Image, E-WOM, and Brand Trust on Purchase Decision in Shopee Mall
+AU  - Asnawir, Asnawir
+AU  - Simanjuntak, Megawati
+JO  - Indonesian Journal of Business and Entrepreneurship
+VL  - 10
+IS  - 1
+SP  - 148
+EP  - 160
+PY  - 2024
+DO  - 10.17358/ijbe.10.1.148
+ER  - 
+
+TY  - JOUR
+TI  - Pengaruh Brand Awareness, Brand Image, dan Brand Trust Terhadap Keputusan Pembelian
+AU  - Nurlita, Nurlita
+AU  - Arsyad, Arsyad
+JO  - Al-Kharaj: Jurnal Ekonomi, Keuangan & Bisnis Syariah
+VL  - 7
+IS  - 1
+SP  - 732
+EP  - 745
+PY  - 2025
+DO  - 10.47467/alkharaj.v7i1.3069
+ER  - 
+
+TY  - JOUR
+TI  - Pengaruh Brand Image dan Brand Ambassador Terhadap Purchase Decision Melalui Brand Trust sebagai Intervening
+AU  - Hera, Hera
+AU  - Fourqoniah, Fitriana
+JO  - Jurnal Riset Manajemen Dan Bisnis
+VL  - 3
+IS  - 1
+SP  - 1
+EP  - 10
+PY  - 2023
+DO  - 10.29303/jrmb.v3i1.92
+ER  - 
+
+TY  - JOUR
+TI  - The Role of Influencers, Brand Image, Ease of Use, and Consumer Trust in Electric Vehicle Purchase Decisions
+AU  - Adha, Firly Zahrani
+AU  - Suhardi
+JO  - Journal of Educational Management Research
+VL  - 4
+IS  - 6
+SP  - 2924
+EP  - 2936
+PY  - 2025
+DO  - 10.61987/jemr.v4i6.1474
+ER  - 
+
+TY  - JOUR
+TI  - Pengaruh Kualitas Pelayanan, E-Wom Dan Brand Image Terhadap Keputusan Pembelian Konsumen Dimediasi Oleh Brand Trust
+AU  - Patria, Ardi
+AU  - Susila, Indrayani
+JO  - Jurnal Ilmiah Manajemen, Ekonomi, & Akuntansi (MEA)
+VL  - 7
+IS  - 3
+SP  - 1690
+EP  - 1709
+PY  - 2023
+DO  - 10.31955/mea.v7i3.3512
+ER  - 
+
+TY  - JOUR
+TI  - Pengaruh Brand Image dan Brand Ambassador Terhadap Keputusan Pembelian Melalui Kepercayaan Konsumen
+AU  - Putri, Cindy Aulia
+AU  - Harti
+JO  - Jurnal Pendidikan Tata Niaga (JPTN)
+VL  - 10
+IS  - 1
+SP  - 1581
+EP  - 1591
+PY  - 2022
+DO  - 10.26740/jptn.v10n1.p1581-1591
+ER  - 
+
+TY  - JOUR
+TI  - Pengaruh Kualitas Produk, Persepsi Keamanan dan Kepercayaan Terhadap Keputusan Pembelian
+AU  - Vivi, Vivi
+AU  - Hikmah, Hikmah
+JO  - Jurnal Mirai Management
+VL  - 9
+IS  - 1
+SP  - 401
+EP  - 413
+PY  - 2024
+DO  - 10.37531/mirai.v9i1.3857
+ER  - 
+
+TY  - JOUR
+TI  - Pengaruh Kepercayaan, Keamanan, Persepsi Resiko dan Kualitas Pelayanan Terhadap Keputusan Pembelian Secara Online
+AU  - Wulandari, Retno
+JO  - Jurnal Ilmu Manajemen
+VL  - 9
+IS  - 3
+SP  - 1205
+EP  - 1216
+PY  - 2021
+DO  - 10.26740/jim.v9n3.p1205-1216
+ER  - 
+
+TY  - JOUR
+TI  - Keputusan Penggunaan QRIS Berdasarkan Pengaruh Persepsi Kemudahan dan Keamanan Melalui Persepsi Kepercayaan Pada GEN_Z
+AU  - Patricia, Shania
+AU  - Djong, Cindy
+JO  - Jurnal Mutiara Ilmu Akuntansi
+VL  - 4
+IS  - 1
+SP  - 102
+EP  - 117
+PY  - 2026
+DO  - 10.55606/jmia.v4i1.4727
+ER  - 
+"@
+
+$fullPath = [System.IO.Path]::GetFullPath($risPath)
+[System.IO.File]::WriteAllText($fullPath, $risContent, [System.Text.Encoding]::UTF8)
+Write-Host "Created Mendeley RIS Library at $fullPath with $(($risContent -split 'TY  - ').Count - 1) entries!"
