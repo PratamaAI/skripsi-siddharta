@@ -52,7 +52,7 @@ Dokumen ini menghimpun seluruh tautan (*link*), rujukan publikasi riset pasar, l
 
 ---
 
-### 1.5 GoodStats & INDEF (2023) – Survei Perilaku Pengguna & Inersia Pasar
+### 1.5 GoodStats (2024) & INDEF (2023) – Survei Perilaku Pengguna & Inersia Pasar
 * **Lembaga Riset:** GoodStats Data & Institute for Development of Economics and Finance (INDEF)
 * **Fakta / Temuan Kunci:**
   * 57,7% konsumen perkotaan memasang minimal 2 aplikasi transportasi online (*multi-homing*).
@@ -63,9 +63,10 @@ Dokumen ini menghimpun seluruh tautan (*link*), rujukan publikasi riset pasar, l
 
 ---
 
-### 1.6 Populix (2023) – Riset Adopsi Kendaraan Listrik (Electric Vehicle Dynamics)
+### 1.6 Populix (2024) – Riset Adopsi Kendaraan Listrik (Electric Vehicle Dynamics)
 * **Lembaga Riset:** Populix Consumer Insights
 * **Judul Riset:** *Electric Vehicle Dynamics: Unveiling Consumer Perspectives & Market Insights*
+* **Waktu Rilis & Survei:** Dirilis pertengahan 2024 (Pengumpulan data survei nasional Maret 2024).
 * **Fakta / Temuan Kunci:**
   * Kesenjangan adopsi (*gap*): Kesadaran (*awareness*) masyarakat perkotaan terhadap BEV mencapai **65%**, namun konversi menjadi keputusan pembelian (*purchase decision*) masih sangat rendah.
   * Hambatan keputusan penggunaan: **65%** cemas aspek keselamatan teknis dan baterai (*Perceived Safety*), **61%** meragukan keandalan operasional (*Brand Trust*), serta keraguan terhadap reputasi merek baru (*Brand Image*).

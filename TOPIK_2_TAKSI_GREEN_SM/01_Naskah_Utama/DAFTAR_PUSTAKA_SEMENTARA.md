@@ -29,7 +29,7 @@ Frontier Group. (2024). *Top Brand Index kategori transportasi online dan taksi 
 
 Ghozali, I. (2021). *Aplikasi analisis multivariate dengan program IBM SPSS 26* (Edisi ke-10). Badan Penerbit Universitas Diponegoro.
 
-GoodStats. (2023). *Survei perilaku pengguna dan preferensi aplikasi transportasi online di Indonesia*. GoodStats Data & Research. https://goodstats.id
+GoodStats. (2024). *Survei perilaku pengguna dan preferensi aplikasi transportasi online di Indonesia*. GoodStats Data & Research. https://goodstats.id
 
 Hair, J. F., Black, W. C., Babin, B. J., & Anderson, R. E. (2019). *Multivariate data analysis* (8th ed.). Cengage Learning.
 
@@ -53,7 +53,7 @@ Mirae Asset Sekuritas Indonesia. (2023). *Indonesia mobility sector update: Navi
 
 Pemerintah Provinsi Daerah Khusus Ibukota Jakarta. (2021). *Peraturan Gubernur Daerah Khusus Ibukota Jakarta Nomor 90 Tahun 2021 tentang Rencana Pembangunan Rendah Karbon Daerah yang Berketahanan Iklim*. Berita Daerah Provinsi Daerah Khusus Ibukota Jakarta Tahun 2021 Nomor 62024.
 
-Populix. (2023). *Electric vehicle dynamics: Unveiling consumer perspectives and market insights in Indonesia*. Populix Consumer Insights Report. https://populix.co
+Populix. (2024). *Electric vehicle dynamics: Unveiling consumer perspectives and market insights in Indonesia*. Populix Consumer Insights Report. https://populix.co
 
 Republik Indonesia. (2019). *Peraturan Presiden Nomor 55 Tahun 2019 tentang Percepatan Program Kendaraan Bermotor Listrik Berbasis Baterai (Battery Electric Vehicle) untuk Transportasi Jalan*. Lembaran Negara Republik Indonesia Tahun 2019 Nomor 146. Sekretariat Negara.
 
