@@ -38,13 +38,19 @@ Kompas. (2025). *Evaluasi keselamatan berkendara dan kesiapan pengemudi angkutan
 
 Kotler, P., Keller, K. L., & Chernev, A. (2022). *Marketing management* (16th ed.). Pearson Education.
 
+Lovelock, C., Wirtz, J., & Chew, P. (2022). *Services marketing: People, technology, strategy* (9th ed.). World Scientific Publishing.
+
 Mirae Asset Sekuritas Indonesia. (2023). *Indonesia mobility sector update: Navigating duopoly competition and profitability in ride-hailing services*. Research Report, Mirae Asset Sekuritas.
 
 Pemerintah Provinsi Daerah Khusus Ibukota Jakarta. (2021). *Peraturan Gubernur Daerah Khusus Ibukota Jakarta Nomor 90 Tahun 2021 tentang Rencana Pembangunan Rendah Karbon Daerah yang Berketahanan Iklim*. Berita Daerah Provinsi Daerah Khusus Ibukota Jakarta Tahun 2021 Nomor 62024.
 
 Populix. (2024). *Electric vehicle dynamics: Unveiling consumer perspectives and market insights in Indonesia*. Populix Consumer Insights Report. https://populix.co
 
+Priansa, D. J. (2021). *Perencanaan & pengembangan bisnis pariwisata dan jasa*. Alfabeta.
+
 Republik Indonesia. (2023). *Peraturan Presiden Republik Indonesia Nomor 79 Tahun 2023 tentang Perubahan atas Peraturan Presiden Nomor 55 Tahun 2019 tentang Percepatan Program Kendaraan Bermotor Listrik Berbasis Baterai (Battery Electric Vehicle) untuk Transportasi Jalan*. Lembaran Negara Republik Indonesia Tahun 2023 Nomor 158. Sekretariat Negara.
+
+Schiffman, L. G., & Wisenblit, J. (2024). *Consumer behavior* (13th ed., Global ed.). Pearson Education.
 
 Sugiyono. (2022). *Metode penelitian kuantitatif, kualitatif, dan R&D* (Edisi ke-3). Alfabeta.
 
