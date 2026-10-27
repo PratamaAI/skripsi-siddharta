@@ -123,4 +123,4 @@ Hubungan struktural antara variabel independen (*Brand Image*, *Brand Trust*, *P
 
 **Gambar 2.1 Kerangka Pemikiran Konseptual Penelitian**
 
-![Gambar 2.1 Kerangka Pemikiran Konseptual](images/kerangka_pemikiran.png)
+![Gambar 2.1 Kerangka Pemikiran Konseptual](images/kerangka_pemikiran.svg)

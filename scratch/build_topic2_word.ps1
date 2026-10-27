@@ -304,10 +304,19 @@ try {
             if ($trimmed -match '^!\[(.*?)\]\((.*?)\)') {
                 $alt = $matches[1]
                 $imgRel = $matches[2]
-                $imgPath = Join-Path $topicDir "01_Naskah_Utama\$imgRel"
-                if (-not (Test-Path $imgPath)) {
-                    $imgPath = Join-Path $topicDir $imgRel
+                
+                # Automatically prefer SVG vector version for INFINITE HD VECTOR QUALITY (Zero Blurriness!)
+                $svgCandidate = $imgRel -replace '\.png$', '.svg'
+                $svgFullPath = Join-Path $topicDir "01_Naskah_Utama\$svgCandidate"
+                if (Test-Path $svgFullPath) {
+                    $imgPath = $svgFullPath
+                } else {
+                    $imgPath = Join-Path $topicDir "01_Naskah_Utama\$imgRel"
+                    if (-not (Test-Path $imgPath)) {
+                        $imgPath = Join-Path $topicDir $imgRel
+                    }
                 }
+                
                 if (Test-Path $imgPath) {
                     $pImg = $doc.Paragraphs.Add()
                     $pImg.Alignment = 1 # Center
@@ -315,8 +324,12 @@ try {
                     $pImg.Format.SpaceAfter = 12
                     $resolvedPath = [string](Resolve-Path $imgPath).Path
                     $shp = $pImg.Range.InlineShapes.AddPicture($resolvedPath, $false, $true)
-                    $shp.Width = 15.0 * 28.3465
-                    $shp.Height = ($shp.Width * 980.0) / 2300.0
+                    $shp.Width = 14.5 * 28.3465
+                    if ($resolvedPath -match '\.svg$') {
+                        $shp.Height = ($shp.Width * 515.0) / 960.0
+                    } else {
+                        $shp.Height = ($shp.Width * 1060.0) / 2400.0
+                    }
                     $pImg.Range.InsertParagraphAfter()
                 }
             }
