@@ -38,8 +38,6 @@ Kompas. (2025). *Evaluasi keselamatan berkendara dan kesiapan pengemudi angkutan
 
 Kotler, P., Keller, K. L., & Chernev, A. (2022). *Marketing management* (16th ed.). Pearson Education.
 
-La Barbera, F., & Ajzen, I. (2021). Moderating role of perceived behavioral control in the theory of planned behavior: A preregistered study. *Journal of Theoretical Social Psychology*, 5(1), 35–45. https://doi.org/10.1002/jts5.70
-
 Mirae Asset Sekuritas Indonesia. (2023). *Indonesia mobility sector update: Navigating duopoly competition and profitability in ride-hailing services*. Research Report, Mirae Asset Sekuritas.
 
 Pemerintah Provinsi Daerah Khusus Ibukota Jakarta. (2021). *Peraturan Gubernur Daerah Khusus Ibukota Jakarta Nomor 90 Tahun 2021 tentang Rencana Pembangunan Rendah Karbon Daerah yang Berketahanan Iklim*. Berita Daerah Provinsi Daerah Khusus Ibukota Jakarta Tahun 2021 Nomor 62024.

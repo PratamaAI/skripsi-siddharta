@@ -21,20 +21,10 @@ Menurut Kotler et al. (2022) serta Tjiptono (2022), indikator baku untuk menguku
 
 ---
 
-### 2.1.2 Teori Penjelas Pendukung (*Supporting Theories*)
-
-#### A. Theory of Planned Behavior (La Barbera & Ajzen, 2021)
-*Theory of Planned Behavior* (TPB) yang dirumuskan oleh Icek Ajzen dan diperbarui dalam literatur terkini (La Barbera & Ajzen, 2021) menyatakan bahwa perilaku spesifik individu ditentukan secara langsung oleh niat perilakunya (*behavioral intention*). Niat tersebut merupakan fungsi dari tiga variabel anteseden independen:
-1. *Attitude toward the behavior* (Sikap terhadap perilaku): Sejauh mana individu mengevaluasi positif atau negatif tindakan menggunakan taksi listrik *Green SM*.
-2. *Subjective norm* (Norma subjektif): Persepsi individu terhadap tekanan sosial atau anjuran dari orang-orang penting di sekitarnya untuk menggunakan armada ramah lingkungan (*eco-friendly*).
-3. *Perceived behavioral control* (Persepsi kendali perilaku): Persepsi individu mengenai kemudahan atau kesulitan dalam mengakses dan menggunakan jasa taksi *Green SM* (seperti kemudahan ketersediaan aplikasi, jangkauan armada di Jakarta Barat, dan kecukupan saldo/pembayaran).
-
-Dalam penelitian ini, TPB menjadi jembatan logis yang menjelaskan bagaimana stimulus eksternal berupa citra merek (*Brand Image*) dan keyakinan internal (*Brand Trust* dan *Perceived Safety*) membentuk sikap positif yang mendorong tindakan nyata keputusan penggunaan (*Purchase Decision*).
-
-#### B. Teori Persepsi Risiko (*Perceived Risk Theory*)
+### 2.1.2 Teori Persepsi Risiko (*Perceived Risk Theory*)
 Konsep persepsi risiko dalam teori perilaku konsumen modern (Kotler et al., 2022; Asnawir & Simanjuntak, 2024; Ardialis & Irfani, 2023) menyatakan bahwa keputusan konsumen melibatkan evaluasi terhadap risiko dalam arti bahwa tindakan apa pun dari konsumen akan menimbulkan konsekuensi yang tidak dapat diantisipasi dengan pasti (*uncertainty*) dan potensi kerugian (*danger/loss*). 
 
-Dalam industri transportasi kendaraan listrik (*electric vehicle*), persepsi risiko berkaitan erat dengan risiko fungsional/teknis (seperti daya tahan baterai, risiko malfungsi mesin listrik, dan ketahanan di cuaca hujan) serta risiko fisik/keselamatan penumpang. Mitigasi terhadap persepsi risiko ini melahirkan konsep *Perceived Safety* (Persepsi Keamanan/Keselamatan) yang menjadi variabel penentu keputusan konsumen.
+Dalam industri transportasi kendaraan listrik (*electric vehicle*), persepsi risiko berkaitan erat dengan risiko fungsional/teknis (seperti daya tahan baterai, keandalan sistem kelistrikan, dan ketahanan di berbagai kondisi jalan) serta risiko fisik/keselamatan penumpang. Ketika konsumen mempertimbangkan untuk menggunakan moda transportasi baru seperti taksi listrik *Green SM*, evaluasi risiko menjadi pertimbangan mendasar sebelum mengambil keputusan. Mitigasi terhadap persepsi risiko ini melahirkan konsep *Perceived Safety* (Persepsi Keamanan dan Keselamatan) yang menjadi variabel penentu pertimbangan konsumen dalam memutuskan penggunaan jasa (*Purchase Decision*).
 
 ---
 

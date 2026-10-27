@@ -234,7 +234,7 @@ try {
         "BAB II TINJAUAN PUSTAKA DAN PENGEMBANGAN HIPOTESIS ........................................................... 10",
         "  2.1 Landasan Teori ....................................................................................................................... 10",
         "    2.1.1 Perilaku Konsumen dan Keputusan Pembelian (Purchase Decision) ................................. 10",
-        "    2.1.2 Teori Penjelas Pendukung (TPB & Perceived Risk Theory) ................................................... 12",
+        "    2.1.2 Teori Persepsi Risiko (Perceived Risk Theory) ..................................................... 12",
         "    2.1.3 Citra Merek (Brand Image) ................................................................................................ 13",
         "    2.1.4 Kepercayaan Merek (Brand Trust) ...................................................................................... 15",
         "    2.1.5 Persepsi Keamanan dan Keselamatan (Perceived Safety) .................................................... 17",
