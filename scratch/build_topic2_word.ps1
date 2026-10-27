@@ -311,8 +311,8 @@ try {
                 if (Test-Path $imgPath) {
                     $pImg = $doc.Paragraphs.Add()
                     $pImg.Alignment = 1 # Center
-                    $pImg.Format.SpaceBefore = 6
-                    $pImg.Format.SpaceAfter = 2
+                    $pImg.Format.SpaceBefore = 4
+                    $pImg.Format.SpaceAfter = 12
                     $resolvedPath = [string](Resolve-Path $imgPath).Path
                     $shp = $pImg.Range.InlineShapes.AddPicture($resolvedPath, $false, $true)
                     $shp.Width = 15.0 * 28.3465
@@ -351,9 +351,9 @@ try {
                 if ($clean -match '^(Tabel\s+[0-9\.]+\s+.*)') {
                     Add-PlainPara $clean -alignment 0 -bold $true -italic $false -size 11 -spaceBefore 10 -spaceAfter 4 -keepWithNext $true
                 }
-                # Figure Caption: Gambar 2.1 ...
+                # Figure Caption: Gambar 2.1 ... (Placed above image)
                 elseif ($clean -match '^(Gambar\s+[0-9\.]+\s+.*)') {
-                    Add-PlainPara $clean -alignment 1 -bold $true -italic $false -size 11 -spaceBefore 2 -spaceAfter 12
+                    Add-PlainPara $clean -alignment 1 -bold $true -italic $false -size 11 -spaceBefore 10 -spaceAfter 4 -keepWithNext $true
                 }
                 # List items
                 elseif ($clean -match '^[0-9]+\.\s+(.*)') {

@@ -121,6 +121,6 @@ Berdasarkan tinjauan landasan teori dan perumusan hipotesis penelitian, peneliti
 
 Hubungan struktural antara variabel independen (*Brand Image*, *Brand Trust*, *Perceived Safety*) dan variabel dependen (*Purchase Decision*) digambarkan dalam kerangka pemikiran konseptual berikut:
 
-![Gambar 2.1 Kerangka Pemikiran Konseptual](images/kerangka_pemikiran.png)
-
 **Gambar 2.1 Kerangka Pemikiran Konseptual Penelitian**
+
+![Gambar 2.1 Kerangka Pemikiran Konseptual](images/kerangka_pemikiran.png)
