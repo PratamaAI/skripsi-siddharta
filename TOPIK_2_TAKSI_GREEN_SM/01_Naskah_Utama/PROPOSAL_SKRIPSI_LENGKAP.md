@@ -101,7 +101,7 @@ Mengetahui,
 * 2.1 Landasan Teori ......................................................................................................... 10
   * 2.1.1 Perilaku Konsumen dan Keputusan Pembelian (*Purchase Decision*) ........................... 10
   * 2.1.2 Teori Penjelas Pendukung (*Supporting Theories*) .................................................... 12
-    * A. *Theory of Planned Behavior* (Ajzen, 1991) .............................................................. 12
+    * A. *Theory of Planned Behavior* (La Barbera & Ajzen, 2021) ........................................ 12
     * B. Teori Persepsi Risiko (*Perceived Risk Theory*) ..................................................... 12
   * 2.1.3 Citra Merek (*Brand Image*) ................................................................................ 13
   * 2.1.4 Kepercayaan Merek (*Brand Trust*) ....................................................................... 15
@@ -162,7 +162,7 @@ Mengetahui,
 *(Mengacu penuh pada naskah Bab I yang memuat Latar Belakang Penelitian makro dan mikro taksi listrik *Green SM* di Jakarta Barat, Rumusan Masalah, Tujuan Penelitian, dan Manfaat Penelitian sesuai Buku Pedoman Penyusunan Tugas Akhir FEB UKRIDA 2023 Model B).*
 
 # BAB II: TINJAUAN PUSTAKA DAN PENGEMBANGAN HIPOTESIS
-*(Mengacu penuh pada naskah Bab II yang memuat *Grand Theory* Kotler et al. (2022), *Applied Theory* Keller/Aaker, Chaudhuri & Holbrook, Parasuraman/Bauer, sintesis 10 jurnal empiris berstruktur 3X & 1Y, publikasi Dosen Program Studi Manajemen FEB UKRIDA (Tecoalu *et al.*), perumusan hipotesis parsial H1-H3, dan Kerangka Pemikiran Konseptual).*
+*(Mengacu penuh pada naskah Bab II yang memuat *Grand Theory* Kotler et al. (2022), teori penjelas La Barbera & Ajzen (2021) serta teori persepsi risiko, sintesis 10 jurnal empiris berstruktur 3X & 1Y, publikasi Dosen Program Studi Manajemen FEB UKRIDA (Tecoalu *et al.*, 2021; Sundah *et al.*, 2022), perumusan hipotesis parsial H1-H3, dan Kerangka Pemikiran Konseptual).*
 
 # BAB III: METODOLOGI PENELITIAN
 *(Mengacu penuh pada naskah Bab III yang memuat Objek & Desain Penelitian, Tabel Operasionalisasi Variabel 16 indikator Likert 5-titik, Populasi tak terhingga di Jakarta Barat, *Purposive Sampling* dengan kriteria inklusi, Ukuran Sampel Lemeshow 120-150 responden, Metode Pengumpulan Data *Google Forms*, dan Analisis Regresi Linear Berganda).*
