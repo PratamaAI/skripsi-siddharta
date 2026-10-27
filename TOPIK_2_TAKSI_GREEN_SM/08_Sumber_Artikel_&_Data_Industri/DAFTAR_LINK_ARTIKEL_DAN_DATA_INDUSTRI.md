@@ -52,6 +52,28 @@ Dokumen ini menghimpun seluruh tautan (*link*), rujukan publikasi riset pasar, l
 
 ---
 
+### 1.5 GoodStats & INDEF (2023) – Survei Perilaku Pengguna & Inersia Pasar
+* **Lembaga Riset:** GoodStats Data & Institute for Development of Economics and Finance (INDEF)
+* **Fakta / Temuan Kunci:**
+  * 57,7% konsumen perkotaan memasang minimal 2 aplikasi transportasi online (*multi-homing*).
+  * Gojek (82%) dan Grab (53%–57%) menguasai preferensi, sementara pemain baru tertahan di bawah 3% pangsa adopsi aktif akibat tingginya kebiasaan (*habitual inertia*).
+* **Tautan:**
+  * GoodStats Data: [GoodStats - Perilaku Multi-App Pengguna Transportasi Online](https://goodstats.id/)
+  * Portal Riset INDEF: [INDEF Policy & Economic Studies](https://indef.or.id/)
+
+---
+
+### 1.6 Populix (2023) – Riset Adopsi Kendaraan Listrik (Electric Vehicle Dynamics)
+* **Lembaga Riset:** Populix Consumer Insights
+* **Judul Riset:** *Electric Vehicle Dynamics: Unveiling Consumer Perspectives & Market Insights*
+* **Fakta / Temuan Kunci:**
+  * Kesenjangan adopsi (*gap*): Kesadaran (*awareness*) masyarakat perkotaan terhadap BEV mencapai **65%**, namun konversi menjadi keputusan pembelian (*purchase decision*) masih sangat rendah.
+  * Hambatan keputusan penggunaan: **65%** cemas aspek keselamatan teknis dan baterai (*Perceived Safety*), **61%** meragukan keandalan operasional (*Brand Trust*), serta keraguan terhadap reputasi merek baru (*Brand Image*).
+* **Tautan:**
+  * Laporan Riset Populix: [Populix Consumer Insights Report](https://populix.co/)
+
+---
+
 ## 2. Profil, Armada, dan Ekspansi Green SM (VinFast / Vingroup)
 
 ### 2.1 Situs Resmi Green SM Indonesia (PT Xanh SM Green and Smart Mobility Indonesia)

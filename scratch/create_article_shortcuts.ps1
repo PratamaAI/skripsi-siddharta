@@ -53,6 +53,18 @@ $shortcuts = @(
     @{
         Name = "12_Blue_Bird_Group_Official_Portal.url";
         Url  = "https://www.bluebirdgroup.com/"
+    },
+    @{
+        Name = "13_Populix_Electric_Vehicle_Dynamics_Report.url";
+        Url  = "https://populix.co/"
+    },
+    @{
+        Name = "14_INDEF_Kajian_Persaingan_Transportasi_Online.url";
+        Url  = "https://indef.or.id/"
+    },
+    @{
+        Name = "15_Kompas_Otomotif_Evaluasi_Pengemudi_Taksi_Listrik.url";
+        Url  = "https://otomotif.kompas.com/"
     }
 )
 
