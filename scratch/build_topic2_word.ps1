@@ -326,7 +326,7 @@ try {
                     $shp = $pImg.Range.InlineShapes.AddPicture($resolvedPath, $false, $true)
                     $shp.Width = 14.5 * 28.3465
                     if ($resolvedPath -match '\.svg$') {
-                        $shp.Height = ($shp.Width * 515.0) / 960.0
+                        $shp.Height = ($shp.Width * 600.0) / 1000.0
                     } else {
                         $shp.Height = ($shp.Width * 1060.0) / 2400.0
                     }

@@ -1,109 +1,105 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 515" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="100%" height="100%">
     <defs>
         <!-- Marker for sharp arrowhead -->
         <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
             <path d="M 0 1.5 L 9 5 L 0 8.5 z" fill="#1e3a8a"/>
         </marker>
-        <!-- Drop shadows for badges -->
-        <filter id="badgeShadow" x="-10%" y="-10%" width="120%" height="130%">
-            <feDropShadow dx="0" dy="1.5" stdDeviation="1.5" flood-color="#0f172a" flood-opacity="0.12"/>
-        </filter>
     </defs>
 
     <!-- Background: Pure White -->
-    <rect width="960" height="515" fill="#ffffff"/>
+    <rect width="1000" height="600" fill="#ffffff"/>
 
     <!-- ========================================== -->
-    <!-- CONNECTING ARROWS (Rendered behind ovals)  -->
+    <!-- CONNECTING ARROWS                          -->
     <!-- ========================================== -->
     <!-- Arrow 1: X1 -> Y -->
-    <path d="M 326 95 L 666 195" stroke="#1e3a8a" stroke-width="2.8" fill="none" marker-end="url(#arrow)"/>
+    <path d="M 368 124 L 655 245" stroke="#1e3a8a" stroke-width="2.6" fill="none" marker-end="url(#arrow)"/>
 
     <!-- Arrow 2: X2 -> Y (Straight horizontal) -->
-    <path d="M 330 245 L 655 245" stroke="#1e3a8a" stroke-width="2.8" fill="none" marker-end="url(#arrow)"/>
+    <path d="M 375 285 L 648 285" stroke="#1e3a8a" stroke-width="2.6" fill="none" marker-end="url(#arrow)"/>
 
     <!-- Arrow 3: X3 -> Y -->
-    <path d="M 326 395 L 666 295" stroke="#1e3a8a" stroke-width="2.8" fill="none" marker-end="url(#arrow)"/>
+    <path d="M 368 446 L 655 325" stroke="#1e3a8a" stroke-width="2.6" fill="none" marker-end="url(#arrow)"/>
 
     <!-- ========================================== -->
-    <!-- HYPOTHESIS PILL BADGES                     -->
+    <!-- HYPOTHESIS PILL BADGES (No filters for Word/PDF compatibility) -->
     <!-- ========================================== -->
     <!-- Badge 1: H1 -->
-    <g transform="translate(415, 122)" filter="url(#badgeShadow)">
-        <rect width="162" height="46" rx="5" ry="5" fill="#ffffff" stroke="#1e3a8a" stroke-width="1.8"/>
-        <text x="81" y="20" font-family="'Times New Roman', serif" font-size="14.5" font-weight="bold" fill="#0f294a" text-anchor="middle">H₁ (+)</text>
-        <text x="81" y="37" font-family="'Times New Roman', serif" font-size="12" font-style="italic" fill="#334155" text-anchor="middle">Positif &amp; Signifikan</text>
+    <g id="badge-h1">
+        <rect x="432" y="164" width="160" height="42" rx="6" ry="6" fill="#ffffff" stroke="#1e3a8a" stroke-width="1.8"/>
+        <text x="512" y="180" font-family="'Times New Roman', serif" font-size="14" font-weight="bold" fill="#0f294a" text-anchor="middle">H₁ (+)</text>
+        <text x="512" y="197" font-family="'Times New Roman', serif" font-size="11.5" font-style="italic" fill="#334155" text-anchor="middle">Positif &amp; Signifikan</text>
     </g>
 
     <!-- Badge 2: H2 -->
-    <g transform="translate(415, 222)" filter="url(#badgeShadow)">
-        <rect width="162" height="46" rx="5" ry="5" fill="#ffffff" stroke="#1e3a8a" stroke-width="1.8"/>
-        <text x="81" y="20" font-family="'Times New Roman', serif" font-size="14.5" font-weight="bold" fill="#0f294a" text-anchor="middle">H₂ (+)</text>
-        <text x="81" y="37" font-family="'Times New Roman', serif" font-size="12" font-style="italic" fill="#334155" text-anchor="middle">Positif &amp; Signifikan</text>
+    <g id="badge-h2">
+        <rect x="432" y="264" width="160" height="42" rx="6" ry="6" fill="#ffffff" stroke="#1e3a8a" stroke-width="1.8"/>
+        <text x="512" y="280" font-family="'Times New Roman', serif" font-size="14" font-weight="bold" fill="#0f294a" text-anchor="middle">H₂ (+)</text>
+        <text x="512" y="297" font-family="'Times New Roman', serif" font-size="11.5" font-style="italic" fill="#334155" text-anchor="middle">Positif &amp; Signifikan</text>
     </g>
 
     <!-- Badge 3: H3 -->
-    <g transform="translate(415, 322)" filter="url(#badgeShadow)">
-        <rect width="162" height="46" rx="5" ry="5" fill="#ffffff" stroke="#1e3a8a" stroke-width="1.8"/>
-        <text x="81" y="20" font-family="'Times New Roman', serif" font-size="14.5" font-weight="bold" fill="#0f294a" text-anchor="middle">H₃ (+)</text>
-        <text x="81" y="37" font-family="'Times New Roman', serif" font-size="12" font-style="italic" fill="#334155" text-anchor="middle">Positif &amp; Signifikan</text>
+    <g id="badge-h3">
+        <rect x="432" y="364" width="160" height="42" rx="6" ry="6" fill="#ffffff" stroke="#1e3a8a" stroke-width="1.8"/>
+        <text x="512" y="380" font-family="'Times New Roman', serif" font-size="14" font-weight="bold" fill="#0f294a" text-anchor="middle">H₃ (+)</text>
+        <text x="512" y="397" font-family="'Times New Roman', serif" font-size="11.5" font-style="italic" fill="#334155" text-anchor="middle">Positif &amp; Signifikan</text>
     </g>
 
     <!-- ========================================== -->
     <!-- OVAL X1: BRAND IMAGE                       -->
     <!-- ========================================== -->
     <g id="oval-x1">
-        <ellipse cx="180" cy="85" rx="150" ry="68" fill="#f8faff" stroke="#1e3a8a" stroke-width="3"/>
-        <text x="180" y="58" font-family="'Times New Roman', serif" font-size="16.5" font-weight="bold" fill="#0f294a" text-anchor="middle">BRAND IMAGE (X₁)</text>
-        <line x1="85" y1="70" x2="275" y2="70" stroke="#cbd5e1" stroke-width="1.2" stroke-dasharray="4,3"/>
-        <text x="180" y="90" font-family="'Times New Roman', serif" font-size="12.5" fill="#1e293b" text-anchor="middle">- Citra Perusahaan (Corporate Image)</text>
-        <text x="180" y="110" font-family="'Times New Roman', serif" font-size="12.5" fill="#1e293b" text-anchor="middle">- Citra Pengguna (User Image)</text>
-        <text x="180" y="130" font-family="'Times New Roman', serif" font-size="12.5" fill="#1e293b" text-anchor="middle">- Citra Armada Listrik (Product Image)</text>
+        <ellipse cx="195" cy="100" rx="180" ry="84" fill="#f8faff" stroke="#1e3a8a" stroke-width="2.6"/>
+        <text x="195" y="72" font-family="'Times New Roman', serif" font-size="15.5" font-weight="bold" fill="#0f294a" text-anchor="middle">BRAND IMAGE (X₁)</text>
+        <line x1="110" y1="84" x2="280" y2="84" stroke="#cbd5e1" stroke-width="1.2" stroke-dasharray="4,3"/>
+        <text x="195" y="104" font-family="'Times New Roman', serif" font-size="11.5" fill="#1e293b" text-anchor="middle">- Citra Perusahaan (Corporate Image)</text>
+        <text x="195" y="123" font-family="'Times New Roman', serif" font-size="11.5" fill="#1e293b" text-anchor="middle">- Citra Pengguna (User Image)</text>
+        <text x="195" y="142" font-family="'Times New Roman', serif" font-size="11.5" fill="#1e293b" text-anchor="middle">- Citra Armada Listrik (Product Image)</text>
     </g>
 
     <!-- ========================================== -->
     <!-- OVAL X2: BRAND TRUST                       -->
     <!-- ========================================== -->
     <g id="oval-x2">
-        <ellipse cx="180" cy="245" rx="150" ry="68" fill="#f8faff" stroke="#1e3a8a" stroke-width="3"/>
-        <text x="180" y="218" font-family="'Times New Roman', serif" font-size="16.5" font-weight="bold" fill="#0f294a" text-anchor="middle">BRAND TRUST (X₂)</text>
-        <line x1="85" y1="230" x2="275" y2="230" stroke="#cbd5e1" stroke-width="1.2" stroke-dasharray="4,3"/>
-        <text x="180" y="250" font-family="'Times New Roman', serif" font-size="12.5" fill="#1e293b" text-anchor="middle">- Keandalan Merek (Brand Reliability)</text>
-        <text x="180" y="270" font-family="'Times New Roman', serif" font-size="12.5" fill="#1e293b" text-anchor="middle">- Itikad Baik &amp; Integritas (Benevolence)</text>
-        <text x="180" y="290" font-family="'Times New Roman', serif" font-size="12.5" fill="#1e293b" text-anchor="middle">- Kompetensi Pengemudi (Driver Competence)</text>
+        <ellipse cx="195" cy="285" rx="180" ry="84" fill="#f8faff" stroke="#1e3a8a" stroke-width="2.6"/>
+        <text x="195" y="257" font-family="'Times New Roman', serif" font-size="15.5" font-weight="bold" fill="#0f294a" text-anchor="middle">BRAND TRUST (X₂)</text>
+        <line x1="110" y1="269" x2="280" y2="269" stroke="#cbd5e1" stroke-width="1.2" stroke-dasharray="4,3"/>
+        <text x="195" y="289" font-family="'Times New Roman', serif" font-size="11.5" fill="#1e293b" text-anchor="middle">- Keandalan Merek (Brand Reliability)</text>
+        <text x="195" y="308" font-family="'Times New Roman', serif" font-size="11.5" fill="#1e293b" text-anchor="middle">- Itikad Baik &amp; Integritas (Benevolence)</text>
+        <text x="195" y="327" font-family="'Times New Roman', serif" font-size="11.5" fill="#1e293b" text-anchor="middle">- Kompetensi Pengemudi (Driver Competence)</text>
     </g>
 
     <!-- ========================================== -->
     <!-- OVAL X3: PERCEIVED SAFETY                  -->
     <!-- ========================================== -->
     <g id="oval-x3">
-        <ellipse cx="180" cy="405" rx="150" ry="68" fill="#f8faff" stroke="#1e3a8a" stroke-width="3"/>
-        <text x="180" y="378" font-family="'Times New Roman', serif" font-size="16.5" font-weight="bold" fill="#0f294a" text-anchor="middle">PERCEIVED SAFETY (X₃)</text>
-        <line x1="85" y1="390" x2="275" y2="390" stroke="#cbd5e1" stroke-width="1.2" stroke-dasharray="4,3"/>
-        <text x="180" y="410" font-family="'Times New Roman', serif" font-size="12.5" fill="#1e293b" text-anchor="middle">- Keselamatan Berkendara (Driving Safety)</text>
-        <text x="180" y="430" font-family="'Times New Roman', serif" font-size="12.5" fill="#1e293b" text-anchor="middle">- Keamanan Pribadi (Personal Security)</text>
-        <text x="180" y="450" font-family="'Times New Roman', serif" font-size="12.5" fill="#1e293b" text-anchor="middle">- Keandalan Teknis Armada Listrik (EV Safety)</text>
+        <ellipse cx="195" cy="470" rx="180" ry="84" fill="#f8faff" stroke="#1e3a8a" stroke-width="2.6"/>
+        <text x="195" y="442" font-family="'Times New Roman', serif" font-size="15.5" font-weight="bold" fill="#0f294a" text-anchor="middle">PERCEIVED SAFETY (X₃)</text>
+        <line x1="110" y1="454" x2="280" y2="454" stroke="#cbd5e1" stroke-width="1.2" stroke-dasharray="4,3"/>
+        <text x="195" y="474" font-family="'Times New Roman', serif" font-size="11.5" fill="#1e293b" text-anchor="middle">- Keselamatan Berkendara (Driving Safety)</text>
+        <text x="195" y="493" font-family="'Times New Roman', serif" font-size="11.5" fill="#1e293b" text-anchor="middle">- Keamanan Pribadi (Personal Security)</text>
+        <text x="195" y="512" font-family="'Times New Roman', serif" font-size="11.5" fill="#1e293b" text-anchor="middle">- Keandalan Teknis Armada Listrik (EV Safety)</text>
     </g>
 
     <!-- ========================================== -->
     <!-- OVAL Y: PURCHASE DECISION                  -->
     <!-- ========================================== -->
     <g id="oval-y">
-        <ellipse cx="805" cy="245" rx="145" ry="115" fill="#f4faf5" stroke="#15803d" stroke-width="3.2"/>
-        <text x="805" y="172" font-family="'Times New Roman', serif" font-size="17" font-weight="bold" fill="#14532d" text-anchor="middle">PURCHASE DECISION (Y)</text>
-        <text x="805" y="191" font-family="'Times New Roman', serif" font-size="12" font-style="italic" fill="#15803d" text-anchor="middle">Keputusan Pembelian &amp; Penggunaan Jasa</text>
-        <line x1="715" y1="203" x2="895" y2="203" stroke="#86efac" stroke-width="1.2" stroke-dasharray="4,3"/>
-        <text x="805" y="224" font-family="'Times New Roman', serif" font-size="12.2" fill="#1e293b" text-anchor="middle">- Kemantapan Menjatuhkan Pilihan</text>
-        <text x="805" y="244" font-family="'Times New Roman', serif" font-size="12.2" fill="#1e293b" text-anchor="middle">- Kebiasaan Menggunakan Jasa</text>
-        <text x="805" y="264" font-family="'Times New Roman', serif" font-size="12.2" fill="#1e293b" text-anchor="middle">- Rekomendasi kepada Pihak Lain</text>
-        <text x="805" y="284" font-family="'Times New Roman', serif" font-size="12.2" fill="#1e293b" text-anchor="middle">- Komitmen Penggunaan Ulang (Repeat Usage)</text>
-        <text x="805" y="304" font-family="'Times New Roman', serif" font-size="12.2" fill="#1e293b" text-anchor="middle">- Preferensi Mobilitas di Jakarta Barat</text>
+        <ellipse cx="815" cy="285" rx="165" ry="145" fill="#f4faf5" stroke="#15803d" stroke-width="2.8"/>
+        <text x="815" y="210" font-family="'Times New Roman', serif" font-size="16" font-weight="bold" fill="#14532d" text-anchor="middle">PURCHASE DECISION (Y)</text>
+        <text x="815" y="230" font-family="'Times New Roman', serif" font-size="11.5" font-style="italic" fill="#15803d" text-anchor="middle">Keputusan Pembelian &amp; Penggunaan Jasa</text>
+        <line x1="725" y1="242" x2="905" y2="242" stroke="#86efac" stroke-width="1.2" stroke-dasharray="4,3"/>
+        <text x="815" y="262" font-family="'Times New Roman', serif" font-size="11.5" fill="#1e293b" text-anchor="middle">- Kemantapan Menjatuhkan Pilihan</text>
+        <text x="815" y="282" font-family="'Times New Roman', serif" font-size="11.5" fill="#1e293b" text-anchor="middle">- Kebiasaan Menggunakan Jasa</text>
+        <text x="815" y="302" font-family="'Times New Roman', serif" font-size="11.5" fill="#1e293b" text-anchor="middle">- Rekomendasi kepada Pihak Lain</text>
+        <text x="815" y="322" font-family="'Times New Roman', serif" font-size="11.5" fill="#1e293b" text-anchor="middle">- Komitmen Penggunaan Ulang (Repeat Usage)</text>
+        <text x="815" y="342" font-family="'Times New Roman', serif" font-size="11.5" fill="#1e293b" text-anchor="middle">- Preferensi Mobilitas di Jakarta Barat</text>
     </g>
 
     <!-- ========================================== -->
     <!-- FOOTNOTE / SOURCE                          -->
     <!-- ========================================== -->
-    <text x="480" y="498" font-family="'Times New Roman', serif" font-size="11" font-style="italic" fill="#64748b" text-anchor="middle">
+    <text x="500" y="582" font-family="'Times New Roman', serif" font-size="11" font-style="italic" fill="#64748b" text-anchor="middle">
         Sumber: Model Konseptual Penelitian, diadaptasi dari Kotler et al. (2022), Zeithaml et al. (2023), Tjiptono (2022), serta Studi Empiris Terdahulu (2026)
     </text>
 </svg>
