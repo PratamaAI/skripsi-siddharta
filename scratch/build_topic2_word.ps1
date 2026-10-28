@@ -418,6 +418,7 @@ try {
         $tbl.Borders.Enable = 1
         $tbl.Range.Font.Name = "Times New Roman"
         $tbl.Range.Font.Size = 9.5
+        $tbl.Range.Font.Bold = 0
         $tbl.Range.ParagraphFormat.SpaceBefore = 2
         $tbl.Range.ParagraphFormat.SpaceAfter = 2
         $tbl.Range.ParagraphFormat.LineSpacing = 13
@@ -439,6 +440,8 @@ try {
             if ($isHeader) {
                 $tbl.Rows.Item($rIdx + 1).Range.Font.Bold = 1
                 $tbl.Rows.Item($rIdx + 1).Shading.BackgroundPatternColor = 15132390 # Light gray
+            } else {
+                $tbl.Rows.Item($rIdx + 1).Range.Font.Bold = 0
             }
             $rowArr = $tableData[$rIdx]
             for ($cIdx = 0; $cIdx -lt [Math]::Min($colCount, $rowArr.Count); $cIdx++) {
@@ -446,8 +449,10 @@ try {
                 $cell = $tbl.Cell($rIdx + 1, $cIdx + 1)
                 $cell.Range.Text = $cellVal
                 if ($isHeader) {
+                    $cell.Range.Font.Bold = 1
                     $cell.Range.ParagraphFormat.Alignment = 1 # Center
                 } else {
+                    $cell.Range.Font.Bold = 0
                     if ($cIdx -eq 0 -and $cellVal -match '^[0-9]+$') {
                         $cell.Range.ParagraphFormat.Alignment = 1 # Center number
                     } else {
@@ -672,6 +677,22 @@ try {
         $find.MatchCase = $false
         $find.MatchWholeWord = $false
         $find.Execute($term, $false, $false, $false, $false, $false, $true, 1, $true, "^&", 2) | Out-Null
+    }
+
+    Write-Host "Ensuring all table body rows are unbolded (only header rows remain bold)..."
+    foreach ($tbl in $doc.Tables) {
+        if ($tbl.Borders.Enable -ne 0) {
+            # Content tables (Tabel 2.1, Tabel 3.1): Row 1 is header (bold), rows 2..Count are strictly unbolded
+            $tbl.Rows.Item(1).Range.Font.Bold = 1
+            for ($r = 2; $r -le $tbl.Rows.Count; $r++) {
+                $tbl.Rows.Item($r).Range.Font.Bold = 0
+            }
+        } else {
+            # Borderless tables (e.g. Approval page table): all rows unbolded
+            for ($r = 1; $r -le $tbl.Rows.Count; $r++) {
+                $tbl.Rows.Item($r).Range.Font.Bold = 0
+            }
+        }
     }
 
     Write-Host "Configuring UKRIDA Standard Page Numbering and Footers..."
