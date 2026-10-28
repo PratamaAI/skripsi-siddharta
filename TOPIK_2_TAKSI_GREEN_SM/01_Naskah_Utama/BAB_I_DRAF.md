@@ -29,26 +29,28 @@ Faktor ketiga yang sangat krusial dan memiliki kebaruan konseptual yang kuat pad
 
 Relevansi pengaruh citra merek, kepercayaan, dan evaluasi kualitas layanan terhadap keputusan konsumen ini juga didukung secara teoritis dan empiris oleh publikasi Dosen Program Studi Manajemen FEB UKRIDA, Melitina Tecoalu bersama Saparso dan Fernandes (2021) serta Tecoalu (2021). Dalam penelitian empiris mengenai sektor transportasi penumpang berbasis aplikasi (*online transport*) di wilayah DKI Jakarta, Tecoalu (2021) menegaskan bahwa reputasi citra perusahaan (*company/brand image*) dan standar pelayanan prima memegang peranan krusial dalam membentuk kepuasan dan loyalitas pengguna transportasi perkotaan. Lebih lanjut, Tecoalu *et al.* (2021) serta Sundah, Tecoalu, dan Wahyoedi (2022) membuktikan bahwa *Brand Image* dan faktor *Trust* (kepercayaan) secara langsung berpengaruh positif dan signifikan dalam memantapkan keputusan pembelian (*purchase decision*) konsumen. Hal ini memperkuat rasionalitas teoritis bahwa penetrasi jasa taksi *Green SM* di Jakarta Barat sangat bergantung pada persepsi citra armada listrik yang positif, integritas kepercayaan merek, serta jaminan keselamatan (*Perceived Safety*) yang dirasakan pengguna selama di perjalanan.
 
-Meskipun kajian mengenai adopsi transportasi dan kendaraan listrik telah banyak dilakukan, mayoritas penelitian terdahulu mengkaji kendaraan listrik dari sudut pandang kepemilikan pribadi (mobil/motor pribadi) atau berfokus pada transportasi umum konvensional (Wijaya & Pahar, 2022). Belum banyak studi empiris komprehensif yang secara simultan mengintegrasikan variabel *Brand Image*, *Brand Trust*, dan *Perceived Safety* terhadap *Purchase Decision* pada kategori armada **Taksi Listrik Murni (*Green SM* / *VinFast*)** di area metropolitan dengan karakteristik mobilitas dinamis seperti **Jakarta Barat**.
+Urgensi penelitian ini menjadi semakin krusial ketika dikaitkan dengan segmen demografis konsumen masa kini, khususnya kelompok **Generasi Z (Gen Z)**. Berdasarkan data BPS Provinsi DKI Jakarta (2023), kelompok Generasi Z (kelahiran tahun 1997–2012) merupakan salah satu proporsi populasi usia produktif terbesar dan paling dinamis di kawasan perkotaan, termasuk di Jakarta Barat yang dipadati oleh institusi perguruan tinggi terkemuka (seperti UKRIDA, Untar, Trisakti, Binus) serta sentra gaya hidup dan perkantoran modern. Menurut laporan riset perilaku konsumen digital (*Indonesia Gen Z Report*, 2024; Populix, 2024), Generasi Z memiliki karakteristik distingtif sebagai *digital natives* yang mengandalkan aplikasi ponsel pintar dalam mobilitas harian serta memiliki kesadaran ekologis (*environmental awareness*) dan kepedulian terhadap isu keberlanjutan (*green lifestyle*) yang tertinggi dibandingkan generasi sebelumnya. Karakteristik ini menjadikan Generasi Z sebagai target pasar potensial (*early adopters*) yang paling selaras dengan proposisi nilai ramah lingkungan taksi listrik *Green SM*. Namun, di sisi lain, Generasi Z juga dikenal sangat kritis dan selektif terhadap reputasi merek (*Brand Image*), menuntut transparansi dan integritas layanan (*Brand Trust*), serta memprioritaskan jaminan keselamatan dan proteksi pribadi (*Perceived Safety*) saat bepergian. Oleh karena itu, menyelidiki bagaimana ketiga faktor tersebut membentuk keputusan pembelian Generasi Z di Jakarta Barat memberikan kontribusi ilmiah yang sangat kontekstual dan orisinal bagi strategi pemasaran transportasi hijau.
+
+Meskipun kajian mengenai adopsi transportasi dan kendaraan listrik telah banyak dilakukan, mayoritas penelitian terdahulu mengkaji kendaraan listrik dari sudut pandang kepemilikan pribadi (mobil/motor pribadi) atau berfokus pada transportasi umum konvensional tanpa segmentasi generasi yang spesifik (Wijaya & Pahar, 2022). Belum banyak studi empiris komprehensif yang secara simultan mengintegrasikan variabel *Brand Image*, *Brand Trust*, dan *Perceived Safety* terhadap *Purchase Decision* pada kategori armada **Taksi Listrik Murni (*Green SM* / *VinFast*)** yang difokuskan secara spesifik pada **Generasi Z** di area metropolitan dengan karakteristik mobilitas dinamis seperti **Jakarta Barat**.
 
 Berdasarkan latar belakang konseptual, fenomena persaingan riil di lapangan, serta kesenjangan penelitian (*research gap*) yang telah diuraikan, maka peneliti tertarik untuk melakukan penelitian ilmiah yang mendalam dan sistematis dengan judul:  
-**"Pengaruh *Brand Image*, *Brand Trust* dan *Perceived Safety* terhadap *Purchase Decision* dalam Penggunaan Jasa Taksi *Green SM* di Wilayah Jakarta Barat"**.
+**"Pengaruh *Brand Image*, *Brand Trust* dan *Perceived Safety* terhadap *Purchase Decision* dalam Penggunaan Jasa Taksi *Green SM* oleh Generasi Z di Wilayah Jakarta Barat"**.
 
 ---
 
 ## 1.2 Rumusan Masalah
 Berdasarkan latar belakang penelitian yang telah diuraikan, maka rumusan masalah dalam penelitian ini adalah sebagai berikut:
-1. Apakah *Brand Image* berpengaruh positif terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat?
-2. Apakah *Brand Trust* berpengaruh positif terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat?
-3. Apakah *Perceived Safety* berpengaruh positif terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat?
+1. Apakah *Brand Image* berpengaruh positif terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* oleh Generasi Z di wilayah Jakarta Barat?
+2. Apakah *Brand Trust* berpengaruh positif terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* oleh Generasi Z di wilayah Jakarta Barat?
+3. Apakah *Perceived Safety* berpengaruh positif terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* oleh Generasi Z di wilayah Jakarta Barat?
 
 ---
 
 ## 1.3 Tujuan Penelitian
 Sesuai dengan rumusan masalah yang diajukan, tujuan dari pelaksanaan penelitian ini adalah:
-1. Untuk mengetahui dan menganalisis pengaruh *Brand Image* terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat.
-2. Untuk mengetahui dan menganalisis pengaruh *Brand Trust* terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat.
-3. Untuk mengetahui dan menganalisis pengaruh *Perceived Safety* terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat.
+1. Untuk mengetahui dan menganalisis pengaruh *Brand Image* terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* oleh Generasi Z di wilayah Jakarta Barat.
+2. Untuk mengetahui dan menganalisis pengaruh *Brand Trust* terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* oleh Generasi Z di wilayah Jakarta Barat.
+3. Untuk mengetahui dan menganalisis pengaruh *Perceived Safety* terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* oleh Generasi Z di wilayah Jakarta Barat.
 
 ---
 
@@ -57,12 +59,12 @@ Hasil penelitian ini diharapkan dapat memberikan kontribusi dan manfaat, baik se
 
 ### 1.4.1 Manfaat Teoritis
 - Memberikan kontribusi nyata bagi pengembangan literatur manajemen pemasaran, khususnya pada cabang perilaku konsumen (*consumer behavior*), manajemen merek (*brand management*), dan pemasaran jasa transportasi berkelanjutan (*green marketing in transportation*).
-- Memperkaya khazanah keilmuan mengenai integrasi teori ekuitas merek (Keller/Aaker), teori kepercayaan merek (Chaudhuri & Holbrook), dan teori persepsi risiko keselamatan (Bauer/Parasuraman) dalam menjelaskan adopsi armada kendaraan listrik di Indonesia.
-- Menjadi sumber referensi empiris bagi civitas akademika Universitas Kristen Krida Wacana (UKRIDA) dan peneliti lain yang hendak melakukan kajian lanjutan terkait inovasi transportasi ramah lingkungan.
+- Memperkaya khazanah keilmuan mengenai integrasi teori ekuitas merek (Keller/Aaker), teori kepercayaan merek (Chaudhuri & Holbrook), dan teori persepsi risiko keselamatan (Bauer/Parasuraman) dalam menjelaskan adopsi armada kendaraan listrik di kalangan generasi muda Indonesia.
+- Menjadi sumber referensi empiris bagi civitas akademika Universitas Kristen Krida Wacana (UKRIDA) dan peneliti lain yang hendak melakukan kajian lanjutan terkait inovasi transportasi ramah lingkungan dan preferensi Generasi Z.
 
 ### 1.4.2 Manfaat Praktis
 - **Bagi Manajemen PT Xanh SM (*Green SM Indonesia*):**  
-  Memberikan masukan strategis berbasis data empiris mengenai faktor-faktor yang paling dominan dipertimbangkan konsumen di wilayah Jakarta Barat. Hal ini berguna dalam merumuskan strategi penjenamaan (*branding*), kampanye edukasi keselamatan armada listrik, peningkatan pelatihan standar layanan pengemudi, dan perancangan promosi penetrasi pasar yang efektif.
+  Memberikan masukan strategis berbasis data empiris mengenai faktor-faktor yang paling dominan dipertimbangkan oleh segmen konsumen Generasi Z di wilayah Jakarta Barat. Hal ini berguna dalam merumuskan strategi penjenamaan (*branding*), kampanye edukasi keselamatan armada listrik yang komunikatif bagi generasi muda, peningkatan pelatihan standar layanan pengemudi, dan perancangan promosi penetrasi pasar yang efektif.
 - **Bagi Pemerintah dan Regulator Transportasi (Dishub DKI Jakarta):**  
   Memberikan gambaran mengenai respons psikologis dan penerimaan publik terhadap elektrifikasi angkutan umum, sehingga dapat mendukung penyusunan kebijakan transportasi perkotaan yang ramah lingkungan dan berkelanjutan.
 - **Bagi Konsumen dan Masyarakat Umum:**  

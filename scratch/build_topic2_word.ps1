@@ -96,7 +96,7 @@ try {
         @{ Text = "PURCHASE DECISION"; Bold = $true; Italic = $true },
         @{ Text = " DALAM PENGGUNAAN JASA TAKSI "; Bold = $true; Italic = $false },
         @{ Text = "GREEN SM"; Bold = $true; Italic = $true },
-        @{ Text = " DI WILAYAH JAKARTA BARAT"; Bold = $true; Italic = $false }
+        @{ Text = " OLEH GENERASI Z DI WILAYAH JAKARTA BARAT"; Bold = $true; Italic = $false }
     )
 
     foreach ($r in $runs) {
@@ -152,7 +152,7 @@ try {
     $tblApproval.Rows.LeftIndent = 0
 
     $appData = @(
-        @("Judul Proposal", ":", "Pengaruh Brand Image, Brand Trust dan Perceived Safety terhadap Purchase Decision dalam Penggunaan Jasa Taksi Green SM di Wilayah Jakarta Barat"),
+        @("Judul Proposal", ":", "Pengaruh Brand Image, Brand Trust dan Perceived Safety terhadap Purchase Decision dalam Penggunaan Jasa Taksi Green SM oleh Generasi Z di Wilayah Jakarta Barat"),
         @("Nama Mahasiswa", ":", "Siddharta Pratama Budiono"),
         @("NIM", ":", "312023017"),
         @("Program Studi", ":", "S1 Manajemen"),

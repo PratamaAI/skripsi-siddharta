@@ -4,7 +4,7 @@
 ## 3.1 Objek Penelitian dan Desain Penelitian
 
 ### 3.1.1 Objek Penelitian
-Objek dalam penelitian ini adalah persepsi konsumen mengenai *Brand Image* (Citra Merek), *Brand Trust* (Kepercayaan Merek), dan *Perceived Safety* (Persepsi Keamanan/Keselamatan) serta pengaruhnya terhadap *Purchase Decision* (Keputusan Pembelian/Penggunaan Jasa) taksi listrik *Green SM* yang dioperasikan oleh PT Xanh SM *Green and Smart Mobility Indonesia*. Unit analisis dalam penelitian ini adalah individu konsumen yang berdomisili, bekerja, atau beraktivitas rutin di wilayah administratif Jakarta Barat.
+Objek dalam penelitian ini adalah persepsi konsumen mengenai *Brand Image* (Citra Merek), *Brand Trust* (Kepercayaan Merek), dan *Perceived Safety* (Persepsi Keamanan/Keselamatan) serta pengaruhnya terhadap *Purchase Decision* (Keputusan Pembelian/Penggunaan Jasa) taksi listrik *Green SM* yang dioperasikan oleh PT Xanh SM *Green and Smart Mobility Indonesia*. Unit analisis dalam penelitian ini adalah individu konsumen kelompok Generasi Z yang berdomisili, menempuh pendidikan tinggi, bekerja, atau beraktivitas rutin di wilayah administratif Jakarta Barat.
 
 ### 3.1.2 Desain Penelitian
 Penelitian ini menggunakan pendekatan **kuantitatif** dengan metode asosiatif kausal (*causal-explanatory research design*). Menurut Sugiyono (2022) serta Ghozali (2021), penelitian kuantitatif eksplanatif bertujuan untuk menguji hipotesis dan menjelaskan sifat hubungan sebab-akibat antara variabel-variabel independen yang diteliti terhadap variabel dependen.
@@ -57,14 +57,14 @@ Berikut disajikan tabel operasionalisasi variabel secara komprehensif:
 ## 3.3 Populasi, Sampel, dan Teknik Penarikan Sampel
 
 ### 3.3.1 Populasi Penelitian
-Populasi adalah wilayah generalisasi yang terdiri atas objek/subjek yang mempunyai kuantitas dan karakteristik tertentu yang ditetapkan oleh peneliti untuk dipelajari dan kemudian ditarik kesimpulannya (Sugiyono, 2022). Populasi dalam penelitian ini adalah seluruh masyarakat yang berdomisili, bekerja, berkuliah, atau beraktivitas rutin di wilayah administratif Kota Administrasi Jakarta Barat dan telah mengetahui keberadaan layanan taksi listrik *Green SM*. Karena jumlah populasi pengguna maupun calon pengguna taksi *Green SM* di Jakarta Barat sangat dinamis, luas, dan tidak terdokumentasi secara pasti dalam basis data publik, maka populasi penelitian ini dikategorikan sebagai **populasi tak hingga / tidak diketahui secara pasti (*unknown / infinite population*)**.
+Populasi adalah wilayah generalisasi yang terdiri atas objek/subjek yang mempunyai kuantitas dan karakteristik tertentu yang ditetapkan oleh peneliti untuk dipelajari dan kemudian ditarik kesimpulannya (Sugiyono, 2022). Populasi dalam penelitian ini adalah seluruh masyarakat kelompok Generasi Z yang berdomisili, menempuh pendidikan tinggi, bekerja, atau beraktivitas rutin di wilayah administratif Kota Administrasi Jakarta Barat dan telah mengetahui keberadaan layanan taksi listrik *Green SM*. Karena jumlah populasi pengguna maupun calon pengguna taksi *Green SM* di Jakarta Barat sangat dinamis, luas, dan tidak terdokumentasi secara pasti dalam basis data publik, maka populasi penelitian ini dikategorikan sebagai **populasi tak hingga / tidak diketahui secara pasti (*unknown / infinite population*)**.
 
 ### 3.3.2 Teknik Penarikan Sampel
 Mengingat ukuran populasi tidak diketahui secara pasti (*sampling frame* tidak tersedia), maka teknik pengambilan sampel yang digunakan adalah metode ***Non-Probability Sampling***, secara khusus menggunakan pendekatan ***Purposive Sampling*** (penarikan sampel bertujuan). Menurut Sugiyono (2022) serta Ghozali (2021), *purposive sampling* adalah teknik penentuan sampel dengan menetapkan pertimbangan atau kriteria tertentu yang relevan dengan tujuan penelitian, sehingga data yang diperoleh representatif dan akurat.
 
 Kriteria inklusi responden (*screening questions*) dalam penelitian ini meliputi:
-1. Responden berusia minimal 17 tahun (telah memiliki identitas KTP, dewasa, dan mandiri dalam mengambil keputusan mobilitas serta bertransaksi keuangan).
-2. Berdomisili, bekerja, menempuh pendidikan tinggi, atau sering beraktivitas di wilayah administratif Jakarta Barat (seperti kawasan perkantoran/mall di Grogol Petamburan, Palmerah, Kebon Jeruk, Kembangan, Cengkareng, Kalideres, Tambora, atau Taman Sari).
+1. Responden tergolong dalam kelompok Generasi Z, yaitu berusia antara 17 hingga 29 tahun pada saat penelitian dilakukan (kelahiran tahun 1997–2009), telah memiliki identitas KTP, serta mandiri secara finansial dan hukum dalam mengambil keputusan mobilitas.
+2. Berdomisili, menempuh pendidikan tinggi (kuliah), bekerja, atau sering beraktivitas rutin di wilayah administratif Jakarta Barat (seperti kawasan kampus perguruan tinggi, perkantoran, atau pusat perbelanjaan di Grogol Petamburan, Palmerah, Kebon Jeruk, Kembangan, Cengkareng, Kalideres, Tambora, atau Taman Sari).
 3. Mengetahui keberadaan merek taksi listrik *Green SM* (pernah melihat armada di jalan, melihat iklan/media sosial, atau mengunduh aplikasi *Green SM*).
 4. Pernah menggunakan jasa taksi *Green SM* minimal satu kali **ATAU** sedang mempertimbangkan secara aktif untuk memilih menggunakan taksi *Green SM* dalam waktu dekat (*prospective users*).
 
