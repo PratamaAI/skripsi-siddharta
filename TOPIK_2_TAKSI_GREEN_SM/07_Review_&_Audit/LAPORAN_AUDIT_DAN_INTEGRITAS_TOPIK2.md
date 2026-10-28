@@ -47,7 +47,7 @@
 | 14 | `Dahlia_2024_Kepercayaan_Kemudahan_Keamanan_Keputusan.pdf` | 259.891 | `%PDF` | `10.36085/jems.v5i1.5977` | $X_2$ Kepercayaan, Kemudahan, $X_3$ Keamanan $\rightarrow Y$ Keputusan Pembelian | X2, X3 |
 | 15 | `Patricia_2026_Keamanan_Kepercayaan_Keputusan.pdf` | 366.895 | `%PDF` | `10.33395/jmp.v15i1.16085` | $X_{other}$ Kemudahan, $X_3$ Keamanan, $X_2$ Kepercayaan $\rightarrow Y$ Keputusan Penggunaan | X2, X3 |
 | 16 | `Vivi_2024_Keamanan_Kepercayaan_Keputusan_Pembelian.pdf` | 756.678 | `%PDF` | `10.33884/scientiajournal.v7i4.10513` | $X_{other}$ Kualitas, $X_3$ Persepsi Keamanan, $X_2$ Kepercayaan $\rightarrow Y$ Keputusan Pembelian | X2, X3 |
-| 17 | `Wulandari_2021_Kepercayaan_Keamanan_Keputusan_Pembelian.pdf` | 299.110 | `%PDF` | `10.30587/manajerial.v4i1.310` | $X_2$ Kepercayaan, $X_3$ Keamanan, Resiko, Layanan $\rightarrow Y$ Keputusan Pembelian | X2, X3 |
+| 17 | `Devananda_2023_Kepercayaan_Brand_Image_Keamanan_Keputusan.pdf` | 366.017 | `%PDF` | `10.54371/jiip.v6i10.2183` | $X_1$ Brand Image, $X_2$ Kepercayaan, $X_3$ Keamanan $\rightarrow Y$ Keputusan Pembelian (Gen Z) | X1, X2, X3 |
 
 ### B. Karya Ilmiah Dosen Program Studi Manajemen FEB UKRIDA (`02_Karya_Dosen_FEB_UKRIDA/`)
 | No | Nama Berkas PDF | Ukuran (Bytes) | Header | DOI Resmi | Keterangan & Penulis |

@@ -58,7 +58,7 @@ Dalam penulisan skripsi akademik Fakultas Ekonomi dan Bisnis (FEB), definisi set
   * **Rayle, Dai, Chan, Cervero, & Shaheen (2016)** — *"Just a better taxi? A survey-based comparison of taxis, transit, and ridesourcing in San Francisco"*, *Transport Policy*, 45, 168-178 (Menganalisis rasa aman, keandalan, dan keputusan pemilihan armada taksi).
   * **Melitina Tecoalu (2021)** — *Primanomics: Jurnal Ekonomi dan Bisnis*, 19(2), 1-13 (Dosen FEB UKRIDA): Membahas pentingnya jaminan keselamatan dan keandalan armada transportasi dalam mendorong keputusan pengguna di Jakarta.
   * **Vivi & Hikmah (2024)** — Kajian teori komprehensif mengenai dimensi persepsi keamanan: keselamatan berkendara (*driving safety*), keamanan personal (*personal security*), dan keandalan armada teknis (*technical safety*).
-  * **Wulandari (2021)** & **Patricia & Djong (2026)**: Telaah persepsi keamanan dalam memitigasi risiko bertransaksi pada konsumen Generasi Z.
+  * **Devananda et al. (2023)** & **Patricia & Djong (2026)**: Telaah persepsi keamanan dan perlindungan konsumen dalam memantapkan keputusan bertransaksi pada Generasi Z.
 
 ---
 

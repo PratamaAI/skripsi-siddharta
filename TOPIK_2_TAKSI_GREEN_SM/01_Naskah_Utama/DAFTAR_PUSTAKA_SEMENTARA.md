@@ -84,7 +84,7 @@ Asnawir, & Simanjuntak, M. (2024). The role of perceived risk in moderating the 
 
 Dahlia, D., & Hartono, S. (2024). Pengaruh kepercayaan, kemudahan dan keamanan terhadap keputusan pembelian pada situs marketplace Shopee. *Jurnal Entrepreneur dan Manajemen Sains (JEMS)*, 5(1), 105–116. https://doi.org/10.36085/jems.v5i1.5977
 
-Devananda, R., & Hartono, B. (2023). Pengaruh kepercayaan, brand image, keamanan terhadap keputusan pembelian (Studi pada pengguna Shopee Generasi Y & Z). *JIIP - Jurnal Ilmiah Ilmu Pendidikan*, 6(10), 8021–8030. https://doi.org/10.54371/jiip.v6i10.2183
+Devananda, L., Fadhilah, M., & Hutami, L. T. H. (2023). Pengaruh kepercayaan, brand image, keamanan terhadap keputusan pembelian (Studi pada pengguna Shopee Generasi Y & Z). *JIIP - Jurnal Ilmiah Ilmu Pendidikan*, 6(10), 8072–8079. https://doi.org/10.54371/jiip.v6i10.2183
 
 Fadila, N., & Wahyuni, S. (2025). Pengaruh environmental awareness, brand trust, dan brand image terhadap keputusan pembelian The Body Shop dengan brand loyalty sebagai media intervening. *Paradoks: Jurnal Ilmu Ekonomi*, 8(2), 211–224. https://doi.org/10.57178/paradoks.v8i2.1251
 
@@ -103,5 +103,3 @@ Putri, W., & Harti, H. (2022). Pengaruh *brand image* dan *brand ambassador* ter
 Vivi, & Hikmah, N. (2024). Pengaruh kualitas produk, persepsi keamanan dan kepercayaan terhadap keputusan pembelian pada *merchant* di TikTok. *Scientia Journal : Jurnal Ilmiah Mahasiswa*, 7(4), 10513–10525. https://doi.org/10.33884/scientiajournal.v7i4.10513
 
 Wijaya, V. T., & Pahar, B. H. (2022). Pengaruh citra merek, kepercayaan merek, dan keamanan privasi terhadap keputusan pengguna Gojek. *BIP’s Jurnal Bisnis Perspektif*, 14(1), 241–254. https://doi.org/10.37477/bip.v14i1.241
-
-Wulandari, R. (2021). Pengaruh kepercayaan, keamanan, persepsi resiko dan kualitas pelayanan terhadap keputusan pembelian secara online melalui media sosial Instagram. *Manajerial*, 4(1), 310–322. https://doi.org/10.30587/manajerial.v4i1.310
