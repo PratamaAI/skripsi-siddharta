@@ -187,13 +187,13 @@ public class DiagramGenerator
 
             // Arrows from X Ovals directly to Y Oval perimeter
             // Arrow 1: X1 -> Y
-            drawArrow(xLeft + ovalW * 0.94f, ovalY1 + ovalH * 0.74f, xRight + yOvalW * 0.05f, yY + yOvalH * 0.22f, "H1 (+)", "Positif & Signifikan");
+            drawArrow(xLeft + ovalW * 0.94f, ovalY1 + ovalH * 0.74f, xRight + yOvalW * 0.05f, yY + yOvalH * 0.22f, "H1 (+)", "Positif");
 
             // Arrow 2: X2 -> Y (Horizontal)
-            drawArrow(xLeft + ovalW, ovalY2 + ovalH / 2f, xRight, yY + yOvalH / 2f, "H2 (+)", "Positif & Signifikan");
+            drawArrow(xLeft + ovalW, ovalY2 + ovalH / 2f, xRight, yY + yOvalH / 2f, "H2 (+)", "Positif");
 
             // Arrow 3: X3 -> Y
-            drawArrow(xLeft + ovalW * 0.94f, ovalY3 + ovalH * 0.26f, xRight + yOvalW * 0.05f, yY + yOvalH * 0.78f, "H3 (+)", "Positif & Signifikan");
+            drawArrow(xLeft + ovalW * 0.94f, ovalY3 + ovalH * 0.26f, xRight + yOvalW * 0.05f, yY + yOvalH * 0.78f, "H3 (+)", "Positif");
 
             // Footnote / Source caption at bottom
             StringFormat sfBottom = new StringFormat { Alignment = StringAlignment.Center };

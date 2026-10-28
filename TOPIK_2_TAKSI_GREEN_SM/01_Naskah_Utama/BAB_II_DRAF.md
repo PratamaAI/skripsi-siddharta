@@ -93,7 +93,7 @@ Citra merek (*Brand Image*) merupakan representasi kognitif dan emosional dari k
 
 Pada operasional taksi *Green SM* di wilayah Jakarta Barat, citra merek sebagai pelopor taksi listrik murni dengan standar pelayanan premium dan armada hening tanpa emisi memberikan diferensiasi kuat yang menarik minat masyarakat perkotaan. Bukti empiris dari Wijaya dan Pahar (2022) pada industri transportasi membuktikan bahwa citra merek secara signifikan memicu keputusan konsumen. Temuan ini diperkuat oleh Nurlita dan Arsyad (2025), Asnawir dan Simanjuntak (2024), Patria dan Susila (2023), Devananda dan Hartono (2023), Fadila dan Wahyuni (2025), Inggasari dan Prabowo (2022), serta Adha dan Suhardi (2025) pada adopsi kendaraan listrik yang secara konsisten mengonfirmasi bahwa *Brand Image* berpengaruh positif dan signifikan terhadap *Purchase Decision*. Berdasarkan landasan teoritis dan empiris tersebut, maka hipotesis pertama dirumuskan sebagai berikut:
 
-> **$H_1$:** *Brand Image* berpengaruh positif dan signifikan terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat.
+> **$H_1$:** *Brand Image* berpengaruh positif terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat.
 
 ---
 
@@ -102,7 +102,7 @@ Kepercayaan merek (*Brand Trust*) merupakan pondasi utama dalam hubungan jangka 
 
 Ketiadaan rasa percaya akan menimbulkan keengganan konsumen untuk mencoba layanan baru. Sebaliknya, tingkat kepercayaan merek yang tinggi akan menghilangkan keraguan konsumen, sehingga secara langsung mempercepat peralihan dari sekadar evaluasi alternatif menjadi tindakan pembelian nyata (*actual purchase decision*). Studi empiris oleh Hera dan Fourqoniah (2023), Nurlita dan Arsyad (2025), Adha dan Suhardi (2025), Putri dan Harti (2022), Devananda dan Hartono (2023), Fadila dan Wahyuni (2025), Inggasari dan Prabowo (2022), Afendi dan Suhardi (2026), Agustiningrum dan Widyastuti (2021), Ardialis dan Irfani (2023), Dahlia dan Hartono (2024), serta Wijaya dan Pahar (2022) secara konsisten mengonfirmasi bahwa *Brand Trust* memiliki pengaruh positif dan signifikan terhadap keputusan pembelian konsumen. Oleh karena itu, hipotesis kedua dirumuskan sebagai berikut:
 
-> **$H_2$:** *Brand Trust* berpengaruh positif dan signifikan terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat.
+> **$H_2$:** *Brand Trust* berpengaruh positif terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat.
 
 ---
 
@@ -111,7 +111,7 @@ Keselamatan dan keamanan penumpang merupakan kebutuhan mutlak (*hygiene factor*)
 
 Penelitian Wijaya dan Pahar (2022) pada moda transportasi penumpang, Afendi dan Suhardi (2026) pada layanan transportasi dan pemesanan daring, Vivi dan Hikmah (2024), Wulandari (2021), Asnawir dan Simanjuntak (2024), Devananda dan Hartono (2023), Agustiningrum dan Widyastuti (2021), Ardialis dan Irfani (2023), Dahlia dan Hartono (2024), serta Patricia dan Djong (2026) membuktikan bahwa persepsi keamanan berpengaruh positif dan signifikan terhadap keputusan penggunaan dan pembelian layanan. Hal ini juga selaras dengan hasil studi Dosen FEB UKRIDA, Melitina Tecoalu (2021), yang menegaskan pentingnya jaminan keselamatan dan keandalan operasional armada dalam mendorong keputusan penggunaan layanan transportasi di Jakarta. Semakin tinggi persepsi keselamatan yang dirasakan konsumen terhadap armada *Green SM*, semakin mantap keputusan mereka untuk menggunakan jasa taksi tersebut. Oleh karena itu, hipotesis ketiga dirumuskan sebagai berikut:
 
-> **$H_3$:** *Perceived Safety* berpengaruh positif dan signifikan terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat.
+> **$H_3$:** *Perceived Safety* berpengaruh positif terhadap *Purchase Decision* dalam penggunaan jasa taksi *Green SM* di wilayah Jakarta Barat.
 
 ---
 
