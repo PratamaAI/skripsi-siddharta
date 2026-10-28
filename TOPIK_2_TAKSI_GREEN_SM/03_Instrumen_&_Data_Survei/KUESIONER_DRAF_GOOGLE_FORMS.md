@@ -110,7 +110,7 @@ Mohon berikan penilaian Anda terhadap pernyataan-pernyataan di bawah ini dengan 
 
 ---
 
-### A. VARIABEL BRAND IMAGE ($X_1$) - CITRA MEREK
+### A. VARIABEL BRAND IMAGE (X₁) - CITRA MEREK
 
 | No | Kode | Butir Pernyataan | STS (1) | TS (2) | N (3) | S (4) | SS (5) |
 |---|---|---|:---:|:---:|:---:|:---:|:---:|
@@ -119,9 +119,11 @@ Mohon berikan penilaian Anda terhadap pernyataan-pernyataan di bawah ini dengan 
 | 3 | **X1.3** | Taksi Green SM memiliki ciri khas armada mobil listrik murni yang hening, bersih, nyaman, dan berteknologi tinggi. | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 4 | **X1.4** | Desain dan warna hijau toska (*cyan*) khas taksi Green SM sangat menarik, distingtif, dan mudah dikenali di jalanan Jakarta Barat. | [ ] | [ ] | [ ] | [ ] | [ ] |
 
+Sumber: Data diolah oleh penulis (2026), diadaptasi dari Kotler et al. (2022), Aaker (2023), dan Wijaya & Pahar (2022)
+
 ---
 
-### B. VARIABEL BRAND TRUST ($X_2$) - KEPERCAYAAN MEREK
+### B. VARIABEL BRAND TRUST (X₂) - KEPERCAYAAN MEREK
 
 | No | Kode | Butir Pernyataan | STS (1) | TS (2) | N (3) | S (4) | SS (5) |
 |---|---|---|:---:|:---:|:---:|:---:|:---:|
@@ -130,9 +132,11 @@ Mohon berikan penilaian Anda terhadap pernyataan-pernyataan di bawah ini dengan 
 | 7 | **X2.3** | Pengemudi taksi Green SM memiliki kompetensi mengemudi yang terlatih, sopan, dan bersikap profesional saat melayani penumpang. | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 8 | **X2.4** | Saya percaya bahwa Green SM benar-benar peduli terhadap kenyamanan, hak, dan kepuasan perjalanan para penumpangnya. | [ ] | [ ] | [ ] | [ ] | [ ] |
 
+Sumber: Data diolah oleh penulis (2026), diadaptasi dari Kotler et al. (2022), Hera & Fourqoniah (2023), dan Adha & Suhardi (2025)
+
 ---
 
-### C. VARIABEL PERCEIVED SAFETY ($X_3$) - PERSEPSI KEAMANAN & KESELAMATAN
+### C. VARIABEL PERCEIVED SAFETY (X₃) - PERSEPSI KEAMANAN & KESELAMATAN
 
 | No | Kode | Butir Pernyataan | STS (1) | TS (2) | N (3) | S (4) | SS (5) |
 |---|---|---|:---:|:---:|:---:|:---:|:---:|
@@ -141,9 +145,11 @@ Mohon berikan penilaian Anda terhadap pernyataan-pernyataan di bawah ini dengan 
 | 11 | **X3.3** | Saya yakin teknologi baterai dan sistem kelistrikan mobil listrik Green SM aman dari risiko kebakaran, ledakan, atau kegagalan teknis. | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 12 | **X3.4** | Saya merasa tetap aman dan tidak khawatir menaiki taksi Green SM saat kondisi cuaca hujan lebat atau melewati jalanan basah di Jakarta Barat. | [ ] | [ ] | [ ] | [ ] | [ ] |
 
+Sumber: Data diolah oleh penulis (2026), diadaptasi dari Zeithaml et al. (2023), Tecoalu (2021), Patricia & Djong (2026), dan Vivi & Hikmah (2024)
+
 ---
 
-### D. VARIABEL PURCHASE DECISION ($Y$) - KEPUTUSAN PEMBELIAN / PENGGUNAAN JASA
+### D. VARIABEL PURCHASE DECISION (Y) - KEPUTUSAN PEMBELIAN / PENGGUNAAN JASA
 
 | No | Kode | Butir Pernyataan | STS (1) | TS (2) | N (3) | S (4) | SS (5) |
 |---|---|---|:---:|:---:|:---:|:---:|:---:|
@@ -151,6 +157,8 @@ Mohon berikan penilaian Anda terhadap pernyataan-pernyataan di bawah ini dengan 
 | 14 | **Y1.2** | Saya memprioritaskan penggunaan taksi Green SM saat membutuhkan moda transportasi taksi untuk mobilitas harian di Jakarta Barat. | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 15 | **Y1.3** | Saya bersedia merekomendasikan layanan taksi listrik Green SM kepada keluarga, teman, atau rekan kerja saya. | [ ] | [ ] | [ ] | [ ] | [ ] |
 | 16 | **Y1.4** | Saya akan terus memesan dan menggunakan kembali (*repeat usage*) jasa taksi Green SM untuk perjalanan-perjalanan berikutnya. | [ ] | [ ] | [ ] | [ ] | [ ] |
+
+Sumber: Data diolah oleh penulis (2026), diadaptasi dari Kotler et al. (2022), Tjiptono (2022), dan Nurlita & Arsyad (2025)
 
 ---
 

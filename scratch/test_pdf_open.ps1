@@ -1,5 +1,0 @@
-$pdfBytes = [System.IO.File]::ReadAllBytes("01_Naskah_Utama/Proposal_Skripsi_MLBB_GenZ.pdf")
-$pdfStr = [System.Text.Encoding]::ASCII.GetString($pdfBytes)
-Write-Output ("PDF Size: " + $pdfBytes.Length)
-Write-Output ("Contains 'Daftar OPEN': " + $pdfStr.Contains("Daftar OPEN"))
-Write-Output ("Contains 'P04': " + $pdfStr.Contains("P04"))

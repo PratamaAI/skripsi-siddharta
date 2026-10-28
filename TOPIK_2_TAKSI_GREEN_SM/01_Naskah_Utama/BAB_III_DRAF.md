@@ -35,22 +35,24 @@ Berikut disajikan tabel operasionalisasi variabel secara komprehensif:
 
 | Variabel & Definisi Konseptual | Dimensi | Indikator Empiris | Butir Pernyataan Kuesioner | Skala | Sumber Rujukan |
 |---|---|---|---|---|---|
-| *Brand Image* ($X_1$)<br>Persepsi konsumen terhadap taksi *Green SM* yang tercermin dalam ingatan asosiasi merek di benak konsumen (Kotler et al., 2022; Aaker, 2023). | 1. Citra Perusahaan (*Corporate Image*) | Reputasi dan profesionalisme korporasi *Green SM*. | X1.1: PT Xanh SM (*Green SM*) memiliki reputasi yang sangat baik dan kredibel sebagai operator taksi modern. | Likert (1–5) | Kotler et al. (2022); Asnawir & Simanjuntak (2024); Patria & Susila (2023). |
+| *Brand Image* (X₁)<br>Persepsi konsumen terhadap taksi *Green SM* yang tercermin dalam ingatan asosiasi merek di benak konsumen (Kotler et al., 2022; Aaker, 2023). | 1. Citra Perusahaan (*Corporate Image*) | Reputasi dan profesionalisme korporasi *Green SM*. | X1.1: PT Xanh SM (*Green SM*) memiliki reputasi yang sangat baik dan kredibel sebagai operator taksi modern. | Likert (1–5) | Kotler et al. (2022); Asnawir & Simanjuntak (2024); Patria & Susila (2023). |
 | | 2. Citra Pengguna (*User Image*) | Kesesuaian gaya hidup modern dan peduli lingkungan. | X1.2: Pengguna taksi *Green SM* mencerminkan pribadi masyarakat perkotaan yang modern, cerdas, dan peduli lingkungan (*eco-friendly*). | Likert (1–5) | Kotler et al. (2022); Nurlita & Arsyad (2025). |
 | | 3. Citra Produk/Armada (*Product Image*) | Ciri khas armada mobil listrik murni yang elegan dan mutakhir. | X1.3: Taksi *Green SM* memiliki ciri khas armada mobil listrik murni yang hening (*zero noise*), bersih, nyaman, dan berteknologi tinggi. | Likert (1–5) | Aaker (2023); Adha & Suhardi (2025); Wijaya & Pahar (2022). |
 | | | Identitas visual yang menarik dan mudah dikenali. | X1.4: Desain dan warna hijau toska (*cyan*) khas *Green SM* sangat distingtif dan mudah dikenali di jalanan Jakarta Barat. | Likert (1–5) | Kotler et al. (2022); Hera & Fourqoniah (2023). |
-| *Brand Trust* ($X_2$)<br>Kesediaan konsumen untuk mengandalkan keandalan dan integritas layanan taksi *Green SM* (Kotler et al., 2022; Hera & Fourqoniah, 2023; Adha & Suhardi, 2025). | 1. Keandalan Merek (*Brand Reliability*) | Ketepatan waktu dan keandalan operasional armada. | X2.1: Taksi *Green SM* selalu dapat diandalkan (*reliable*) dalam memberikan layanan penjemputan dan pengantaran tepat waktu. | Likert (1–5) | Hera & Fourqoniah (2023); Patria & Susila (2023). |
+| *Brand Trust* (X₂)<br>Kesediaan konsumen untuk mengandalkan keandalan dan integritas layanan taksi *Green SM* (Kotler et al., 2022; Hera & Fourqoniah, 2023; Adha & Suhardi, 2025). | 1. Keandalan Merek (*Brand Reliability*) | Ketepatan waktu dan keandalan operasional armada. | X2.1: Taksi *Green SM* selalu dapat diandalkan (*reliable*) dalam memberikan layanan penjemputan dan pengantaran tepat waktu. | Likert (1–5) | Hera & Fourqoniah (2023); Patria & Susila (2023). |
 | | 2. Integritas Tarif (*Financial Integrity*) | Transparansi dan kejujuran tarif argo/aplikasi. | X2.2: *Green SM* menerapkan penetapan tarif argo dan aplikasi yang jujur, transparan, dan tidak merugikan penumpang. | Likert (1–5) | Nurlita & Arsyad (2025); Putri & Harti (2022). |
 | | 3. Kompetensi Pengemudi (*Driver Competence*) | Keterampilan dan etika profesional pengemudi. | X2.3: Pengemudi *Green SM* memiliki kompetensi mengemudi yang tinggi, sopan, dan bersikap profesional melayani penumpang. | Likert (1–5) | Adha & Suhardi (2025); Wijaya & Pahar (2022). |
 | | 4. Kepedulian Konsumen (*Brand Benevolence*) | Komitmen mengutamakan kenyamanan konsumen. | X2.4: Saya yakin *Green SM* benar-benar peduli (*benevolent*) terhadap kenyamanan dan keselamatan perjalanan para penumpangnya. | Likert (1–5) | Fadila & Wahyuni (2025); Inggasari & Prabowo (2022). |
-| *Perceived Safety* ($X_3$)<br>Penilaian subjektif penumpang mengenai sejauh mana perjalanan bersama taksi listrik *Green SM* bebas dari risiko bahaya berkendara, kecelakaan, kriminalitas, maupun kegagalan teknis baterai/mesin *EV* (Zeithaml et al., 2023; Tjiptono, 2022; Wijaya & Pahar, 2022). | 1. Keselamatan Berkendara (*Driving Safety*) | Perilaku berkendara pengemudi yang tertib dan aman. | X3.1: Pengemudi taksi *Green SM* mengemudikan kendaraan secara aman, berhati-hati, dan mematuhi rambu lalu lintas di Jakarta Barat. | Likert (1–5) | Zeithaml et al. (2023); Wijaya & Pahar (2022). |
+| *Perceived Safety* (X₃)<br>Penilaian subjektif penumpang mengenai sejauh mana perjalanan bersama taksi listrik *Green SM* bebas dari risiko bahaya berkendara, kecelakaan, kriminalitas, maupun kegagalan teknis baterai/mesin *EV* (Zeithaml et al., 2023; Tjiptono, 2022; Wijaya & Pahar, 2022). | 1. Keselamatan Berkendara (*Driving Safety*) | Perilaku berkendara pengemudi yang tertib dan aman. | X3.1: Pengemudi taksi *Green SM* mengemudikan kendaraan secara aman, berhati-hati, dan mematuhi rambu lalu lintas di Jakarta Barat. | Likert (1–5) | Zeithaml et al. (2023); Wijaya & Pahar (2022). |
 | | 2. Keamanan Pribadi (*Personal Security*) | Rasa aman dari risiko tindak kriminalitas dan pelecehan. | X3.2: Saya merasa sangat aman dari risiko kejahatan, penipuan, atau gangguan keamanan selama berada di dalam kabin *Green SM*. | Likert (1–5) | Patricia & Djong (2026); Tecoalu (2021); Devananda & Hartono (2023). |
 | | 3. Keandalan Teknis Baterai & Armada *EV* (*Vehicle Safety*) | Keamanan baterai dan sistem kelistrikan mobil listrik. | X3.3: Saya yakin teknologi baterai dan sistem kelistrikan armada mobil listrik *Green SM* aman dari risiko kebakaran atau malfungsi teknis. | Likert (1–5) | Adha & Suhardi (2025); Wijaya & Pahar (2022). |
 | | | Ketahanan armada di cuaca ekstrem/jalan basah. | X3.4: Saya merasa aman menggunakan taksi *Green SM* meskipun saat cuaca hujan lebat atau melintasi jalanan basah di Jakarta Barat. | Likert (1–5) | Wulandari (2021); Vivi & Hikmah (2024). |
-| *Purchase Decision* ($Y$)<br>Tindakan nyata konsumen dalam memilih, memesan, dan menggunakan jasa taksi *Green SM* untuk memenuhi kebutuhan transportasinya di Jakarta Barat (Kotler et al., 2022; Tjiptono, 2022). | 1. Kemantapan pada Produk/Jasa | Keyakinan memilih taksi *Green SM* dibanding alternatif lain. | Y1.1: Saya merasa mantap dan yakin untuk memilih jasa taksi *Green SM* dibanding penyedia transportasi penumpang lainnya. | Likert (1–5) | Kotler et al. (2022); Nurlita & Arsyad (2025); Hera & Fourqoniah (2023). |
+| *Purchase Decision* (Y)<br>Tindakan nyata konsumen dalam memilih, memesan, dan menggunakan jasa taksi *Green SM* untuk memenuhi kebutuhan transportasinya di Jakarta Barat (Kotler et al., 2022; Tjiptono, 2022). | 1. Kemantapan pada Produk/Jasa | Keyakinan memilih taksi *Green SM* dibanding alternatif lain. | Y1.1: Saya merasa mantap dan yakin untuk memilih jasa taksi *Green SM* dibanding penyedia transportasi penumpang lainnya. | Likert (1–5) | Kotler et al. (2022); Nurlita & Arsyad (2025); Hera & Fourqoniah (2023). |
 | | 2. Kebiasaan Penggunaan Jasa | Menjadikan *Green SM* sebagai preferensi mobilitas harian. | Y1.2: Saya memprioritaskan penggunaan taksi *Green SM* saat membutuhkan moda transportasi taksi di kawasan Jakarta Barat. | Likert (1–5) | Kotler et al. (2022); Wijaya & Pahar (2022). |
 | | 3. Rekomendasi kepada Pihak Lain | Kesediaan menyarankan *Green SM* kepada orang lain. | Y1.3: Saya bersedia merekomendasikan layanan taksi *Green SM* kepada keluarga, teman, atau rekan kerja saya. | Likert (1–5) | Kotler et al. (2022); Hera & Fourqoniah (2023). |
 | | 4. Melakukan Penggunaan Kembali (*Repeat Usage*) | Niat dan tindakan untuk terus menggunakan layanan di masa depan. | Y1.4: Saya akan terus memesan dan menggunakan kembali (*repeat usage*) jasa taksi *Green SM* untuk perjalanan-perjalanan berikutnya. | Likert (1–5) | Kotler et al. (2022); Nurlita & Arsyad (2025). |
+
+Sumber: Data diolah oleh penulis (2026), diadaptasi dari Kotler et al. (2022), Aaker (2023), Zeithaml et al. (2023), Tjiptono (2022), Wijaya & Pahar (2022), Hera & Fourqoniah (2023), dan Adha & Suhardi (2025)
 
 ---
 
@@ -69,24 +71,29 @@ Kriteria inklusi responden (*screening questions*) dalam penelitian ini meliputi
 4. Pernah menggunakan jasa taksi *Green SM* minimal satu kali **ATAU** sedang mempertimbangkan secara aktif untuk memilih menggunakan taksi *Green SM* dalam waktu dekat (*prospective users*).
 
 ### 3.3.3 Penentuan Ukuran Sampel (*Sample Size*)
-Dalam menentukan ukuran sampel minimum untuk populasi yang tidak diketahui jumlahnya (*infinite population*), peneliti mengacu pada formula populasi tidak diketahui (*unknown population*) yang dirumuskan oleh Lemeshow sebagaimana disintesis dalam Sugiyono (2022) dan Ghozali (2021):
+Dalam menentukan ukuran sampel minimum untuk populasi yang tidak diketahui jumlahnya secara pasti (*infinite / unknown population*), peneliti mengacu pada formula estimasi proporsi populasi yang dirumuskan oleh Lemeshow sebagaimana disintesis dalam Sugiyono (2022) dan Ghozali (2021):
 
-$$n = \frac{Z_{1-\alpha/2}^2 \cdot P (1 - P)}{d^2}$$
+**Rumus Lemeshow:**
+> **n = [ Z² × P × (1 – P) ] / d²**
 
 Keterangan:
-- $n$ = Jumlah sampel yang diperlukan
-- $Z_{1-\alpha/2}$ = Nilai distribusi normal standar pada tingkat kepercayaan (*confidence level*) 95% = 1,96
-- $P$ = Estimasi proporsi populasi (apabila prevalensi tidak diketahui, diasumsikan varians maksimum $P = 0,50$)
-- $d$ = Tingkat kesalahan maksimal yang ditoleransi (*margin of error*), ditetapkan sebesar 10% ($0,10$)
+- **n** = Jumlah sampel minimum yang diperlukan
+- **Z** = Nilai skor standar distribusi normal pada tingkat kepercayaan (*confidence level*) 95% (Z = 1,96)
+- **P** = Estimasi proporsi atau prevalensi populasi (karena proporsi pengguna belum diketahui pasti, diasumsikan varians maksimum P = 0,50)
+- **d** = Tingkat kesalahan maksimal yang masih dapat ditoleransi (*margin of error*), ditetapkan sebesar 10% (d = 0,10)
 
-Perhitungan:
-$$n = \frac{(1,96)^2 \cdot 0,50 \cdot (1 - 0,50)}{(0,10)^2} = \frac{3,8416 \cdot 0,25}{0,01} = \frac{0,9604}{0,01} = 96,04 \approx 100 \text{ responden}$$
+Langkah perhitungan penentuan ukuran sampel:
+1. Menghitung pembilang: (1,96)² × 0,50 × (1 – 0,50) = 3,8416 × 0,25 = 0,9604
+2. Menghitung penyebut: (0,10)² = 0,01
+3. Menghitung ukuran sampel (n): 0,9604 / 0,01 = 96,04
 
-Selain itu, berdasarkan rekomendasi Hair, Page, dan Brunsveld (2021) serta Hair *et al.* (2022), rasio ukuran sampel yang ideal untuk analisis multivariat adalah 5 hingga 10 kali jumlah indikator pertanyaan yang diestimasi. Penelitian ini memiliki 16 butir pernyataan indikator, sehingga batas ukuran sampel yang dianjurkan adalah:
-$$\text{Sampel Minimum} = 16 \times 5 = 80 \text{ responden}$$
-$$\text{Sampel Ideal} = 16 \times 10 = 160 \text{ responden}$$
+Berdasarkan hasil perhitungan matematis tersebut, diperoleh nilai n = 96,04 yang kemudian dibulatkan ke atas menjadi minimal **100 responden**.
 
-Berdasarkan sintesis formula estimasi populasi tidak diketahui dan pedoman Hair *et al.* (2021, 2022), serta untuk mengantisipasi potensi kuesioner yang tidak terisi lengkap (*outlier* atau data *drop-out*), maka peneliti menetapkan jumlah sampel target dalam penelitian ini sebanyak **120 hingga 150 responden**. Jumlah ini dipandang sangat representatif dan memenuhi syarat kekuatan statistik (*statistical power*) untuk uji regresi linear berganda.
+Selain mengacu pada formula Lemeshow, peneliti juga mempertimbangkan pedoman rasio ukuran sampel untuk analisis multivariat menurut Hair, Page, dan Brunsveld (2021) serta Hair *et al.* (2022), yang menyatakan bahwa rasio sampel yang memadai adalah antara 5 hingga 10 kali jumlah indikator pertanyaan penelitian. Karena penelitian ini mengoperasionalkan 16 butir indikator pernyataan (Tabel 3.1), maka batas kecukupan sampel yang dianjurkan adalah:
+- **Sampel Minimum (Rasio 5 : 1)** = 16 indikator × 5 = **80 responden**
+- **Sampel Ideal (Rasio 10 : 1)** = 16 indikator × 10 = **160 responden**
+
+Berdasarkan sintesis antara formula Lemeshow (minimal 100 responden) dan pedoman rasio multivariat Hair et al. (80–160 responden), serta untuk mengantisipasi potensi kuesioner yang tidak terisi secara lengkap (*outlier* atau *drop-out* data), maka peneliti menetapkan target jumlah sampel dalam penelitian ini sebanyak **120 hingga 150 responden**. Jumlah ini dipandang sangat representatif, memenuhi seluruh kriteria metodologis, serta memiliki kekuatan statistik (*statistical power*) yang memadai untuk pengujian regresi linear berganda.
 
 ---
 
@@ -110,21 +117,40 @@ Digunakan untuk memberikan gambaran umum mengenai profil demografis responden (j
 ### 3.5.2 Uji Kualitas Data (Uji Instrumen)
 
 #### A. Uji Validitas
-Uji validitas digunakan untuk mengukur sah atau valid tidaknya suatu kuesioner (Ghozali, 2021). Suatu kuesioner dikatakan valid jika pertanyaan pada kuesioner mampu mengungkapkan sesuatu yang akan diukur oleh kuesioner tersebut. Pengujian dilakukan dengan metode korelasi *Bivariate Pearson Product Moment*, yaitu mengorelasikan skor masing-masing butir pertanyaan dengan skor total konstruk variabel:
+Uji validitas digunakan untuk mengukur sah atau valid tidaknya suatu kuesioner (Ghozali, 2021). Suatu kuesioner dikatakan valid jika pertanyaan pada kuesioner mampu mengungkapkan sesuatu yang akan diukur oleh kuesioner tersebut. Pengujian validitas dilakukan dengan menggunakan metode analisis korelasi *Bivariate Pearson Product Moment* (Ghozali, 2021), yaitu dengan mengorelasikan skor masing-masing butir pernyataan terhadap skor total konstruk variabel:
 
-$$r = \frac{n \sum XY - (\sum X)(\sum Y)}{\sqrt{[n \sum X^2 - (\sum X)^2][n \sum Y^2 - (\sum Y)^2]}}$$
+**Rumus Korelasi Pearson Product Moment:**
+> **r = [ n(ΣXY) – (ΣX)(ΣY) ] / √{ [ n(ΣX²) – (ΣX)² ] [ n(ΣY²) – (ΣY)² ] }**
 
-**Kriteria Keputusan:**
-- Jika $r_{hitung} > r_{tabel}$ pada tingkat signifikansi $\alpha = 0,05$ ($df = n - 2$), maka butir pernyataan dinyatakan **valid**.
-- Jika $r_{hitung} \le r_{tabel}$, maka butir pernyataan dinyatakan **tidak valid** dan digugurkan dari analisis selanjutnya.
+Keterangan:
+- **r** = Koefisien korelasi *Pearson* antara skor butir dan skor total konstruk
+- **n** = Jumlah responden sampel penelitian
+- **X** = Skor masing-masing butir pernyataan yang diuji
+- **Y** = Skor total dari seluruh butir pernyataan dalam variabel tersebut
+- **ΣX** = Jumlah total skor butir pernyataan X
+- **ΣY** = Jumlah total skor variabel Y
+- **ΣX²** = Jumlah kuadrat dari skor butir pernyataan X
+- **ΣY²** = Jumlah kuadrat dari skor total variabel Y
+- **ΣXY** = Jumlah hasil perkalian antara skor butir pernyataan X dan skor total Y
+
+**Kriteria Pengambilan Keputusan Validitas:**
+- Jika **r_hitung > r_tabel** pada tingkat signifikansi α = 0,05 dengan derajat kebebasan (df = n – 2), maka butir pernyataan dinyatakan **valid** dan dapat digunakan dalam instrumen penelitian.
+- Jika **r_hitung ≤ r_tabel**, maka butir pernyataan dinyatakan **tidak valid** dan harus digugurkan dari pengujian selanjutnya.
 
 #### B. Uji Reliabilitas
-Uji reliabilitas adalah alat untuk mengukur suatu kuesioner yang merupakan indikator dari suatu peubah atau konstruk. Kuesioner dikatakan reliabel atau handal jika jawaban seseorang terhadap pernyataan adalah konsisten atau stabil dari waktu ke waktu (Ghozali, 2021). Uji reliabilitas dilakukan dengan metode uji statistik *Cronbach's Alpha* ($\alpha$):
+Uji reliabilitas adalah alat untuk mengukur keandalan dan konsistensi suatu kuesioner yang merupakan indikator dari konstruk variabel. Kuesioner dinyatakan reliabel atau handal apabila jawaban responden terhadap butir-butir pernyataan bersifat konsisten dan stabil dari waktu ke waktu (Ghozali, 2021). Uji reliabilitas dalam penelitian ini dilakukan dengan metode koefisien *Cronbach's Alpha* (α):
 
-$$\alpha = \left(\frac{k}{k-1}\right) \left(1 - \frac{\sum \sigma_b^2}{\sigma_t^2}\right)$$
+**Rumus Cronbach's Alpha:**
+> **α = [ k / (k – 1) ] × [ 1 – (Σσb² / σt²) ]**
 
-**Kriteria Keputusan:**
-- Suatu konstruk atau variabel dinyatakan **reliabel** apabila nilai *Cronbach's Alpha* $\ge 0,70$ (Hair *et al.*, 2022; Ghozali, 2021).
+Keterangan:
+- **α** = Koefisien reliabilitas instrumen (*Cronbach's Alpha*)
+- **k** = Jumlah butir pernyataan dalam konstruk variabel yang diuji
+- **Σσb²** = Jumlah varians butir dari masing-masing pernyataan
+- **σt²** = Varians total dari keseluruhan butir pernyataan dalam variabel
+
+**Kriteria Pengambilan Keputusan Reliabilitas:**
+- Suatu konstruk atau variabel dinyatakan **reliabel** apabila nilai koefisien *Cronbach's Alpha* (α) **≥ 0,70** (Hair *et al.*, 2022; Ghozali, 2021). Konstruk yang memiliki nilai α ≥ 0,70 menunjukkan tingkat konsistensi internal yang sangat baik untuk analisis lebih lanjut.
 
 ---
 
@@ -134,50 +160,57 @@ Sebelum melakukan analisis regresi linear berganda, perlu dilakukan uji asumsi k
 #### A. Uji Normalitas
 Bertujuan untuk menguji apakah dalam model regresi, variabel pengganggu atau residual memiliki distribusi normal. Uji normalitas dilakukan dengan dua pendekatan:
 1. Pendekatan grafik *Normal Probability Plot* (*P-P Plot*): Data terdistribusi normal jika titik-titik data menyebar di sekitar garis diagonal dan mengikuti arah garis diagonal.
-2. Uji statistik non-parametrik *One-Sample Kolmogorov-Smirnov* (*K-S*): Residual berdistribusi normal jika nilai signifikansi *Asymp. Sig. (2-tailed)* $> 0,05$.
+2. Uji statistik non-parametrik *One-Sample Kolmogorov-Smirnov* (*K-S*): Residual berdistribusi normal jika nilai signifikansi *Asymp. Sig. (2-tailed)* > 0,05.
 
 #### B. Uji Multikolinearitas
 Bertujuan untuk menguji apakah model regresi menemukan adanya korelasi yang sempurna atau mendekati sempurna antar-variabel independen. Model regresi yang baik seharusnya tidak terjadi korelasi di antara variabel independen.
-- **Kriteria:** Tidak terjadi multikolinearitas jika nilai *Tolerance* $> 0,10$ dan nilai *Variance Inflation Factor* (*VIF*) $< 10$ (Ghozali, 2021).
+- **Kriteria:** Tidak terjadi multikolinearitas jika nilai *Tolerance* > 0,10 dan nilai *Variance Inflation Factor* (*VIF*) < 10 (Ghozali, 2021).
 
 #### C. Uji Heteroskedastisitas
 Bertujuan untuk menguji apakah dalam model regresi terjadi ketidaksamaan varians dari residual satu pengamatan ke pengamatan yang lain. Pengujian dilakukan melalui:
 1. Analisis grafik *Scatterplot* antara nilai prediksi variabel terikat (*ZPRED*) dengan residualnya (*SRESID*): Model bebas heteroskedastisitas jika titik-titik menyebar secara acak di atas dan di bawah angka 0 pada sumbu Y tanpa membentuk pola teratur tertentu.
-2. Uji Glejser (*Glejser Test*): Meregresikan nilai absolut residual ($|Ut|$) terhadap seluruh variabel independen. Bebas heteroskedastisitas jika nilai signifikansi seluruh variabel independen terhadap absolut residual $> 0,05$.
+2. Uji Glejser (*Glejser Test*): Meregresikan nilai absolut residual (|e|) terhadap seluruh variabel independen. Bebas heteroskedastisitas jika nilai signifikansi seluruh variabel independen terhadap nilai absolut residual > 0,05.
 
 ---
 
 ### 3.5.4 Analisis Regresi Linear Berganda
-Analisis regresi linear berganda (*multiple linear regression*) digunakan untuk menguji besarnya pengaruh parsial dari masing-masing variabel independen ($X_1, X_2, X_3$) terhadap variabel dependen ($Y$). Persamaan regresi linear berganda dirumuskan sebagai berikut:
+Analisis regresi linear berganda (*multiple linear regression*) digunakan untuk menguji besarnya pengaruh parsial dari masing-masing variabel independen (X₁, X₂, X₃) terhadap variabel dependen (Y). Persamaan model regresi linear berganda dalam penelitian ini dirumuskan sebagai berikut:
 
-$$Y = \alpha + \beta_1 X_1 + \beta_2 X_2 + \beta_3 X_3 + e$$
+**Model Persamaan Regresi:**
+> **Y = α + β₁X₁ + β₂X₂ + β₃X₃ + e**
 
 Keterangan:
-- $Y$ = *Purchase Decision* (Keputusan Pembelian/Penggunaan Jasa)
-- $\alpha$ = Konstanta (nilai $Y$ apabila seluruh $X = 0$)
-- $\beta_1$ = Koefisien regresi *Brand Image* ($X_1$)
-- $\beta_2$ = Koefisien regresi *Brand Trust* ($X_2$)
-- $\beta_3$ = Koefisien regresi *Perceived Safety* ($X_3$)
-- $X_1$ = *Brand Image*
-- $X_2$ = *Brand Trust*
-- $X_3$ = *Perceived Safety*
-- $e$ = *Standard error* / variabel residual pengganggu
+- **Y** = *Purchase Decision* (Keputusan Pembelian / Penggunaan Jasa Taksi *Green SM*)
+- **α** = Nilai konstanta (*intercept*), yaitu nilai Y apabila seluruh variabel independen bernilai nol (X₁ = X₂ = X₃ = 0)
+- **β₁** = Koefisien regresi variabel *Brand Image* (X₁)
+- **β₂** = Koefisien regresi variabel *Brand Trust* (X₂)
+- **β₃** = Koefisien regresi variabel *Perceived Safety* (X₃)
+- **X₁** = Nilai skor variabel *Brand Image*
+- **X₂** = Nilai skor variabel *Brand Trust*
+- **X₃** = Nilai skor variabel *Perceived Safety*
+- **e** = *Standard error* / variabel residual (*error term*, yaitu faktor pengganggu lain di luar model penelitian)
 
 ---
 
-### 3.5.5 Pengujian Hipotesis dan Koefisien Determinasi
+### 3.5.5 Evaluasi Model dan Pengujian Hipotesis
 
-Pengujian hipotesis dalam penelitian ini difokuskan pada pengujian signifikansi pengaruh individual (parsial) dari variabel independen terhadap variabel dependen melalui uji statistik t, serta evaluasi proporsi daya penjelas model melalui analisis koefisien determinasi ($R^2$). Sesuai dengan arahan dosen pembimbing, pengujian ANOVA / Uji F simultan ditiadakan karena fokus penelitian tertuju secara spesifik pada pengujian kausalitas parsial masing-masing variabel bebas ($X_1, X_2, X_3$) terhadap keputusan pembelian ($Y$).
+Evaluasi kelayakan model dan pengujian hipotesis dalam analisis regresi linear berganda dilakukan melalui tiga tahapan analisis statistik yang saling melengkapi (Ghozali, 2021; Sugiyono, 2022):
 
-#### A. Koefisien Determinasi ($R^2$)
-Koefisien determinasi ($R^2$ atau *Adjusted* $R^2$) mengukur seberapa jauh proporsi kemampuan model dalam menerangkan variasi variabel dependen. Nilai koefisien determinasi berkisar antara 0 sampai 1 ($0 \le R^2 \le 1$). Nilai *Adjusted* $R^2$ yang semakin mendekati 1 mengindikasikan bahwa variabel-variabel independen (*Brand Image*, *Brand Trust*, dan *Perceived Safety*) memberikan hampir seluruh informasi yang dibutuhkan untuk menjelaskan variasi keputusan pembelian (*Purchase Decision*).
+#### A. Analisis Koefisien Determinasi (R²)
+Koefisien determinasi (R² atau *Adjusted* R²) mengukur seberapa jauh proporsi kemampuan model regresi dalam menerangkan variasi variabel dependen. Nilai koefisien determinasi berkisar antara 0 sampai 1 (0 ≤ R² ≤ 1). Nilai *Adjusted* R² yang semakin mendekati 1 mengindikasikan bahwa variabel-variabel independen (*Brand Image*, *Brand Trust*, dan *Perceived Safety*) memberikan hampir seluruh informasi yang dibutuhkan untuk menjelaskan variasi keputusan pembelian (*Purchase Decision*).
 
-#### B. Pengujian Hipotesis Parsial (Uji Statistik t)
-Pengujian hipotesis penelitian difokuskan pada pengaruh masing-masing variabel independen secara individual (parsial) terhadap variabel dependen melalui uji statistik t (*t-test*), guna membuktikan hipotesis $H_1, H_2,$ dan $H_3$:
-1. **Pengujian $H_1$:** Pengaruh *Brand Image* ($X_1$) terhadap *Purchase Decision* ($Y$).
-2. **Pengujian $H_2$:** Pengaruh *Brand Trust* ($X_2$) terhadap *Purchase Decision* ($Y$).
-3. **Pengujian $H_3$:** Pengaruh *Perceived Safety* ($X_3$) terhadap *Purchase Decision* ($Y$).
+#### B. Uji Kelayakan Model (Uji Statistik F / ANOVA)
+Uji statistik F digunakan untuk menguji kelayakan model regresi (*Goodness of Fit*) secara simultan, yaitu membuktikan apakah seluruh variabel independen (X₁, X₂, X₃) yang dimasukkan ke dalam model secara bersama-sama memiliki pengaruh yang nyata terhadap variabel dependen (Y) (Ghozali, 2021).
+- **Kriteria Pengambilan Keputusan Kelayakan Model pada tingkat signifikansi α = 0,05:**
+  - Jika **F_hitung > F_tabel** dan nilai **Sig. < 0,05**, maka model regresi dinyatakan **layak (*fit*)** dan dapat digunakan untuk memprediksi keputusan pembelian (*Purchase Decision*).
+  - Jika **F_hitung ≤ F_tabel** atau nilai **Sig. ≥ 0,05**, maka model regresi dinyatakan **tidak layak (*not fit*)**.
 
-- **Kriteria Keputusan pada tingkat signifikansi $\alpha = 0,05$ (uji dua sisi / *two-tailed*):**
-  - Jika $t_{hitung} > t_{tabel}$ dan nilai $\text{Sig.} < 0,05$, serta arah koefisien regresi bertanda positif ($\beta > 0$), maka hipotesis penelitian ($H_1, H_2,$ atau $H_3$) **diterima**.
-  - Jika $t_{hitung} \le t_{tabel}$ atau nilai $\text{Sig.} \ge 0,05$, maka hipotesis penelitian **ditolak**.
+#### C. Pengujian Hipotesis Parsial (Uji Statistik t)
+Pengujian hipotesis penelitian difokuskan pada pembuktian pengaruh kausalitas masing-masing variabel independen secara individual (parsial) terhadap variabel dependen melalui uji statistik t (*t-test*), guna menguji kebenaran hipotesis H₁, H₂, dan H₃:
+1. **Pengujian H₁:** Menguji pengaruh *Brand Image* (X₁) terhadap *Purchase Decision* (Y).
+2. **Pengujian H₂:** Menguji pengaruh *Brand Trust* (X₂) terhadap *Purchase Decision* (Y).
+3. **Pengujian H₃:** Menguji pengaruh *Perceived Safety* (X₃) terhadap *Purchase Decision* (Y).
+
+- **Kriteria Pengambilan Keputusan Uji t pada tingkat signifikansi α = 0,05 (uji dua sisi / *two-tailed*):**
+  - Jika **t_hitung > t_tabel** dan nilai **Sig. < 0,05**, serta arah koefisien regresi bertanda positif (**β > 0**), maka hipotesis penelitian (H₁, H₂, atau H₃) dinyatakan **diterima**. Hal ini membuktikan bahwa variabel independen secara parsial berpengaruh positif dan signifikan terhadap keputusan pembelian konsumen.
+  - Jika **t_hitung ≤ t_tabel** atau nilai **Sig. ≥ 0,05**, maka hipotesis penelitian dinyatakan **ditolak**.

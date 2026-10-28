@@ -276,6 +276,7 @@ try {
         $lines = Get-Content $filePath -Encoding utf8
         $inTable = $false
         $tableLines = @()
+        $lastWasImage = $false
         
         for ($i = 0; $i -lt $lines.Count; $i++) {
             $line = $lines[$i]
@@ -299,6 +300,20 @@ try {
             # Clean all markdown markers (asterisks, backticks, math signs)
             # This guarantees that the base text is 100% REGULAR / TEGAK!
             $clean = $trimmed -replace '\*\*\*', '' -replace '\*\*', '' -replace '\*', '' -replace '`', '' -replace '\$\$(.*?)\$\$', '$1' -replace '\$(.*?)\$', '$1'
+            $clean = $clean -replace '\\frac\{(.*?)\}\{(.*?)\}', '[$1] / [$2]' `
+                            -replace '\\cdot', ' × ' `
+                            -replace '\\times', ' × ' `
+                            -replace '\\alpha', 'α' `
+                            -replace '\\beta', 'β' `
+                            -replace '\\sigma', 'σ' `
+                            -replace '\\sum', 'Σ' `
+                            -replace '\\sqrt\{(.*?)\}', '√($1)' `
+                            -replace '\\approx', '≈' `
+                            -replace '\\le', '≤' `
+                            -replace '\\ge', '≥' `
+                            -replace '\\text\{(.*?)\}', '$1' `
+                            -replace '\\_', '_' `
+                            -replace '\{', '' -replace '\}', ''
             
             # Markdown Image: ![alt](path)
             if ($trimmed -match '^!\[(.*?)\]\((.*?)\)') {
@@ -321,7 +336,7 @@ try {
                     $pImg = $doc.Paragraphs.Add()
                     $pImg.Alignment = 1 # Center
                     $pImg.Format.SpaceBefore = 4
-                    $pImg.Format.SpaceAfter = 12
+                    $pImg.Format.SpaceAfter = 3
                     $resolvedPath = [string](Resolve-Path $imgPath).Path
                     $shp = $pImg.Range.InlineShapes.AddPicture($resolvedPath, $false, $true)
                     $shp.Width = 14.5 * 28.3465
@@ -331,51 +346,89 @@ try {
                         $shp.Height = ($shp.Width * 1060.0) / 2400.0
                     }
                     $pImg.Range.InsertParagraphAfter()
+                    $lastWasImage = $true
                 }
             }
             # Heading 1
             elseif ($trimmed -match '^# (.*)') {
                 $h = $matches[1] -replace '\*', ''
                 Add-PlainPara $h -alignment 1 -bold $true -italic $false -size 14 -spaceAfter 12 -keepWithNext $true
+                $lastWasImage = $false
             }
             # Heading 2
             elseif ($trimmed -match '^## (.*)') {
                 $h = $matches[1] -replace '\*', ''
                 Add-PlainPara $h -alignment 0 -bold $true -italic $false -size 12 -spaceAfter 8 -keepWithNext $true
+                $lastWasImage = $false
             }
             # Heading 3
             elseif ($trimmed -match '^### (.*)') {
                 $h = $matches[1] -replace '\*', ''
                 Add-PlainPara $h -alignment 0 -bold $true -italic $false -size 12 -spaceAfter 6 -keepWithNext $true
+                $lastWasImage = $false
             }
             # Heading 4
             elseif ($trimmed -match '^#### (.*)') {
                 $h = $matches[1] -replace '\*', ''
                 Add-PlainPara $h -alignment 0 -bold $true -italic $true -size 12 -spaceAfter 4 -keepWithNext $true
+                $lastWasImage = $false
             }
             # Blockquote
             elseif ($trimmed -match '^> (.*)') {
-                $bq = $matches[1] -replace '\*', ''
-                Add-PlainPara $bq -alignment 3 -bold $false -italic $true -size 11 -spaceAfter 8 -firstLineIndent (1.25 * 28.3465)
+                $bq = $matches[1] -replace '\*\*\*', '' -replace '\*\*', '' -replace '\*', '' -replace '`', '' -replace '\$\$(.*?)\$\$', '$1' -replace '\$(.*?)\$', '$1'
+                $bq = $bq -replace '\\frac\{(.*?)\}\{(.*?)\}', '[$1] / [$2]' `
+                          -replace '\\cdot', ' × ' `
+                          -replace '\\times', ' × ' `
+                          -replace '\\alpha', 'α' `
+                          -replace '\\beta', 'β' `
+                          -replace '\\sigma', 'σ' `
+                          -replace '\\sum', 'Σ' `
+                          -replace '\\sqrt\{(.*?)\}', '√($1)' `
+                          -replace '\\approx', '≈' `
+                          -replace '\\le', '≤' `
+                          -replace '\\ge', '≥' `
+                          -replace '\\text\{(.*?)\}', '$1' `
+                          -replace '\\_', '_' `
+                          -replace '\{', '' -replace '\}', ''
+                if ($bq -match '^\s*[nrαY]\s*=\s*' -or $bq -match 'Rumus|Model Persamaan') {
+                    Add-PlainPara $bq -alignment 1 -bold $true -italic $false -size 11.5 -spaceBefore 6 -spaceAfter 8 -firstLineIndent 0
+                } else {
+                    Add-PlainPara $bq -alignment 3 -bold $false -italic $true -size 11 -spaceAfter 8 -firstLineIndent (1.25 * 28.3465)
+                }
+                $lastWasImage = $false
             }
             # Normal paragraph, captions, or list items
             else {
                 # Table Caption: Tabel 2.1 ...
                 if ($clean -match '^(Tabel\s+[0-9\.]+\s+.*)') {
                     Add-PlainPara $clean -alignment 0 -bold $true -italic $false -size 11 -spaceBefore 10 -spaceAfter 4 -keepWithNext $true
+                    $lastWasImage = $false
                 }
                 # Figure Caption: Gambar 2.1 ... (Placed above image)
                 elseif ($clean -match '^(Gambar\s+[0-9\.]+\s+.*)') {
                     Add-PlainPara $clean -alignment 1 -bold $true -italic $false -size 11 -spaceBefore 10 -spaceAfter 4 -keepWithNext $true
+                    $lastWasImage = $false
+                }
+                # Source note below Table or Figure: Sumber: ...
+                elseif ($clean -match '^(Sumber:\s*.*)') {
+                    if ($lastWasImage) {
+                        Add-PlainPara $clean -alignment 1 -bold $false -italic $true -size 10 -spaceBefore 3 -spaceAfter 14 -firstLineIndent 0 -lineSpacing 12
+                        $lastWasImage = $false
+                    } else {
+                        Add-PlainPara $clean -alignment 0 -bold $false -italic $true -size 10 -spaceBefore 2 -spaceAfter 14 -firstLineIndent 0 -lineSpacing 12
+                    }
                 }
                 # List items
                 elseif ($clean -match '^[0-9]+\.\s+(.*)') {
                     Add-PlainPara $clean -alignment 3 -bold $false -italic $false -size 12 -spaceAfter 4 -firstLineIndent (0.75 * 28.3465)
+                    $lastWasImage = $false
                 } elseif ($clean -match '^-\s+(.*)') {
                     Add-PlainPara $clean -alignment 3 -bold $false -italic $false -size 12 -spaceAfter 4 -firstLineIndent (0.75 * 28.3465)
+                    $lastWasImage = $false
                 } else {
                     # Standard body text: 100% TEGAK / NORMAL!
                     Add-PlainPara $clean -alignment 3 -bold $false -italic $false -size 12 -spaceAfter 6 -firstLineIndent (1.25 * 28.3465)
+                    $lastWasImage = $false
                 }
             }
         }
@@ -403,6 +456,7 @@ try {
         foreach ($r in $cleanRows) {
             $cells = $r.Trim('|').Split('|') | ForEach-Object { 
                 $cClean = $_.Trim() -replace '\*\*\*', '' -replace '\*\*', '' -replace '\*', '' -replace '`', '' -replace '<br>', "`n" -replace '\$\$(.*?)\$\$', '$1' -replace '\$(.*?)\$', '$1'
+                $cClean = $cClean -replace '\\alpha', 'α' -replace '\\beta', 'β' -replace '\\sigma', 'σ' -replace '\\sum', 'Σ' -replace '\\le', '≤' -replace '\\ge', '≥' -replace '\\approx', '≈' -replace '\\text\{(.*?)\}', '$1' -replace '\{', '' -replace '\}', ''
                 $cClean
             }
             $tableData += ,@($cells)
@@ -462,11 +516,6 @@ try {
             }
         }
         $tbl.AutoFitBehavior(2) # wdAutoFitWindow
-        
-        $pAfter = $doc.Paragraphs.Add()
-        $pAfter.Range.Text = ""
-        $pAfter.Format.SpaceAfter = 6
-        $pAfter.Range.InsertParagraphAfter()
     }
 
     Write-Host "Appending BAB I..."
